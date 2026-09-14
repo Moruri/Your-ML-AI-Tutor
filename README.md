@@ -4,10 +4,14 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Friday 2026-09-11, Week 1 Day 1):**
+**Today's lessons (Monday 2026-09-14, Week 2 Day 1):**
 
-- [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
-- [Lesson 002 - Python warm-up for data people](lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/README.md)
+- [Lesson 003 - Numbers, strings and the things that bite](lessons/phase-0-python/lesson-003-numbers-strings-and-the-things-that-bite/README.md)
+- [Lesson 004 - Lists and tuples, properly](lessons/phase-0-python/lesson-004-lists-and-tuples-properly/README.md)
+
+New here? Start at
+[Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
+and work forward; the numbering is the path.
 
 The full road map is in [curriculum/CURRICULUM.md](curriculum/CURRICULUM.md).
 What's been published so far is in [curriculum/PROGRESS.md](curriculum/PROGRESS.md).
@@ -75,7 +79,14 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 
 # Run lesson 002
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
+
+# Run today's lessons
+python lessons/phase-0-python/lesson-003-numbers-strings-and-the-things-that-bite/lesson.py
+python lessons/phase-0-python/lesson-004-lists-and-tuples-properly/lesson.py
 ```
+
+Every `lesson.py` also runs from inside its own folder; the scripts find
+their own data files wherever you launch them from.
 
 Phase 0 lessons need **no installs**. When you reach Phase 1 the lesson will
 tell you to create a virtual environment and install from
@@ -104,6 +115,14 @@ lessons/
       lesson.py
       exercises.md
       coffee_orders.csv
+    lesson-003-numbers-strings-and-the-things-that-bite/
+      README.md
+      lesson.py
+      exercises.md
+    lesson-004-lists-and-tuples-properly/
+      README.md
+      lesson.py
+      exercises.md
 curriculum/
   CURRICULUM.md      # every lesson, grouped by phase, with a one-line goal
   PROGRESS.md        # what's published and what's next
