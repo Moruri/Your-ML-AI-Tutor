@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Monday 2026-09-14, Week 2 Day 1):**
+**Today's lessons (Tuesday 2026-09-15, Week 2 Day 2):**
 
-- [Lesson 003 - Numbers, strings and the things that bite](lessons/phase-0-python/lesson-003-numbers-strings-and-the-things-that-bite/README.md)
-- [Lesson 004 - Lists and tuples, properly](lessons/phase-0-python/lesson-004-lists-and-tuples-properly/README.md)
+- [Lesson 005 - Dictionaries as tiny databases](lessons/phase-0-python/lesson-005-dictionaries-as-tiny-databases/README.md)
+- [Lesson 006 - Functions that don't lie](lessons/phase-0-python/lesson-006-functions-that-dont-lie/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons
-python lessons/phase-0-python/lesson-003-numbers-strings-and-the-things-that-bite/lesson.py
-python lessons/phase-0-python/lesson-004-lists-and-tuples-properly/lesson.py
+python lessons/phase-0-python/lesson-005-dictionaries-as-tiny-databases/lesson.py
+python lessons/phase-0-python/lesson-006-functions-that-dont-lie/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
@@ -120,6 +120,14 @@ lessons/
       lesson.py
       exercises.md
     lesson-004-lists-and-tuples-properly/
+      README.md
+      lesson.py
+      exercises.md
+    lesson-005-dictionaries-as-tiny-databases/
+      README.md
+      lesson.py
+      exercises.md
+    lesson-006-functions-that-dont-lie/
       README.md
       lesson.py
       exercises.md
