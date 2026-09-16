@@ -1,0 +1,20 @@
+date,drink,size,price,quantity
+2026-09-07,latte,medium,3.80,2
+2026-09-07,espresso,small,2.20,1
+2026-09-07,cappuccino,large,4.20,1
+2026-09-08,latte,large,4.30,1
+2026-09-08,flat white,medium,3.90,3
+2026-09-08,espresso,small,2.20,2
+2026-09-08,mocha,medium,,1
+2026-09-09,cappuccino,medium,3.70,2
+2026-09-09,latte,medium,3.80,1
+2026-09-09,tea,medium,2.50,1
+09/09/2026,latte,large,4.30,two
+2026-09-10,flat white,medium,3.90,1
+2026-09-10,latte,small,3.30,2
+2026-09-10,espresso,small,2.20,1
+2026-09-10,espresso,small
+2026-09-11,cappuccino,large,4.20,2
+2026-09-11,latte,medium,3.80,2
+2026-09-11,tea,large,2.90,1
+2026-09-11,tea,large,2.90,-1
