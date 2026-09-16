@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Tuesday 2026-09-15, Week 2 Day 2):**
+**Today's lessons (Wednesday 2026-09-16, Week 2 Day 3):**
 
-- [Lesson 005 - Dictionaries as tiny databases](lessons/phase-0-python/lesson-005-dictionaries-as-tiny-databases/README.md)
-- [Lesson 006 - Functions that don't lie](lessons/phase-0-python/lesson-006-functions-that-dont-lie/README.md)
+- [Lesson 007 - Files, paths and CSV round-trips](lessons/phase-0-python/lesson-007-files-paths-and-csv-round-trips/README.md)
+- [Lesson 008 - Errors, and what to do about them](lessons/phase-0-python/lesson-008-errors-and-what-to-do-about-them/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,12 +81,14 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons
-python lessons/phase-0-python/lesson-005-dictionaries-as-tiny-databases/lesson.py
-python lessons/phase-0-python/lesson-006-functions-that-dont-lie/lesson.py
+python lessons/phase-0-python/lesson-007-files-paths-and-csv-round-trips/lesson.py
+python lessons/phase-0-python/lesson-008-errors-and-what-to-do-about-them/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
-their own data files wherever you launch them from.
+their own data files wherever you launch them from. From lesson 007 on,
+some scripts write files; those go in an `output/` folder next to the
+script (ignored by git), so you can delete it and re-run at any time.
 
 Phase 0 lessons need **no installs**. When you reach Phase 1 the lesson will
 tell you to create a virtual environment and install from
@@ -131,6 +133,16 @@ lessons/
       README.md
       lesson.py
       exercises.md
+    lesson-007-files-paths-and-csv-round-trips/
+      README.md
+      lesson.py
+      exercises.md
+      orders_raw.csv
+    lesson-008-errors-and-what-to-do-about-them/
+      README.md
+      lesson.py
+      exercises.md
+      orders_messy.csv
 curriculum/
   CURRICULUM.md      # every lesson, grouped by phase, with a one-line goal
   PROGRESS.md        # what's published and what's next
