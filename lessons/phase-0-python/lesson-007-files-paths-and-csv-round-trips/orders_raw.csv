@@ -1,0 +1,17 @@
+Date, Drink, Size, Price, Qty, Note
+2026-09-07,latte,medium,£3.80,2,
+2026-09-07,Espresso,small,2.20,1,
+2026-09-07,cappuccino,large,4.20 ,1,"oat milk, extra hot"
+2026-09-08,latte,large,4.30,1,
+2026-09-08,flat-white,medium,3.90,3,takeaway
+2026-09-08,espresso,small,2.20,2,
+
+2026-09-09,CAPP ,medium,3.70,2,
+2026-09-09,latte,medium,3.80,1,decaf
+2026-09-09,tea,medium,2.50,1,
+2026-09-10,Flatwhite,medium,3.90,1,
+2026-09-10,latte,small,3.30, 2,
+2026-09-10,espresso,small,2.20,1,
+2026-09-11,cappuccino,large,£4.20,2,"no chocolate, please"
+2026-09-11,latte,medium,3.80,2,
+2026-09-11,tea,large,2.90,1,
