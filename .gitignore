@@ -20,6 +20,9 @@ env/
 .DS_Store
 Thumbs.db
 
+# Files the lesson scripts write when you run them (lesson 007 onwards)
+lessons/**/output/
+
 # Local data and model artifacts (later phases)
 data/raw/
 data/cache/
