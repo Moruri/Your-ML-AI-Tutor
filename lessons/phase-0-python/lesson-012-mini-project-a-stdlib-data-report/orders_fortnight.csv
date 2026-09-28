@@ -1,0 +1,133 @@
+Order ID, Date,Time,Drink ,Size,Price,Qty,Payment
+A0001,2026-09-07,09:24, latte,Medium,3.80,4,card
+A0002,2026-09-07,07:39,tea,small,2.00,4,card
+A0003,2026-09-07,10:52,flat white,Small,3.40,2,card
+A0004,2026-09-07,16:28,Cappuccino,Small,3.20,2,card
+A0005,2026-09-07,10:05,Tea ,medium,£2.50,2,card
+A0006,2026-09-07,16:50, latte,Medium,3.80,1,cash
+A0007,2026-09-07,08:23,cappuccino,small,3.20,1,card
+A0008,2026-09-07,08:38,Flatwhite,small,3.40,2,card
+A0009,2026-09-07,09:40,LATTE ,medium,3.80,1,card
+A0010,2026-09-07,09:10,Cappuccino,large,4.20 ,3,card
+A0011,2026-09-07,13:21,Latte,small,3.30,1,card
+A9002,10/09/2026,11:02,latte,medium,3.80,1,card
+A0012,2026-09-07,10:09,Latte,medium,3.80,3,Card
+A0013,2026-09-07,09:43,cappuccino,medium,3.70 ,3,card
+A0014,2026-09-08,12:45,tea,Medium,2.50, 2,card
+A0015,2026-09-08,08:08,LATTE ,medium,3.80,1,CASH
+A0016,2026-09-08,15:50,CAPP ,medium,3.70,1,CASH
+A0017,2026-09-08,08:01, latte,medium,3.80,3,card
+A0018,2026-09-08,08:50,Espresso,small,1.70 ,2,card
+A0019,2026-09-08,08:43,LATTE ,Medium,3.80,1,cash
+A0020,2026-09-08,11:27, latte,medium,3.80,1,card
+A0021,2026-09-08,09:15,LATTE ,medium,3.80,1,card
+A0022,2026-09-08,09:14, latte,small,3.30,1,card
+A0023,2026-09-08,08:29,Flatwhite,large,4.40,2,card
+A0024,2026-09-08,07:06,flat-white,medium,3.90,1,card
+A0025,2026-09-08,09:51,flat-white,small,3.40,1,card
+A0026,2026-09-09,09:55,Tea ,medium,2.50,1,Card
+A0027,2026-09-09,08:49,Cappuccino,medium,£3.70,1,cash
+A0028,2026-09-09,07:17,Espresso,large,2.70,3,CASH
+A0029,2026-09-09,14:47,espresso,medium,2.20,1,card
+A0030,2026-09-09,08:12,latte,medium,3.80, 2,cash
+
+A0031,2026-09-09,09:33,Flatwhite,medium,3.90,2,card
+A0032,2026-09-09,09:26,Cappuccino,medium,3.70,2,card
+A0033,2026-09-09,07:53,espresso,medium,£2.20,1,cash
+A0034,2026-09-09,07:03,latte,small,3.30,3,card
+A0035,2026-09-09,09:13,LATTE ,large,4.30 ,2,Card
+A0036,2026-09-09,08:03,Cappuccino,Medium,3.70,1,cash
+A0037,2026-09-09,07:27, latte,small,3.30,2,card
+A0038,2026-09-09,11:39,Cappuccino,large,4.20,1,card
+A0039,2026-09-10,09:06,espresso,small,1.70,2,card
+A0040,2026-09-10,08:23,Flatwhite,medium,3.90,3,cash
+A0040,2026-09-10,08:23,Flatwhite,medium,3.90,3,cash
+A0041,2026-09-10,14:20,LATTE ,Medium,3.80,2,card
+A0042,2026-09-10,08:34,flat-white,small,3.40, 2,card
+A0043,2026-09-10,12:10,espresso,large,2.70 ,1,cash
+A0044,2026-09-10,11:37, latte,medium,3.80,1,card
+A0045,2026-09-10,08:57,CAPP ,medium,3.70, 1,cash
+A0046,2026-09-10,14:21,Flatwhite,medium,3.90,1,card
+A0047,2026-09-10,15:09,CAPP ,large,£4.20,1,card
+A0048,2026-09-10,10:15, latte,medium,3.80, 1,card
+A0049,2026-09-10,08:14,Flatwhite,large,£4.40,3,cash
+A0050,2026-09-10,08:54,Espresso,small,1.70,2,card
+A0051,2026-09-10,16:36,CAPP ,medium,3.70,1,CASH
+A0052,2026-09-11,15:29,Latte,medium,£3.80, 1,card
+A0053,2026-09-11,12:17,CAPP ,small,3.20,1,card
+A0054,2026-09-11,07:18,latte,medium,3.80,2,card
+A9001,2026-09-09,10:15,mocha,medium,4.00,1,card
+A0055,2026-09-11,07:09,Latte,large,4.30, 2,card
+A0056,2026-09-11,16:14,Espresso,Large,£2.70,1,card
+A0057,2026-09-11,08:00,cappuccino,small,3.20,1,card
+A0058,2026-09-11,11:23,cappuccino,medium,£3.70,1,card
+A0059,2026-09-11,08:53,Flatwhite,Medium,3.90,3,cash
+A0060,2026-09-11,07:04,tea,large,3.00,2,CASH
+A0061,2026-09-11,08:40,Latte,medium,3.80,2,cash
+A0062,2026-09-11,09:57, latte,Small,3.30,1,card
+A0063,2026-09-11,15:08,cappuccino,small,3.20,1,CASH
+A0064,2026-09-11,08:04,flat-white,Small,3.40,1,card
+A0065,2026-09-14,14:36,tea,Small,2.00,2,card
+A0066,2026-09-14,08:14,Cappuccino,medium,3.70 ,2,cash
+A9003,2026-09-14,09:40,tea,medium,,1,cash
+A0067,2026-09-14,09:44,tea,large,3.00,1,cash
+A0068,2026-09-14,10:40,capp,medium,3.70,1,card
+A0069,2026-09-14,09:02,Tea ,medium,2.50 ,2,CASH
+A0070,2026-09-14,15:00,Latte,small,3.30,2,card
+A0071,2026-09-14,14:34,Cappuccino,large,4.20,1,card
+A0072,2026-09-14,16:09,LATTE ,medium,3.80,1,cash
+A0073,2026-09-14,15:37,CAPP ,medium,3.70,1,cash
+A0074,2026-09-14,09:06,capp,medium,3.70,1,Card
+A0075,2026-09-14,07:00,CAPP ,Small,3.20,1,Card
+A0076,2026-09-14,07:56,Espresso,medium,2.20,2,Card
+A0077,2026-09-14,08:00,Flatwhite,large,4.40,1,card
+A0078,2026-09-15,07:21,espresso,medium,£2.20,1,card
+A0079,2026-09-15,08:15,cappuccino,Small,3.20,1,card
+A0080,2026-09-15,07:50,espresso,medium,2.20,1,card
+A0081,2026-09-15,11:05, latte,large,4.30, 3,card
+A0082,2026-09-15,10:27,latte,small,3.30,1,card
+A0083,2026-09-15,10:15, latte,Small,3.30,2,card
+A0084,2026-09-15,14:02,cappuccino,small,3.20 ,4,CASH
+A0085,2026-09-15,13:37,Tea ,large,3.00,2,card
+A0086,2026-09-15,08:12,Latte,medium,3.80,3,card
+A0087,2026-09-15,13:13, latte,medium,3.80,2,card
+
+A0088,2026-09-15,12:10,Tea ,medium,2.50,3,cash
+A0089,2026-09-16,07:59,Tea ,Large,3.00,3,cash
+A0090,2026-09-16,08:29,cappuccino,medium,£3.70,2,card
+A0091,2026-09-16,13:34,CAPP ,small,3.20,1,card
+A0092,2026-09-16,14:59,Tea ,medium,£2.50,1,card
+A0093,2026-09-16,10:24,latte,large,4.30,2,card
+A0094,2026-09-16,09:49,latte,medium,3.80,2,card
+A0095,2026-09-16,13:23, latte,large,4.30, 1,card
+A0096,2026-09-16,13:28,flat white,small,3.40,2,card
+A0097,2026-09-16,11:08,Flatwhite,Medium,3.90,1,cash
+A0098,2026-09-16,07:39,LATTE ,small,3.30 ,2,card
+A0099,2026-09-16,08:51,Flatwhite,small,3.40 ,1,card
+A9006,2026-09-17,25:10,cappuccino,medium,3.70,1,card
+A0100,2026-09-17,09:20,Tea ,small,£2.00,1,cash
+A0101,2026-09-17,15:49,Latte,medium,£3.80,2,card
+A9004,2026-09-15,08:05,latte,large,4.30,0,card
+A0102,2026-09-17,13:37,espresso,large,£2.70,1,Card
+A0103,2026-09-17,08:15,CAPP ,medium,3.70,4,cash
+A0104,2026-09-17,10:47,flat-white,small,3.40,1,cash
+A0105,2026-09-17,14:55,capp,small,3.20,1,card
+A0106,2026-09-17,11:51,latte,large,4.30,1,card
+A0107,2026-09-17,10:46,flat-white,Small,£3.40,1,card
+A0108,2026-09-17,11:39,capp,large,4.20,1,card
+A9005,2026-09-16,13:30,espresso,small,1.70,two,cash
+A0109,2026-09-17,12:26,LATTE ,medium,3.80,2,CASH
+A0110,2026-09-18,15:45,flat white,small,3.40,1,card
+A0111,2026-09-18,12:31,Tea ,large,3.00,2,cash
+A0112,2026-09-18,11:14,Latte,medium,3.80,1,card
+A0113,2026-09-18,10:56,Tea ,medium,2.50,1,card
+A0114,2026-09-18,12:29,Espresso,large,2.70,2,cash
+A0115,2026-09-18,10:48,Flatwhite,medium,£3.90,1,cash
+A0116,2026-09-18,08:57, latte,small,3.30,3,card
+A0117,2026-09-18,14:43,Espresso,large,2.70,1,cash
+A0118,2026-09-18,12:57, latte,small,3.30,1,cash
+A0119,2026-09-18,16:27,capp,medium,3.70,1,card
+A0120,2026-09-18,12:08,cappuccino,medium,3.70, 1,card
+A0121,2026-09-18,10:14,flat white,small,3.40,2,card
+A0122,2026-09-18,16:01,flat white,small,3.40,1,cash
+A0123,2026-09-18,10:41,Latte,medium,3.80,1,card
