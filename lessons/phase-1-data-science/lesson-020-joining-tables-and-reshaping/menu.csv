@@ -1,0 +1,7 @@
+drink,category,medium_price,cost_per_cup
+latte,milky,3.80,1.05
+cappuccino,milky,3.70,1.00
+flat white,milky,3.90,1.10
+espresso,black,2.20,0.45
+tea,tea,2.50,0.35
+mocha,milky,4.00,1.30
