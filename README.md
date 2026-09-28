@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Wednesday 2026-09-16, Week 2 Day 3):**
+**Today's lessons (Friday 2026-09-25, Week 3 Day 5):**
 
-- [Lesson 007 - Files, paths and CSV round-trips](lessons/phase-0-python/lesson-007-files-paths-and-csv-round-trips/README.md)
-- [Lesson 008 - Errors, and what to do about them](lessons/phase-0-python/lesson-008-errors-and-what-to-do-about-them/README.md)
+- [Lesson 021 - Dates and time series basics](lessons/phase-1-data-science/lesson-021-dates-and-time-series-basics/README.md)
+- [Lesson 022 - Plotting that tells the truth](lessons/phase-1-data-science/lesson-022-plotting-that-tells-the-truth/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -80,9 +80,9 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 # Run lesson 002
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
-# Run today's lessons
-python lessons/phase-0-python/lesson-007-files-paths-and-csv-round-trips/lesson.py
-python lessons/phase-0-python/lesson-008-errors-and-what-to-do-about-them/lesson.py
+# Run today's lessons (Phase 1: inside the virtual environment, see below)
+python lessons/phase-1-data-science/lesson-021-dates-and-time-series-basics/lesson.py
+python lessons/phase-1-data-science/lesson-022-plotting-that-tells-the-truth/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
@@ -90,8 +90,8 @@ their own data files wherever you launch them from. From lesson 007 on,
 some scripts write files; those go in an `output/` folder next to the
 script (ignored by git), so you can delete it and re-run at any time.
 
-Phase 0 lessons need **no installs**. When you reach Phase 1 the lesson will
-tell you to create a virtual environment and install from
+Phase 0 lessons need **no installs**. From Phase 1 on (lesson 013 walks you
+through it), create a virtual environment and install from
 [`requirements.txt`](requirements.txt):
 
 ```bash
@@ -143,10 +143,82 @@ lessons/
       lesson.py
       exercises.md
       orders_messy.csv
+    lesson-009-modules-scripts-and-main/
+      README.md
+      lesson.py
+      exercises.md
+      coffee_tools.py
+      orders.csv
+    lesson-010-a-little-bit-of-classes/
+      README.md
+      lesson.py
+      exercises.md
+      orders.csv
+    lesson-011-iterators-generators-and-lazy-data/
+      README.md
+      lesson.py
+      exercises.md
+      orders.csv
+    lesson-012-mini-project-a-stdlib-data-report/
+      README.md
+      lesson.py
+      exercises.md
+      orders_fortnight.csv
+  phase-1-data-science/
+    lesson-013-setting-up-a-real-environment/
+      README.md
+      lesson.py
+      exercises.md
+    lesson-014-numpy-arrays-why-not-just-lists/
+      README.md
+      lesson.py
+      exercises.md
+      orders.csv
+    lesson-015-numpy-indexing-broadcasting-and-reductions/
+      README.md
+      lesson.py
+      exercises.md
+      orders.csv
+    lesson-016-randomness-you-can-reproduce/
+      README.md
+      lesson.py
+      exercises.md
+    lesson-017-pandas-series-and-dataframes/
+      README.md
+      lesson.py
+      exercises.md
+      orders_september.csv
+    lesson-018-cleaning-data-missing-values-types-and-duplicates/
+      README.md
+      lesson.py
+      exercises.md
+      orders_september_raw.csv
+    lesson-019-group-aggregate-pivot/
+      README.md
+      lesson.py
+      exercises.md
+      orders_september.csv
+    lesson-020-joining-tables-and-reshaping/
+      README.md
+      lesson.py
+      exercises.md
+      orders_september.csv
+      menu.csv
+      targets_wide.csv
+    lesson-021-dates-and-time-series-basics/
+      README.md
+      lesson.py
+      exercises.md
+      orders_september.csv
+    lesson-022-plotting-that-tells-the-truth/
+      README.md
+      lesson.py
+      exercises.md
+      orders_september.csv
 curriculum/
   CURRICULUM.md      # every lesson, grouped by phase, with a one-line goal
   PROGRESS.md        # what's published and what's next
-requirements.txt     # pinned deps for later phases (Phase 0 needs none)
+requirements.txt     # pinned deps for Phase 1 on (Phase 0 needs none)
 ```
 
 ## A note on tone
