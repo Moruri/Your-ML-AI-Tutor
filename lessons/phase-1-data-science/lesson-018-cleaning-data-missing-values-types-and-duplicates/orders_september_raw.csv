@@ -1,0 +1,1230 @@
+order_id,timestamp,drink,size,milk,price,quantity,payment
+S0001,2026-09-01 07:01,cappuccino,large,whole,4.20,2,cash
+S0002,2026-09-01 07:12,espresso,small,none,1.70,1,card
+S0003,2026-09-01 07:17,flat white,small,whole,3.40,4,card
+S0004,2026-09-01 07:17,flat white,small,whole,3.40,1,cash
+S0005,2026-09-01 07:34,espresso,small,none,1.70,1,card
+S0006,2026-09-01 07:43,latte,large,whole,4.30,3,card
+S0007,2026-09-01 07:47,flat white,small,whole,3.40,2,card
+S0008,2026-09-01 07:47,flat white,small,whole,3.40,3,card
+S0009,2026-09-01 07:55,flat white,medium,whole,3.90,1,card
+S0010,2026-09-01 08:00,latte,medium,whole,3.80,1,card
+S0011,2026-09-01 08:04,flat white,medium,whole,3.90,2,card
+S0012,2026-09-01 08:08,flat white,medium,oat,4.30,2,cash
+S0013,2026-09-01 08:19,latte,medium,whole,3.80,2,card
+S0014,2026-09-01 08:28,latte,medium,whole,3.80,1,card
+S0015,2026-09-01 08:35,espresso,small,none,1.70,1,
+S0016,2026-09-01 08:36,flat white,medium,whole,3.90,1,card
+S0017,2026-09-01 08:37,latte,large,whole,4.30,3,card
+S0018,2026-09-01 08:53,tea,small,none,2.00,1,card
+S0019,2026-09-01 08:59,flat white,small,whole,3.40,1,cash
+S0020,2026-09-01 08:59,flat white,large,whole,4.40,1,card
+S0021,2026-09-01 09:08,cappuccino,medium,whole,3.70,three,cash
+S0022,2026-09-01 09:09,latte,small,oat,3.70,2,cash
+S0023,2026-09-01 09:18,cappuccino,large,oat,4.60,1,card
+S0024,2026-09-01 09:20,flat white,large,whole,4.40,1,card
+S0025,2026-09-01 09:28,cappuccino,medium,whole,3.70,1,card
+S0026,2026-09-01 09:32,latte,large,whole,4.30,1,card
+S0027,2026-09-01 09:37,flat white,medium,whole,3.90,4,card
+S0028,2026-09-01 09:56,latte,medium,whole,3.80,2,card
+S0029,2026-09-01 10:04,flat white,large,whole,4.40,1,cash
+S0030,2026-09-01 10:48,latte,large,whole,4.30,2,card
+S0031,2026-09-01 11:03,latte,large,oat,,3,card
+S0032,2026-09-01 11:15,flat white,medium,whole,3.90,1,card
+S0033,2026-09-01 11:20,flat white,medium,whole,3.90,1,cash
+S0034,2026-09-01 11:31,tea,small,none,2.00,3,card
+S0035,2026-09-01 12:17,espresso,small,none,1.70,1,card
+S0036,2026-09-01 12:19,latte,large,whole,4.30,2,cash
+S0037,2026-09-01 12:28, latte,medium,whole,3.80,1,card
+S0038,2026-09-01 12:35,tea,medium,none,2.50,3,card
+S0039,2026-09-01 12:38,flat white,medium,whole,3.90,1,card
+S0040,2026-09-01 12:43,cappuccino,medium,whole,3.70,3,cash
+S0041,2026-09-01 12:50,cappuccino,small,whole,3.20,2,card
+S0042,2026-09-01 13:07,latte,medium,whole,3.80,1,card
+S0043,2026-09-01 13:11,latte,large,whole,4.30,1,card
+S0044,2026-09-01 13:21,latte,small,whole,3.30,1,card
+S0045,2026-09-01 13:31,tea,large,none,3.00,4,card
+S0046,2026-09-01 13:32,latte,medium,whole,3.80,1,card
+S0047,2026-09-01 13:45,cappuccino,medium,whole,3.70,2,card
+S0048,2026-09-01 14:06,cappuccino,medium,whole,3.70,1,cash
+S0049,2026-09-01 14:09,cappuccino,small,whole,3.20,1,card
+S0049,2026-09-01 14:09,cappuccino,small,whole,3.20,1,card
+S0050,2026-09-01 14:13,flat white,large,whole,4.40,1,cash
+S0051,2026-09-01 14:37,espresso,small,none,1.70,2,cash
+S0052,2026-09-01 14:56,Tea,medium,none,2.50,2,cash
+S0053,2026-09-01 15:48,latte,large,whole,4.30,2,card
+S0054,2026-09-01 15:58,tea,medium,none,2.50,3,
+S0055,2026-09-01 16:56,latte,medium,whole,3.80,1,card
+S0056,2026-09-01 16:58,tea,large,none,3.00,1,card
+S0057,2026-09-02 07:15,flat white,small,whole,3.40,2,card
+S0058,2026-09-02 07:17,flat white,medium,whole,3.90,1,card
+S0059,2026-09-02 07:23,cappuccino,small,oat,3.60,1,card
+S0060,2026-09-02 07:38,flat white,medium,whole,3.90,1,card
+S0061,2026-09-02 07:39,cappuccino,medium,whole,3.70,3,card
+S0062,2026-09-02 07:40,tea,medium,none,2.50,2,card
+S0063,2026-09-02 07:47,latte,large,whole,4.30,2,card
+S0064,2026-09-02 07:49,espresso,small,none,1.70,1,cash
+S0065,2026-09-02 08:14,latte,small,whole,3.30,2,card
+S0066,2026-09-02 08:17,cappuccino,large,oat,4.60,1,card
+S0067,2026-09-02 08:22,cappuccino,medium,whole,3.70,1,card
+S0068,2026-09-02 08:22,cappuccino,medium,whole,3.70,1,cash
+S0069,2026-09-02 08:28,latte,medium,whole,3.80,1,cash
+S0070,2026-09-02 08:31,espresso,small,none,1.70,4,cash
+S0071,2026-09-02 08:35,tea,small,none,2.00,3,cash
+S0072,2026-09-02 08:47,cappuccino,large,oat,4.60,4,card
+S0073,2026-09-02 08:55,latte,medium,whole,3.80,1,card
+S0074,2026-09-02 09:04, latte,medium,whole,3.80,1,cash
+S0075,2026-09-02 09:07,espresso,small,none,1.70,1,cash
+S0076,2026-09-02 09:27,cappuccino,small,oat,3.60,2,card
+S0077,2026-09-02 09:38,tea,small,none,2.00,3,card
+S0078,2026-09-02 09:39,tea,large,,3.00,1,card
+S0079,2026-09-02 09:43,cappuccino,large,whole,4.20,1,card
+S0080,2026-09-02 09:52,flat white,small,whole,3.40,2,card
+S0081,2026-09-02 09:54,espresso,small,none,1.70,2,card
+S0082,2026-09-02 10:00,tea,medium,none,2.50,1,card
+S0083,2026-09-02 10:10,latte,small,whole,3.30,2,card
+S0084,2026-09-02 10:22,tea,medium,none,2.50,1,card
+S0085,2026-09-02 10:45,latte,small,whole,3.30,1,cash
+S0086,2026-09-02 11:26,cappuccino,medium,oat,4.10,1,card
+S0087,2026-09-02 12:08,capp,medium,oat,4.10,2,card
+S0088,2026-09-02 12:14,latte,small,whole,3.30,1,card
+S0089,2026-09-02 12:42,cappuccino,small,whole,3.20,2,card
+S0090,2026-09-02 12:45,latte,small,oat,3.70,1,card
+S0091,2026-09-02 12:49,espresso,small,none,1.70,1,card
+S0092,2026-09-02 12:50,flat white,large,whole,4.40,1,card
+S0093,2026-09-02 12:55,flat white,small,whole,3.40,4,cash
+S0094,2026-09-02 13:32,cappuccino,large,whole,4.20,2,card
+S0095,2026-09-02 13:44,cappuccino,small,whole,3.20,1,card
+S0096,2026-09-02 13:58,latte,small,oat,3.70,1,card
+S0097,2026-09-02 14:25,tea,large,none,3.00,1,cash
+S0098,2026-09-02 14:25,cappuccino,small,oat,£3.60,1,card
+S0099,2026-09-02 14:28,espresso,small,none,1.70,1,card
+S0100,2026-09-02 14:35,latte,medium,whole,3.80,1,card
+S0101,2026-09-02 14:36,cappuccino,medium,whole,3.70,4,card
+S0102,2026-09-02 14:40,latte,medium,whole,3.80,3,card
+S0103,2026-09-02 15:46,latte,large,oat,4.70,1,card
+S0104,2026-09-02 15:56,tea,medium,none,2.50,1,card
+S0105,2026-09-03 07:12,espresso,small,none,1.70,2,card
+S0106,2026-09-03 07:40,tea,large,none,3.00,3,card
+S0107,2026-09-03 07:42,cappuccino,medium,whole,3.70,3,card
+S0108,2026-09-03 08:10,tea,medium,none,2.50,1,card
+S0108,2026-09-03 08:10,tea,medium,none,2.50,1,card
+S0109,2026-09-03 08:11,cappuccino,small,whole,3.20,1,card
+S0110,2026-09-03 08:12,cappuccino,medium,whole,3.70,3,cash
+S0111,2026-09-03 08:13,Flat White,medium,oat,4.30,3,card
+S0112,2026-09-03 08:17,latte,large,whole,4.30,1,card
+S0113,2026-09-03 08:23,latte,medium,oat,4.20,1,cash
+S0114,2026-09-03 08:37,latte,medium,whole,3.80,3,card
+S0115,2026-09-03 08:41,tea,medium,none,2.50,2,cash
+S0116,2026-09-03 08:53,espresso,small,,1.70,1,card
+S0117,2026-09-03 08:57,cappuccino,large,whole,4.20,1,card
+S0118,2026-09-03 08:58,cappuccino,large,oat,4.60,3,card
+S0119,2026-09-03 09:02,flat white,medium,whole,3.90,1,card
+S0120,2026-09-03 09:05,tea,medium,none,2.50,4,card
+S0121,2026-09-03 09:17,cappuccino,large,whole,4.20,1,card
+S0122,2026-09-03 09:20,espresso,small,none,1.70,3,card
+S0123,2026-09-03 09:29,tea,small,none,2.00,2,card
+S0124,2026-09-03 09:30,cappuccino,medium,oat,4.10,1,card
+S0125,2026-09-03 09:41,flat white,large,whole,4.40,3,card
+S0126,2026-09-03 09:44,cappuccino,medium,whole,3.70,1,cash
+S0127,2026-09-03 09:46,latte,medium,whole,3.80,1,card
+S0128,2026-09-03 09:52,latte,large,whole,4.30,1,cash
+S0129,2026-09-03 09:53,flat white,medium,whole,3.90,1,cash
+S0130,2026-09-03 09:59,latte,medium,whole,3.80,1,cash
+S0131,2026-09-03 10:01,cappuccino,medium,whole,3.70,1,cash
+S0132,2026-09-03 10:36,flat white,large,oat,4.80,1,card
+S0133,2026-09-03 10:46,latte,medium,whole,3.80,3,card
+S0134,2026-09-03 10:53,latte,large,whole,4.30,2,card
+S0135,2026-09-03 11:48,latte,medium,whole,3.80,1,card
+S0136,2026-09-03 12:23,latte,medium,whole,3.80,2,card
+S0137,2026-09-03 12:32,cappuccino,medium,whole,3.70,3,card
+S0138,2026-09-03 13:41,cappuccino,medium,whole,3.70,2,card
+S0139,2026-09-03 14:24,flat white,small,whole,3.40,3,cash
+S0140,2026-09-03 14:35,flat white,medium,whole,3.90,1,cash
+S0141,2026-09-03 14:41,latte,large,whole,4.30,1,card
+S0142,2026-09-03 15:00,cappuccino,medium,whole,3.70,2,card
+S0143,2026-09-03 15:22,latte,small,whole,3.30,1,card
+S0144,2026-09-03 15:27,cappuccino,large,whole,4.20,1,cash
+S0145,2026-09-03 15:49,cappuccino,medium,whole,3.70,2,cash
+S0146,2026-09-03 16:12,flat white,large,whole,4.40,3,cash
+S0147,2026-09-03 16:30,latte,medium,whole,,1,card
+S0148,2026-09-03 16:41,flat white,medium,whole,3.90,1,card
+S0149,2026-09-04 07:04,cappuccino,large,whole,4.20,1,cash
+S0150,2026-09-04 07:04,cappuccino,large,whole,4.20,1,card
+S0151,2026-09-04 07:12,flat white,large,whole,4.40,2,cash
+S0152,2026-09-04 07:15,cappuccino,medium,whole,3.70,two,cash
+S0153,2026-09-04 07:33,latte,medium,whole,3.80,1,card
+S0154,2026-09-04 07:43,flat white,medium,whole,3.90,1,card
+S0155,2026-09-04 07:46,espresso,small,none,1.70,2,card
+S0156,2026-09-04 07:47,latte,medium,whole,3.80,1,card
+S0157,2026-09-04 07:49,flat white,small,oat,3.80,2,card
+S0158,2026-09-04 07:49,flat white,large,whole,4.40,1,card
+S0159,2026-09-04 08:05,cappuccino,medium,whole,3.70,2,cash
+S0160,2026-09-04 08:12,latte,small,whole,3.30,2,
+S0161,2026-09-04 08:17,latte,large,whole,4.30,2,card
+S0162,2026-09-04 08:17,flat white,medium,whole,3.90,1,card
+S0163,2026-09-04 08:17,tea,small,none,2.00,2,card
+S0164,2026-09-04 08:18,latte,medium,oat,4.20,1,cash
+S0165,2026-09-04 08:19,latte,medium,oat,4.20,1,cash
+S0166,2026-09-04 08:21,flat white,large,whole,4.40,2,card
+S0167,2026-09-04 08:22,cappuccino,large,whole,4.20,2,card
+S0168,2026-09-04 08:24,latte,small,whole,3.30,1,card
+S0169,2026-09-04 08:28,cappuccino,small,whole,3.20,3,card
+S0170,2026-09-04 08:32,cappuccino,medium,whole,3.70,1,card
+S0171,2026-09-04 08:32,flat white,large,oat,4.80,1,card
+S0172,2026-09-04 08:35,espresso,small,none,1.70,1,card
+S0173,2026-09-04 08:37,cappuccino,large,whole,4.20,2,card
+S0174,2026-09-04 08:39,latte,medium,whole,3.80,1,cash
+S0175,2026-09-04 08:40,espresso,small,none,1.70,2,card
+S0176,2026-09-04 08:55,tea,medium,none,2.50,1,card
+S0177,2026-09-04 08:57,cappuccino,large,whole,4.20,3,card
+S0178,2026-09-04 08:58,latte,medium,whole,3.80,2,card
+S0179,2026-09-04 08:59,flat white,medium,oat,4.30,2,card
+S0180,2026-09-04 09:00,cappuccino,medium,whole,,1,card
+S0181,2026-09-04 09:02,flat white,medium,whole,3.90,1,card
+S0182,2026-09-04 09:05,latte,medium,oat,4.20,1,card
+S0183,2026-09-04 09:06,tea,small,none,2.00,2,cash
+S0184,2026-09-04 09:06,flat white,medium,whole,3.90,4,card
+S0185,2026-09-04 09:17,flat white,large,oat,4.80,1,card
+S0186,2026-09-04 09:20,cappuccino,large,oat,4.60,1,card
+S0187,2026-09-04 09:22,Latte,medium,whole,3.80,2,card
+S0188,2026-09-04 09:34,cappuccino,large,whole,4.20,1,card
+S0189,2026-09-04 09:44,cappuccino,large,oat,4.60,1,card
+S0190,2026-09-04 09:48,latte,large,whole,4.30,1,card
+S0191,2026-09-04 09:56,tea,medium,none,2.50,1,cash
+S0191,2026-09-04 09:56,tea,medium,none,2.50,1,cash
+S0192,2026-09-04 10:06,cappuccino,large,whole,4.20,2,card
+S0193,2026-09-04 10:11,latte,large,oat,4.70,1,cash
+S0194,2026-09-04 10:18,espresso,small,none,1.70,2,cash
+S0195,2026-09-04 10:41,latte,medium,whole,3.80,1,card
+S0196,2026-09-04 10:43,cappuccino,large,whole,4.20,1,card
+S0197,2026-09-04 10:54,tea,large,none,3.00,2,card
+S0198,2026-09-04 11:14,latte,small,whole,3.30,1,card
+S0199,2026-09-04 11:37,latte,medium,whole,3.80,3,cash
+S0200,2026-09-04 11:44,espresso,small,,1.70,1,card
+S0201,2026-09-04 12:01,flat white,large,whole,4.40,1,card
+S0202,2026-09-04 12:14,flat white,medium,whole,3.90,2,card
+S0203,2026-09-04 12:31,flat white,large,whole,4.40,1,card
+S0204,2026-09-04 12:32,cappuccino,large,whole,4.20,1,cash
+S0205,2026-09-04 12:45,latte,medium,whole,3.80,1,cash
+S0206,2026-09-04 12:55,tea,large,none,3.00,1,card
+S0207,2026-09-04 13:06,tea,small,none,2.00,2,card
+S0208,2026-09-04 13:10,cappuccino,small,whole,3.20,3,card
+S0209,2026-09-04 13:13,flat white,small,whole,3.40,4,
+S0210,2026-09-04 13:36,espresso,small,none,1.70,2,card
+S0211,2026-09-04 13:53,cappuccino,medium,oat,4.10,1,card
+S0212,2026-09-04 14:44,flat white,large,oat,4.80,3,card
+S0213,2026-09-04 14:50,latte,large,whole,4.30,3,card
+S0214,2026-09-04 15:20,flat white,medium,oat,4.30,1,card
+S0215,2026-09-04 15:33,flat white,medium,whole,3.90,2,card
+S0216,2026-09-04 15:45,espresso,small,none,1.70,1,card
+S0217,2026-09-04 16:18,tea,large,none,3.00,1,cash
+S0218,2026-09-04 16:43,latte,large,whole,4.30,1,cash
+S0219,2026-09-04 16:50,latte,small,whole,3.30,1,card
+S0220,2026-09-04 16:59,flat white,large,whole,4.40,1,card
+S0221,2026-09-07 07:11,tea,medium,,2.50,2 ,card
+S0222,2026-09-07 07:25,tea,large,none,3.00,1,card
+S0223,2026-09-07 07:31,cappuccino,small,whole,3.20,1,card
+S0224,2026-09-07 07:42,espresso,small,none,1.70,1,card
+S0225,2026-09-07 07:46,latte,large,oat,4.70,3,cash
+S0226,2026-09-07 07:47, latte,medium,whole,3.80,1,cash
+S0227,2026-09-07 07:56,espresso,small,none,1.70,3,card
+S0228,2026-09-07 08:14,cappuccino,large,whole,4.20,1,card
+S0229,2026-09-07 08:23,espresso ,small,,1.70,2,card
+S0230,2026-09-07 08:29,flat white,large,oat,4.80,4,cash
+S0231,2026-09-07 08:30,latte,medium,whole,3.80,1 ,cash
+S0232,2026-09-07 08:40,latte,medium,whole,3.80,1,card
+S0233,2026-09-07 08:41,cappuccino,large,whole,4.20,1,card
+S0234,2026-09-07 08:45,cappuccino,small,whole,3.20,1,card
+S0235,2026-09-07 08:45,cappuccino,medium,whole,3.70,1,card
+S0236,2026-09-07 08:48,capp,large,whole,4.20,2,card
+S0237,2026-09-07 08:56,latte,medium,oat,4.20,3,cash
+S0238,2026-09-07 09:08,latte,medium,whole,3.80,2,card
+S0239,2026-09-07 09:37,latte,medium,oat,4.20,1,card
+S0240,2026-09-07 09:38,cappuccino,large,whole,4.20,3,card
+S0241,2026-09-07 09:39,espresso,small,none,1.70,2,card
+S0242,2026-09-07 09:40,tea,large,none,3.00,1,card
+S0243,2026-09-07 09:41,tea,large,none,3.00,1,cash
+S0244,2026-09-07 09:47,flat white,medium,whole,3.90,2,card
+S0245,2026-09-07 09:55,flat white,medium,whole,3.90,1,card
+S0246,2026-09-07 09:59,flat white,large,whole,4.40,1,cash
+S0247,2026-09-07 10:07,tea,medium,none,2.50,2,cash
+S0248,2026-09-07 10:09,tea,medium,none,2.50,2,card
+S0249,2026-09-07 11:12,cappuccino,medium,oat,4.10,1,cash
+S0249,2026-09-07 11:12,cappuccino,medium,oat,4.10,1,cash
+S0250,2026-09-07 11:33,espresso,small,none,1.70,1,cash
+S0251,2026-09-07 11:51,cappuccino,small,oat,£3.60,1,cash
+S0252,2026-09-07 11:51,flat white,medium,whole,3.90,4,cash
+S0253,2026-09-07 12:13,flat white,medium,whole,3.90,3,card
+S0254,2026-09-07 12:30,cappuccino,large,oat,4.60,2,card
+S0255,2026-09-07 12:46,cappuccino,large,oat,4.60,1,cash
+S0256,2026-09-07 12:47,cappuccino,small,whole,3.20,2,cash
+S0257,2026-09-07 12:52,flat white,small,oat,3.80,3,card
+S0258,2026-09-07 13:05,cappuccino,large,oat,4.60,1,card
+S0259,2026-09-07 13:13,latte,large,whole,4.30,1,cash
+S0260,2026-09-07 13:14,cappuccino,small,whole,3.20,1,card
+S0261,2026-09-07 14:04,espresso,small,none,1.70,1,card
+S0262,2026-09-07 14:13,cappuccino,small,whole,3.20,3,card
+S0263,2026-09-07 14:37,latte,medium,oat,4.20,1,card
+S0264,2026-09-07 16:57,latte,small,whole,3.30,1,cash
+S0265,2026-09-08 07:05,tea,medium,none,2.50,2,card
+S0266,2026-09-08 07:08,espresso,small,none,1.70,1,card
+S0267,2026-09-08 07:14,flat white,medium,whole,3.90,2,card
+S0268,2026-09-08 07:28,tea,large,none,3.00,1,card
+S0269,2026-09-08 07:28,latte,small,oat,3.70,1,cash
+S0270,2026-09-08 07:29,latte,medium,whole,3.80,1,card
+S0271,2026-09-08 07:52,cappuccino,medium,oat,4.10,2,card
+S0272,2026-09-08 08:00,cappuccino,large,whole,4.20,1,card
+S0273,2026-09-08 08:01,cappuccino,medium,oat,4.10,1,card
+S0274,2026-09-08 08:01,latte,small,whole,,1,card
+S0275,2026-09-08 08:08,latte,medium,whole,3.80,2,card
+S0276,2026-09-08 08:27,cappuccino,large,whole,4.20,1,card
+S0277,2026-09-08 08:28,espresso,small,none,1.70,2,cash
+S0278,2026-09-08 08:31,cappuccino,medium,whole,3.70,1,cash
+S0279,2026-09-08 08:36,latte,medium,whole,3.80,1,card
+S0280,2026-09-08 08:38,flat white,medium,whole,3.90,3,card
+S0281,2026-09-08 08:43,LATTE,large,oat,4.70,1,card
+S0282,2026-09-08 08:54,latte,medium,whole,3.80,2,cash
+S0283,2026-09-08 09:05,latte,medium,oat,4.20,1,card
+S0284,2026-09-08 09:11,cappuccino,small,whole,3.20,1,card
+S0285,2026-09-08 09:17,tea,medium,none,2.50,4,card
+S0286,2026-09-08 09:28,flat white,small,oat,3.80,1,card
+S0287,2026-09-08 09:28,cappuccino,medium,whole,3.70,1,
+S0288,2026-09-08 09:48,cappuccino,small,oat,3.60,2,card
+S0289,2026-09-08 09:59,tea,medium,none,2.50,2,card
+S0290,2026-09-08 10:07,espresso,small,none,1.70,3,cash
+S0291,2026-09-08 10:13,cappuccino,medium,oat,4.10,1,card
+S0292,2026-09-08 10:33,latte,medium,whole,3.80,1,card
+S0293,2026-09-08 10:52,cappuccino,small,whole,3.20,1,cash
+S0294,2026-09-08 11:07,espresso,small,none,1.70,1,card
+S0295,2026-09-08 11:12,espresso,small,none,1.70,1,card
+S0296,2026-09-08 11:31,latte,large,whole,4.30,1,card
+S0297,2026-09-08 12:10,latte,large,whole,4.30,1,card
+S0298,2026-09-08 12:12,flat white,large,whole,4.40,1,card
+S0299,2026-09-08 12:15,Latte,medium,whole,3.80,2,card
+S0300,2026-09-08 12:19,flat white,medium,oat,4.30,1,card
+S0301,2026-09-08 12:21,tea,large,none,3.00,2,cash
+S0302,2026-09-08 12:26,cappuccino,small,whole,3.20,1,card
+S0303,2026-09-08 12:37,LATTE,small,whole,3.30,1,cash
+S0304,2026-09-08 13:04,cappuccino,small,whole,3.20,1,cash
+S0305,2026-09-08 13:28,capp,large,whole,4.20,2,card
+S0306,2026-09-08 14:02,flat white,medium,whole,3.90,1,card
+S0307,2026-09-08 14:05,latte,medium,oat,4.20,1,card
+S0308,2026-09-08 14:09,tea,medium,none,2.50,1,card
+S0309,2026-09-08 14:10,latte,large,whole,4.30,3,card
+S0310,2026-09-08 14:11,tea,medium,none,2.50,3,cash
+S0311,2026-09-08 14:29,cappuccino,medium,whole,3.70,1,card
+S0312,2026-09-08 14:30,latte,medium,oat,4.20,4,card
+S0313,2026-09-08 14:41,latte,small,whole,3.30,1,card
+S0314,2026-09-08 14:44,flat white,medium,whole,3.90,1,card
+S0315,2026-09-08 14:48,flat white,large,oat,4.80,1,cash
+S0316,2026-09-08 15:08,espresso,small,none,1.70,4,cash
+S0317,2026-09-08 15:20,espresso,small,none,1.70,1,card
+S0317,2026-09-08 15:20,espresso,small,none,1.70,1,card
+S0318,2026-09-08 15:21,latte,small,whole,3.30,1,card
+S0319,2026-09-08 15:35,flat white,small,whole,3.40,1,card
+S0320,2026-09-08 15:52,espresso,small,none,1.70,2,card
+S0321,2026-09-08 15:57,flat white,small,whole,3.40,2,card
+S0322,2026-09-08 16:00,flat white,large,whole,4.40,2,card
+S0323,2026-09-08 16:19,latte,medium,whole,3.80,2,card
+S0324,2026-09-09 07:03,espresso,small,none,1.70,3,cash
+S0325,2026-09-09 07:11,flat white,large,whole,4.40,2,card
+S0326,2026-09-09 07:16,latte,large,whole,4.30,1,cash
+S0327,2026-09-09 07:28,latte,medium,whole,3.80,2,card
+S0328,2026-09-09 07:28,espresso,small,none,1.70,1,card
+S0329,2026-09-09 07:32,flat white,medium,whole,3.90,4,card
+S0330,2026-09-09 07:50,cappuccino,medium,whole,3.70,1,card
+S0331,2026-09-09 07:59,espresso,small,none,1.70,1,cash
+S0332,2026-09-09 08:01,cappuccino,small,oat,,1,card
+S0333,2026-09-09 08:02,flat white,small,whole,3.40,2,card
+S0334,2026-09-09 08:03,latte,large,whole,4.30,2,card
+S0335,2026-09-09 08:03,latte,small,whole,3.30,1,card
+S0336,2026-09-09 08:04,tea,small,none,2.00,1,card
+S0337,2026-09-09 08:07,latte,large,whole,4.30,2,card
+S0338,2026-09-09 08:10,latte,medium,oat,4.20,1,card
+S0339,2026-09-09 08:13,flat white,medium,whole,3.90,1,card
+S0340,2026-09-09 08:15,latte,small,whole,3.30,2,card
+S0341,2026-09-09 08:15,espresso,small,none,1.70,1,card
+S0342,2026-09-09 08:24,cappuccino,small,whole,3.20,2,card
+S0343,2026-09-09 08:24,flat white,medium,whole,3.90,3,card
+S0344,2026-09-09 08:32,latte,large,whole,4.30,1,card
+S0345,2026-09-09 08:42,espresso,small,none,1.70,1,cash
+S0346,2026-09-09 08:43,tea,small,none,2.00,2,card
+S0347,2026-09-09 08:56,espresso,small,none,1.70,3,card
+S0348,2026-09-09 09:20,flat white,small,whole,3.40,3,card
+S0349,2026-09-09 09:22,flat white,medium,oat,4.30,3,
+S0350,2026-09-09 09:22,latte,small,whole,3.30,1,cash
+S0351,2026-09-09 09:32,latte,medium,whole,3.80,2,card
+S0352,2026-09-09 09:40,cappuccino,medium,whole,3.70,1,card
+S0353,2026-09-09 09:43,flat white,medium,whole,3.90,1,cash
+S0354,2026-09-09 10:08,flat white,large,whole,4.40,4,card
+S0355,2026-09-09 10:11,latte,medium,oat,4.20,1,card
+S0356,2026-09-09 10:14,espresso,small,none,1.70,1,card
+S0357,2026-09-09 10:26,cappuccino,large,whole,4.20,1,card
+S0358,2026-09-09 10:28,cappuccino,medium,whole,3.70,1,card
+S0359,2026-09-09 11:35,latte,small,whole,3.30,2,card
+S0360,2026-09-09 11:40,cappuccino,medium,oat,4.10,1,card
+S0361,2026-09-09 11:41,cappuccino,medium,whole,3.70,1,cash
+S0362,2026-09-09 12:01,latte,small,whole,3.30,1,cash
+S0363,2026-09-09 12:06,espresso,small,none,1.70,1,card
+S0364,2026-09-09 12:52,flat white,large,oat,4.80,1,cash
+S0365,2026-09-09 12:56,espresso,small,none,1.70,1,card
+S0366,2026-09-09 12:59,cappuccino,medium,whole,3.70,1,card
+S0367,2026-09-09 13:03,espresso,small,none,1.70,1,card
+S0368,2026-09-09 13:15,latte,medium,oat,4.20,1,card
+S0369,2026-09-09 13:17,cappuccino,small,whole,3.20,1,card
+S0370,2026-09-09 13:30,latte,medium,whole,3.80,1,cash
+S0371,2026-09-09 13:47,latte,small,whole,3.30,2,cash
+S0372,2026-09-09 13:55,latte,large,whole,4.30,1,card
+S0373,2026-09-09 14:26,latte,medium,whole,3.80,2,cash
+S0374,2026-09-09 14:46,latte,small,whole,3.30,1,card
+S0375,2026-09-09 15:14,espresso,small,none,1.70,1,card
+S0376,2026-09-09 15:23,espresso,small,none,£1.70,1,cash
+S0377,2026-09-09 15:31,flat white,large,whole,4.40,1,cash
+S0378,2026-09-09 15:31,cappuccino,small,whole,3.20,1,card
+S0379,2026-09-09 15:35,flat white,medium,whole,3.90,2,card
+S0380,2026-09-09 15:35,espresso,small,none,1.70,1,card
+S0381,2026-09-09 15:58,flat white,medium,whole,3.90,1,card
+S0382,2026-09-09 16:07,latte,large,whole,4.30,1,card
+S0383,2026-09-10 07:04,tea,small,none,2.00,1,card
+S0384,2026-09-10 07:15,latte,large,whole,4.30,1,cash
+S0385,2026-09-10 07:23,cappuccino,large,oat,4.60,2,cash
+S0386,2026-09-10 07:35,cappuccino,small,oat,3.60,2,
+S0387,2026-09-10 07:58,flat white,small,whole,3.40,2,cash
+S0388,2026-09-10 08:03,latte,small,whole,3.30,2,card
+S0389,2026-09-10 08:03,latte,small,whole,3.30,2,card
+S0390,2026-09-10 08:03,tea,small,none,2.00,1,card
+S0391,2026-09-10 08:05,flat white,medium,whole,3.90,2,card
+S0392,2026-09-10 08:12,espresso,small,none,1.70,1,cash
+S0393,2026-09-10 08:18,cappuccino,small,oat,3.60,1,cash
+S0394,2026-09-10 08:20,latte,medium,oat,4.20,2,card
+S0395,2026-09-10 08:21,Cappuccino,large,oat,4.60,2,
+S0396,2026-09-10 08:24,tea,medium,none,2.50,2,cash
+S0397,2026-09-10 08:25,latte,medium,oat,4.20,2,card
+S0398,2026-09-10 08:29,cappuccino,medium,whole,3.70,1,card
+S0399,2026-09-10 08:30,latte,large,whole,4.30,1,card
+S0400,2026-09-10 08:34,Flat White,medium,whole,3.90,1,card
+S0401,2026-09-10 08:36,cappuccino,large,whole,4.20,2,card
+S0402,2026-09-10 08:44,LATTE,medium,oat,4.20,1,card
+S0403,2026-09-10 08:44,espresso,small,none,1.70,1,card
+S0404,2026-09-10 08:44,capp,medium,oat,4.10,1,card
+S0405,2026-09-10 08:47,cappuccino,medium,whole,3.70,1,card
+S0406,2026-09-10 08:50,espresso,small,none,1.70,2,cash
+S0407,2026-09-10 08:55,cappuccino,medium,whole,3.70,1,cash
+S0408,2026-09-10 08:56,flat white,small,whole,3.40,2,card
+S0409,2026-09-10 08:57,flat white,medium,whole,3.90,1,cash
+S0410,2026-09-10 09:03,espresso,small,none,1.70,1,cash
+S0411,2026-09-10 09:05,latte,small,oat,3.70,2,card
+S0412,2026-09-10 09:05,latte,medium,whole,3.80,1,card
+S0413,2026-09-10 09:11,tea,medium,none,2.50,1,card
+S0414,2026-09-10 09:18,cappuccino,small,whole,3.20,2,card
+S0415,2026-09-10 09:19,latte,medium,whole,3.80,1,card
+S0416,2026-09-10 09:32,latte,medium,oat,4.20,1,card
+S0417,2026-09-10 09:38,espresso,small,none,1.70,1,card
+S0418,2026-09-10 09:38,tea,medium,none,2.50,1,
+S0419,2026-09-10 09:45,cappuccino,large,whole,4.20,1,card
+S0420,2026-09-10 09:52,flat white,large,whole,4.40,1,card
+S0421,2026-09-10 10:26,latte,medium,whole,3.80,1,cash
+S0422,2026-09-10 10:33,tea,medium,,2.50,2,card
+S0423,2026-09-10 10:33,flat white,medium,whole,3.90,1,card
+S0424,2026-09-10 10:38,flat white,medium,whole,3.90,1,card
+S0425,2026-09-10 10:39,cappuccino,large,whole,4.20,1,card
+S0426,2026-09-10 10:39,tea,large,,3.00,1,card
+S0427,2026-09-10 10:49,latte,large,oat,4.70,2,card
+S0428,2026-09-10 10:53,flat white,small,whole,3.40,4,card
+S0429,2026-09-10 11:02,tea,medium,none,2.50,2,card
+S0430,2026-09-10 11:05,cappuccino,small,whole,3.20,1,card
+S0430,2026-09-10 11:05,cappuccino,small,whole,3.20,1,card
+S0431,2026-09-10 11:14,latte,medium,whole,3.80,1,card
+S0432,2026-09-10 11:29,flat white,medium,whole,,2,card
+S0433,2026-09-10 12:03,latte,small,whole,,1,card
+S0434,2026-09-10 12:23,latte,medium,whole,3.80,3,cash
+S0435,2026-09-10 12:28,flat white,large,whole,4.40,1,card
+S0436,2026-09-10 12:31,latte,medium,whole,3.80,2,cash
+S0437,2026-09-10 13:04,cappuccino,large,whole,4.20,2,cash
+S0438,2026-09-10 13:23,flat-white,medium,whole,3.90,1,card
+S0439,2026-09-10 13:24,latte,small,oat,3.70,1,card
+S0440,2026-09-10 13:27,cappuccino,medium,oat,4.10,1,card
+S0441,2026-09-10 13:44,latte,medium,whole,3.80,1,cash
+S0442,2026-09-10 13:56,Cappuccino,medium,oat,4.10,2,cash
+S0443,2026-09-10 13:59,cappuccino,medium,oat,4.10,1,card
+S0444,2026-09-10 14:20,latte,large,whole,4.30,1,card
+S0445,2026-09-10 14:47,latte,large,whole,4.30,1,cash
+S0446,2026-09-10 14:58,cappuccino,medium,whole,3.70,3,card
+S0447,2026-09-10 15:12,cappuccino,large,whole,4.20,3,cash
+S0448,2026-09-10 15:40,cappuccino,small,whole,3.20,1,card
+S0449,2026-09-10 15:41,tea,medium,none,2.50,1,cash
+S0450,2026-09-10 16:17,latte,medium,whole,3.80,3,cash
+S0451,2026-09-11 07:00,espresso,small,none,1.70,4,card
+S0452,2026-09-11 07:02,flat white,medium,whole,3.90,1,card
+S0453,2026-09-11 07:10,latte,medium,whole,3.80,1 ,card
+S0454,2026-09-11 07:19,latte,large,whole,4.30,1,card
+S0455,2026-09-11 07:21,flat white,medium,whole,3.90,3,card
+S0456,2026-09-11 07:23,latte,medium,whole,3.80,3,card
+S0457,2026-09-11 07:39,latte,medium,whole,3.80,1,card
+S0458,2026-09-11 07:48,flat white,small,whole,3.40,1,card
+S0459,2026-09-11 07:49,latte,medium,whole,3.80,2,card
+S0460,2026-09-11 07:56,flat white,small,whole,3.40,3,card
+S0461,2026-09-11 08:08,espresso,small,none,1.70,2,card
+S0462,2026-09-11 08:09,cappuccino,small,whole,3.20,2,card
+S0463,2026-09-11 08:13,tea,medium,none,2.50,1,card
+S0464,2026-09-11 08:14,tea,medium,none,2.50,1,card
+S0465,2026-09-11 08:20,cappuccino,medium,oat,4.10,1,card
+S0466,2026-09-11 08:26,cappuccino,large,oat,4.60,2,card
+S0467,2026-09-11 08:27,latte,medium,whole,3.80,1,cash
+S0468,2026-09-11 08:34,latte,small,whole,3.30,1,card
+S0469,2026-09-11 08:38,tea,small,none,2.00,2,cash
+S0470,2026-09-11 08:46,tea,small,none,,2,card
+S0471,2026-09-11 08:57,latte,small,whole,3.30,3,card
+S0472,2026-09-11 09:01,cappuccino,large,whole,4.20,1,card
+S0473,2026-09-11 09:03,flat white,small,whole,3.40,1,cash
+S0474,2026-09-11 09:03,flat white,medium,whole,3.90,3,card
+S0475,2026-09-11 09:15,cappuccino,small,whole,3.20,2,cash
+S0476,2026-09-11 09:15,espresso,small,none,1.70,3,card
+S0477,2026-09-11 09:23,latte,medium,whole,3.80,4,cash
+S0478,2026-09-11 09:24,tea,medium,none,2.50,4,cash
+S0479,2026-09-11 09:27,cappuccino,small,whole,3.20,one,card
+S0480,2026-09-11 09:28,tea,medium,none,2.50,2,cash
+S0481,2026-09-11 09:32,espresso,small,none,1.70,2,cash
+S0482,2026-09-11 09:52,cappuccino,large,whole,4.20,1,card
+S0483,2026-09-11 10:24,Latte,small,whole,3.30,1,card
+S0484,2026-09-11 10:25,tea,large,none,3.00,2,card
+S0485,2026-09-11 10:26,Espresso,small,none,1.70,1,card
+S0486,2026-09-11 10:31,latte,medium,whole,3.80,4,card
+S0487,2026-09-11 10:33,cappuccino,medium,whole,3.70,2,card
+S0488,2026-09-11 10:40,cappuccino,medium,whole,3.70,3,card
+S0489,2026-09-11 10:56,latte,medium,oat,4.20,1,card
+S0490,2026-09-11 11:16,tea,medium,none,2.50,1,card
+S0491,2026-09-11 11:21,cappuccino,medium,whole,3.70,1,cash
+S0492,2026-09-11 11:32,tea,medium,none,2.50,1,card
+S0493,2026-09-11 11:34,flat white,small,whole,3.40,3,card
+S0494,2026-09-11 11:34,cappuccino,large,whole,4.20,2,card
+S0495,2026-09-11 11:52,cappuccino,medium,whole,3.70,1,card
+S0496,2026-09-11 12:02,latte,large,oat,4.70,1,card
+S0497,2026-09-11 12:05,cappuccino,large,oat,4.60,1,card
+S0498,2026-09-11 12:34,tea,medium,none,2.50,1,card
+S0499,2026-09-11 12:42,Cappuccino,medium,whole,3.70,1,card
+S0500,2026-09-11 12:55,cappuccino,medium,whole,3.70,2,card
+S0501,2026-09-11 13:08,latte,small,whole,3.30,1,card
+S0502,2026-09-11 13:55,espresso,small,none,1.70,3,card
+S0503,2026-09-11 14:07,latte,large,oat,4.70,1,card
+S0504,2026-09-11 14:10,latte,large,whole,4.30,1,cash
+S0505,2026-09-11 14:29,tea,large,none,3.00,2,card
+S0506,2026-09-11 15:16,latte,small,whole,3.30,3,card
+S0507,2026-09-11 15:17,latte,large,whole,4.30,3,card
+S0508,2026-09-11 15:20,flat white,medium,oat,4.30,2,card
+S0509,2026-09-11 15:22,cappuccino,medium,whole,3.70,1,card
+S0510,2026-09-14 07:16,cappuccino,medium,oat,4.10,2,card
+S0511,2026-09-14 07:41,latte,medium,oat,4.20,1,card
+S0512,2026-09-14 07:58,espresso,small,none,1.70,2,card
+S0513,2026-09-14 07:59,latte,medium,whole,3.80,1,cash
+S0514,2026-09-14 08:11,flat white,large,whole,4.40,1,card
+S0515,2026-09-14 08:12,flat white,large,whole,4.40,1,card
+S0516,2026-09-14 08:18,tea,small,none,2.00,2,card
+S0517,2026-09-14 08:30,flat white,large,whole,4.40,1,card
+S0518,2026-09-14 08:31,cappuccino,large,oat,4.60,3,cash
+S0519,2026-09-14 08:33,cappuccino,medium,whole,3.70,1,card
+S0520,2026-09-14 08:34,latte,small,whole,3.30,1,cash
+S0521,2026-09-14 08:35,latte,small,whole,3.30,1,card
+S0522,2026-09-14 08:37,tea,medium,none,2.50,2,cash
+S0523,2026-09-14 08:39,latte,small,whole,3.30,2,card
+S0524,2026-09-14 08:41,flat white,medium,whole,3.90,2,cash
+S0525,2026-09-14 08:44,latte,small,whole,3.30,1,card
+S0526,2026-09-14 08:47,espresso,small,none,1.70,2,cash
+S0527,2026-09-14 08:48,tea,large,none,3.00,2,cash
+S0528,2026-09-14 08:50,espresso,small,none,1.70,1,card
+S0529,2026-09-14 08:51,latte,large,whole,4.30,3,card
+S0530,2026-09-14 09:12,cappuccino,medium,whole,3.70,1,card
+S0531,2026-09-14 09:23,cappuccino,small,oat,3.60,1,card
+S0532,2026-09-14 09:48,cappuccino,small,whole,3.20,1,card
+S0533,2026-09-14 09:49,espresso,small,none,1.70,1,card
+S0534,2026-09-14 09:54,latte,small,oat,3.70,1,cash
+S0535,2026-09-14 10:00,cappuccino,large,whole,4.20,2,card
+S0536,2026-09-14 10:06,espresso,small,none,1.70,1,cash
+S0537,2026-09-14 10:21,cappuccino,medium,oat,4.10,1,
+S0538,2026-09-14 11:45,cappuccino,large,whole,4.20,1,cash
+S0539,2026-09-14 11:52,flat white,medium,whole,3.90,1,card
+S0540,2026-09-14 12:02,latte,small,whole,3.30,1,
+S0541,2026-09-14 12:03,cappuccino,large,whole,4.20,2,card
+S0542,2026-09-14 12:10,cappuccino,medium,whole,3.70,1,cash
+S0543,2026-09-14 12:11,cappuccino,large,oat,4.60,1,card
+S0544,2026-09-14 12:34,flat white,medium,whole,3.90,2,card
+S0545,2026-09-14 13:35,tea,medium,none,2.50,3,cash
+S0546,2026-09-14 14:07,tea,large,,3.00,1,card
+S0547,2026-09-14 14:18,espresso,small,,1.70,1,cash
+S0548,2026-09-14 14:43,latte,medium,oat,4.20,4,cash
+S0549,2026-09-14 14:47,cappuccino,medium,whole,3.70,1,cash
+S0550,2026-09-14 14:51,flat-white,medium,oat,4.30,2,cash
+S0551,2026-09-14 15:00,latte,medium,whole,3.80,1,card
+S0552,2026-09-14 15:15,cappuccino,large,oat,4.60,1,cash
+S0553,2026-09-14 15:20,cappuccino,large,oat,4.60,1,
+S0554,2026-09-14 15:38,flat white,medium,whole,3.90,2,
+S0555,2026-09-14 15:49,latte,large,whole,4.30,2,cash
+S0556,2026-09-14 16:03,cappuccino,medium,whole,3.70,2,cash
+S0557,2026-09-14 16:05,espresso,small,none,1.70,2,card
+S0558,2026-09-14 16:20,espresso,small,none,1.70,2,card
+S0559,2026-09-14 16:34,flat white,medium,whole,3.90,1,card
+S0560,2026-09-14 16:36,latte,large,oat,4.70,3,card
+S0561,2026-09-15 07:03,flat white,large,whole,4.40,2,card
+S0562,2026-09-15 07:15,latte,medium,oat,4.20,3,card
+S0563,2026-09-15 07:17,cappuccino,medium,whole,3.70,1,card
+S0564,2026-09-15 07:25,latte,medium,whole,3.80,1,card
+S0565,2026-09-15 07:28,flat white,medium,whole,3.90,1,card
+S0566,2026-09-15 07:30,latte,medium,whole,3.80,2,card
+S0567,2026-09-15 07:30,flat white,medium,whole,,1,cash
+S0568,2026-09-15 07:34,latte,medium,whole,3.80,2,card
+S0569,2026-09-15 07:45,espresso,small,none,1.70,1,cash
+S0570,2026-09-15 07:46,latte,medium,whole,3.80,4,card
+S0571,2026-09-15 07:47,tea,large,none,3.00,one,cash
+S0572,2026-09-15 07:52,cappuccino,large,whole,4.20,1,card
+S0573,2026-09-15 08:04,tea,small,none,2.00,3,cash
+S0574,2026-09-15 08:15,tea,large,none,3.00,2,card
+S0575,2026-09-15 08:30,cappuccino,small,oat,3.60,2,cash
+S0576,2026-09-15 08:31,latte,medium,whole,3.80,2,card
+S0577,2026-09-15 08:33,cappuccino,small,oat,3.60,1,cash
+S0578,2026-09-15 08:39,cappuccino,medium,oat,4.10,3,cash
+S0579,2026-09-15 08:40,latte,small,whole,3.30,1,cash
+S0580,2026-09-15 08:42,Flat White,large,whole,4.40,1,card
+S0581,2026-09-15 08:43,latte,small,oat,£3.70,1,card
+S0582,2026-09-15 08:43,espresso,small,none,1.70,1,card
+S0583,2026-09-15 08:44,tea,medium,none,2.50,1,card
+S0584,2026-09-15 08:45,flat white,small,oat,3.80,1,cash
+S0585,2026-09-15 08:56,latte,small,oat,3.70,3,card
+S0586,2026-09-15 08:56,capp,small,whole,3.20,2,cash
+S0587,2026-09-15 08:57,espresso,small,none,1.70,1,card
+S0588,2026-09-15 09:03,latte,medium,whole,3.80,4,cash
+S0589,2026-09-15 09:16,cappuccino,large,whole,4.20,3,card
+S0590,2026-09-15 09:18,flat white,small,whole,3.40,1,card
+S0591,2026-09-15 09:19,espresso,small,,1.70,4,card
+S0592,2026-09-15 09:29,cappuccino,small,whole,3.20,1,card
+S0593,2026-09-15 10:01,latte,large,whole,4.30,2,cash
+S0594,2026-09-15 10:18,flat white,small,whole,3.40,1,cash
+S0595,2026-09-15 10:30,flat white,large,whole,4.40,1,card
+S0596,2026-09-15 10:38,cappuccino,medium,whole,3.70,1,card
+S0597,2026-09-15 10:53,cappuccino,medium,oat,4.10,2,card
+S0598,2026-09-15 10:54,cappuccino,medium,whole,3.70,2,card
+S0599,2026-09-15 10:57,LATTE,large,oat,4.70,1,card
+S0600,2026-09-15 10:58,cappuccino,small,whole,3.20,2,
+S0601,2026-09-15 11:53,cappuccino,large,whole,4.20,1,
+S0602,2026-09-15 12:04,latte,medium,whole,3.80,2,cash
+S0603,2026-09-15 12:09,cappuccino,large,whole,4.20,1,
+S0604,2026-09-15 12:22,flat white,small,oat,3.80,3,cash
+S0605,2026-09-15 12:23,espresso,small,none,1.70,1,card
+S0606,2026-09-15 12:29,latte,small,whole,3.30,1,card
+S0607,2026-09-15 12:44,espresso,small,none,1.70,1,cash
+S0608,2026-09-15 12:57,tea,small,none,2.00,1,card
+S0609,2026-09-15 13:02,latte,small,whole,3.30,1,card
+S0610,2026-09-15 13:39,espresso,small,none,1.70,1,card
+S0611,2026-09-15 13:44,espresso,small,none,1.70,2,card
+S0612,2026-09-15 14:05,cappuccino,medium,whole,3.70,1,card
+S0613,2026-09-15 14:08,latte,large,whole,4.30,1,cash
+S0614,2026-09-15 14:11,cappuccino,medium,whole,3.70,2,cash
+S0615,2026-09-15 14:22,flat white,medium,whole,3.90,1,card
+S0616,2026-09-15 14:29,latte,medium,whole,3.80,1,card
+S0617,2026-09-15 14:57,cappuccino,large,whole,4.20,1,cash
+S0618,2026-09-15 15:22,latte,large,whole,4.30,1,cash
+S0619,2026-09-15 15:50,espresso,small,none,1.70,1,card
+S0620,2026-09-15 16:27,Espresso,small,none,1.70,2,card
+S0621,2026-09-16 07:01,flat white,medium,whole,3.90,1,card
+S0622,2026-09-16 07:07,tea,medium,none,2.50,2,cash
+S0623,2026-09-16 07:08,espresso,small,none,1.70,1,cash
+S0624,2026-09-16 07:31,tea,medium,,2.50,3,cash
+S0625,2026-09-16 07:46,flat white,large,whole,4.40,1,card
+S0626,2026-09-16 07:53,latte,small,oat,3.70,1,card
+S0627,2026-09-16 07:56,espresso,small,none,1.70,4,cash
+S0628,2026-09-16 08:00,latte,medium,whole,3.80,1,cash
+S0629,2026-09-16 08:06,espresso,small,none,1.70,3,card
+S0630,2026-09-16 08:11,Tea,small,none,2.00,1,card
+S0631,2026-09-16 08:13,cappuccino,large,whole,4.20,1,cash
+S0632,2026-09-16 08:17,latte,large,whole,4.30,4,card
+S0633,2026-09-16 08:20,latte,medium,whole,3.80,1,card
+S0634,2026-09-16 08:31,cappuccino,medium,whole,3.70,2,card
+S0635,2026-09-16 08:35,latte,large,oat,4.70,2,card
+S0636,2026-09-16 08:39,latte,medium,whole,3.80,1,card
+S0637,2026-09-16 08:55,latte,medium,whole,3.80,1,card
+S0638,2026-09-16 08:56,latte,medium,whole,3.80,2,card
+S0639,2026-09-16 08:59,latte,large,whole,4.30,3,card
+S0640,2026-09-16 08:59,flat white,large,whole,4.40,1,cash
+S0641,2026-09-16 09:12,latte,medium,whole,3.80,1,card
+S0642,2026-09-16 09:15,latte,medium,whole,3.80,2,cash
+S0643,2026-09-16 09:19,espresso,small,none,1.70,1,card
+S0644,2026-09-16 09:25,flat white,medium,oat,4.30,1,card
+S0645,2026-09-16 09:38,tea,medium,none,2.50,2,card
+S0646,2026-09-16 09:59,cappuccino,large,oat,4.60,2,cash
+S0647,2026-09-16 10:10,espresso,small,none,1.70,1,cash
+S0648,2026-09-16 10:26,latte,medium,whole,3.80,1,cash
+S0649,2026-09-16 10:39,cappuccino,medium,whole,3.70,1,cash
+S0650,2026-09-16 10:48,flat white,medium,whole,3.90,1,card
+S0651,2026-09-16 10:50,espresso,small,none,1.70,3,card
+S0652,2026-09-16 10:51,cappuccino,small,oat,3.60,1,cash
+S0653,2026-09-16 11:00,flat white,large,whole,4.40,1,card
+S0654,2026-09-16 11:43,cappuccino,medium,whole,3.70,1,card
+S0655,2026-09-16 12:15,espresso,small,none,1.70,1,card
+S0656,2026-09-16 12:59,latte,small,whole,3.30,2,card
+S0656,2026-09-16 12:59,latte,small,whole,3.30,2,card
+S0657,2026-09-16 13:17,espresso,small,none,1.70,1,card
+S0658,2026-09-16 13:17,latte,large,whole,4.30,1,cash
+S0659,2026-09-16 13:29,flat white,large,oat,4.80,1,card
+S0660,2026-09-16 14:44,flat white,medium,whole,3.90,2,card
+S0661,2026-09-16 15:07,espresso,small,none,1.70,1,card
+S0662,2026-09-16 15:34,cappuccino,large,whole,4.20,1,card
+S0663,2026-09-16 15:43,cappuccino,medium,whole,3.70,1,card
+S0664,2026-09-16 16:13,cappuccino,medium,oat,4.10,1,cash
+S0665,2026-09-16 16:15,latte,small,whole,3.30,1,card
+S0666,2026-09-16 16:19,cappuccino,medium,oat,4.10,1,card
+S0667,2026-09-16 16:48,tea,large,none,3.00,1,card
+S0668,2026-09-16 16:58,latte,medium,whole,3.80,1,cash
+S0669,2026-09-17 07:01,flat white,medium,oat,,1,card
+S0670,2026-09-17 07:02,cappuccino,large,whole,4.20,1,card
+S0671,2026-09-17 07:08,cappuccino,medium,whole,3.70,1,cash
+S0672,2026-09-17 07:11,cappuccino,small,whole,3.20,2,card
+S0673,2026-09-17 07:35,tea,medium,none,,1,card
+S0674,2026-09-17 07:39,latte,large,whole,4.30,1,cash
+S0675,2026-09-17 07:44,latte,small,oat,3.70,3,cash
+S0676,2026-09-17 07:51, latte,large,whole,4.30,1,card
+S0677,2026-09-17 07:52,cappuccino,large,whole,4.20,1,card
+S0678,2026-09-17 08:07,tea,medium,none,2.50,1,card
+S0679,2026-09-17 08:08,cappuccino,small,whole,3.20,1,cash
+S0680,2026-09-17 08:18,flat white,medium,whole,3.90,1,cash
+S0681,2026-09-17 08:23,flat white,medium,oat,4.30,2,cash
+S0682,2026-09-17 08:33,latte,medium,whole,3.80,1,card
+S0683,2026-09-17 08:36,cappuccino,large,whole,4.20,2,card
+S0684,2026-09-17 08:37,cappuccino,medium,whole,3.70,2,card
+S0685,2026-09-17 09:08,latte,large,whole,4.30,1,card
+S0686,2026-09-17 09:11,latte,large,whole,4.30,1,card
+S0687,2026-09-17 09:17,tea,large,none,,1,cash
+S0688,2026-09-17 09:19,flat white,small,oat,3.80,3,cash
+S0689,2026-09-17 09:20,cappuccino,medium,oat,4.10,1,cash
+S0690,2026-09-17 09:20,tea,medium,none,2.50,2,card
+S0691,2026-09-17 09:27,latte,medium,whole,3.80,1,card
+S0692,2026-09-17 09:32,espresso,small,,1.70,1,card
+S0693,2026-09-17 09:34,cappuccino,small,whole,3.20,1,card
+S0694,2026-09-17 09:40,latte,medium,whole,3.80,3,card
+S0695,2026-09-17 09:58,flat white,small,oat,3.80,1,
+S0696,2026-09-17 10:58,latte,small,whole,3.30,1,card
+S0697,2026-09-17 11:13,latte,medium,whole,3.80,3,card
+S0698,2026-09-17 11:14,espresso,small,none,1.70,1,card
+S0699,2026-09-17 11:25,espresso,small,none,1.70,2,card
+S0700,2026-09-17 11:53,tea,small,none,2.00,1,card
+S0701,2026-09-17 12:37,tea,large,none,3.00,1,card
+S0702,2026-09-17 13:10,cappuccino,large,whole,4.20,1,
+S0703,2026-09-17 13:32,espresso,small,none,1.70,4,card
+S0704,2026-09-17 13:46,espresso,small,none,1.70,1,card
+S0705,2026-09-17 14:01,flat white,medium,whole,3.90,1,card
+S0706,2026-09-17 14:26,latte,small,whole,3.30,1,card
+S0707,2026-09-17 14:34,flat white,medium,whole,3.90,1,card
+S0708,2026-09-17 15:21,latte,small,whole,3.30,1,cash
+S0709,2026-09-17 15:49,latte,large,oat,4.70,4,card
+S0710,2026-09-17 16:14,tea,small,none,2.00,1,card
+S0711,2026-09-17 16:34,latte,medium,whole,3.80,2,cash
+S0712,2026-09-17 16:35,cappuccino,large,whole,4.20,1,card
+S0713,2026-09-17 16:40,cappuccino,large,whole,4.20,2,card
+S0714,2026-09-17 16:58,TEA,medium,,2.50,1,card
+S0715,2026-09-18 07:10,capp,small,oat,3.60,1,card
+S0716,2026-09-18 07:14,latte,medium,whole,3.80,2,card
+S0717,2026-09-18 07:19,latte,medium,whole,3.80,1,card
+S0718,2026-09-18 07:24,cappuccino,large,whole,4.20,1,card
+S0719,2026-09-18 07:31,latte,small,whole,3.30,1,card
+S0720,2026-09-18 07:33,tea,small,none,2.00,1,card
+S0721,2026-09-18 07:34,tea,large,,3.00,1,card
+S0722,2026-09-18 07:34,cappuccino,small,oat,3.60,1,card
+S0723,2026-09-18 07:36,espresso,small,,1.70,1,card
+S0724,2026-09-18 08:00,cappuccino,medium,oat,4.10,1,card
+S0725,2026-09-18 08:04,tea,small,none,2.00,2,card
+S0726,2026-09-18 08:14,cappuccino,medium,whole,3.70,1,card
+S0727,2026-09-18 08:16,capp,large,whole,4.20,1,card
+S0728,2026-09-18 08:17,cappuccino,medium,whole,3.70,2,card
+S0729,2026-09-18 08:19,flat white,medium,whole,3.90,2,card
+S0730,2026-09-18 08:21,cappuccino,small,whole,3.20,1,card
+S0731,2026-09-18 08:35,latte,medium,whole,3.80,1,card
+S0732,2026-09-18 08:41,latte,large,oat,4.70,1,card
+S0733,2026-09-18 08:46,tea,medium,none,2.50,1,card
+S0734,2026-09-18 08:48,espresso,small,none,1.70,1,card
+S0735,2026-09-18 08:52,Flat White,large,oat,4.80,2,card
+S0736,2026-09-18 08:55,cappuccino,large,oat,4.60,4,cash
+S0737,2026-09-18 09:00,latte,small,whole,3.30,1,cash
+S0738,2026-09-18 09:08,flat white,medium,whole,3.90,1,card
+S0739,2026-09-18 09:11,cappuccino,medium,whole,3.70,2,cash
+S0740,2026-09-18 09:18,flat white,small,whole,3.40,1,card
+S0741,2026-09-18 09:33,flat white,medium,whole,3.90,3,card
+S0742,2026-09-18 09:34,espresso,small,none,1.70,1,card
+S0743,2026-09-18 09:36,latte,large,whole,4.30,2,cash
+S0744,2026-09-18 09:40,espresso,small,none,,2,card
+S0745,2026-09-18 09:40,latte,small,whole,3.30,1,card
+S0746,2026-09-18 09:42,cappuccino,medium,whole,3.70,4,cash
+S0747,2026-09-18 09:46,latte,medium,whole,3.80,2,card
+S0748,2026-09-18 10:02,cappuccino,medium,whole,3.70,1,card
+S0749,2026-09-18 10:21,tea,medium,none,2.50,2,card
+S0750,2026-09-18 10:36,cappuccino,small,oat,3.60,1,cash
+S0751,2026-09-18 10:44,latte,large,whole,4.30,1,card
+S0752,2026-09-18 10:46,latte,small,oat,3.70,2,card
+S0753,2026-09-18 11:15,espresso,small,none,1.70,2,card
+S0754,2026-09-18 11:50,cappuccino,small,whole,3.20,2,card
+S0755,2026-09-18 12:16,latte,large,whole,4.30,2,card
+S0756,2026-09-18 12:17,flat white,medium,whole,3.90,2,card
+S0757,2026-09-18 12:24,Flat White,large,oat,4.80,2,card
+S0758,2026-09-18 12:31,espresso,small,none,,2,card
+S0759,2026-09-18 12:35,flat white,small,oat,3.80,1,card
+S0760,2026-09-18 12:39,flat white,medium,whole,3.90,1,card
+S0761,2026-09-18 12:47,espresso,small,none,1.70,1,card
+S0762,2026-09-18 12:53,espresso,small,none,1.70,1,card
+S0763,2026-09-18 12:56,tea,large,none,3.00,2,card
+S0764,2026-09-18 13:07,Cappuccino,medium,oat,4.10,2,card
+S0765,2026-09-18 13:07,Latte,small,whole,3.30,2,cash
+S0766,2026-09-18 13:29,espresso,small,none,,2,card
+S0767,2026-09-18 13:31,latte,large,whole,4.30,1,card
+S0768,2026-09-18 13:35,cappuccino,large,whole,4.20,1,cash
+S0769,2026-09-18 13:47,tea,small,none,2.00,1,cash
+S0770,2026-09-18 13:53,tea,small,none,2.00,1,card
+S0771,2026-09-18 13:53,latte,medium,whole,3.80,2,card
+S0772,2026-09-18 14:05,flat white,medium,oat,4.30,1,cash
+S0773,2026-09-18 14:10,latte,large,oat,4.70,1,card
+S0774,2026-09-18 14:14,cappuccino,medium,oat,4.10,2,card
+S0775,2026-09-18 14:16,cappuccino,small,whole,,1,cash
+S0776,2026-09-18 14:17,latte,small,whole,3.30,1,card
+S0777,2026-09-18 14:23,cappuccino,medium,whole,3.70,3,card
+S0778,2026-09-18 14:39,tea,medium,none,2.50,1,card
+S0779,2026-09-18 14:53,cappuccino,small,oat,3.60,1,card
+S0780,2026-09-18 15:01,tea,medium,none,2.50,1,card
+S0781,2026-09-18 15:05,cappuccino,small,whole,3.20,1,card
+S0782,2026-09-18 15:43,flat white,small,whole,3.40,1,card
+S0783,2026-09-18 16:16,latte,large,oat,4.70,1,card
+S0784,2026-09-21 07:19,latte,medium,oat,4.20,1,cash
+S0785,2026-09-21 07:31,latte,medium,whole,3.80,2,cash
+S0786,2026-09-21 07:37,flat white,medium,oat,4.30,2,card
+S0787,2026-09-21 07:39,latte,large,oat,4.70,1,card
+S0788,2026-09-21 07:42,espresso,small,none,1.70,2,card
+S0789,2026-09-21 07:50,flat white,small,whole,3.40,1,card
+S0790,2026-09-21 07:58,latte,small,oat,3.70,1,card
+S0791,2026-09-21 08:01,latte,small,whole,3.30,2,card
+S0792,2026-09-21 08:10,tea,small,none,2.00,2,
+S0793,2026-09-21 08:14,latte,medium,oat,4.20,1,card
+S0794,2026-09-21 08:15,latte,small,whole,3.30,2,card
+S0795,2026-09-21 08:16,cappuccino,medium,whole,3.70,1,card
+S0796,2026-09-21 08:20,espresso,small,none,1.70,1,card
+S0797,2026-09-21 08:28,tea,medium,none,2.50,2,card
+S0798,2026-09-21 08:39,espresso,small,none,£1.70,1,card
+S0799,2026-09-21 08:40,cappuccino,medium,whole,3.70,2,card
+S0800,2026-09-21 08:46,flat white,medium,whole,3.90,1,card
+S0801,2026-09-21 08:47,latte,medium,oat,4.20,2,card
+S0802,2026-09-21 08:55,Cappuccino,large,whole,4.20,2,card
+S0803,2026-09-21 08:57,cappuccino,large,whole,4.20,2,cash
+S0804,2026-09-21 08:59,cappuccino,large,whole,4.20,3,cash
+S0805,2026-09-21 09:12,tea,large,none,3.00,1,card
+S0806,2026-09-21 09:15,tea,large,none,3.00,1,card
+S0807,2026-09-21 09:19,flat white,medium,whole,3.90,1,
+S0808,2026-09-21 09:20,Cappuccino,small,whole,3.20,1,card
+S0809,2026-09-21 09:24,tea,medium,none,2.50,1,card
+S0810,2026-09-21 09:24,cappuccino,large,whole,4.20,1,card
+S0811,2026-09-21 09:40,flat white,small,oat,3.80,2,card
+S0812,2026-09-21 09:42,tea,medium,none,2.50,1,card
+S0813,2026-09-21 09:44,latte,medium,oat,4.20,1,cash
+S0814,2026-09-21 09:45,tea,medium,none,,2,card
+S0815,2026-09-21 09:50,flat white,small,whole,3.40,2,card
+S0816,2026-09-21 09:51,latte,medium,whole,3.80,1,cash
+S0817,2026-09-21 09:56,latte,large,oat,4.70,3,card
+S0818,2026-09-21 10:31,latte,medium,whole,3.80,1,card
+S0819,2026-09-21 10:54,latte,small,whole,3.30,1,card
+S0820,2026-09-21 11:30,latte,medium,oat,4.20,1,card
+S0821,2026-09-21 12:13,flat white,medium,whole,3.90,1,card
+S0822,2026-09-21 12:13,cappuccino,large,whole,4.20,3,card
+S0823,2026-09-21 12:20,Tea,small,none,2.00,3,card
+S0824,2026-09-21 12:22,flat white,medium,oat,£4.30,2,card
+S0825,2026-09-21 13:18,latte,medium,oat,4.20,2,card
+S0826,2026-09-21 13:30,flat-white,small,whole,3.40,1,cash
+S0827,2026-09-21 13:35,cappuccino,small,whole,3.20,1,card
+S0828,2026-09-21 13:38,latte,small,whole,3.30,1,card
+S0829,2026-09-21 13:42,flat white,large,oat,4.80,2,card
+S0830,2026-09-21 14:49,cappuccino,medium,oat,£4.10,1,card
+S0831,2026-09-21 15:04,espresso,small,,1.70,4,card
+S0832,2026-09-21 15:06,espresso,small,none,1.70,1,card
+S0833,2026-09-21 15:18,latte,large,whole,4.30,2,card
+S0834,2026-09-21 15:20,flat white,small,oat,3.80,2,card
+S0835,2026-09-21 15:20,flat white,large,whole,,1,card
+S0836,2026-09-21 15:38,cappuccino,medium,whole,3.70,1,card
+S0837,2026-09-22 07:18,latte,small,whole,3.30,1,card
+S0837,2026-09-22 07:18,latte,small,whole,3.30,1,card
+S0838,2026-09-22 07:49,flat white,large,whole,4.40,1,card
+S0839,2026-09-22 08:02,espresso,small,none,1.70,2,card
+S0840,2026-09-22 08:09,tea,medium,none,2.50,3,cash
+S0841,2026-09-22 08:11,latte,medium,whole,3.80,1,card
+S0842,2026-09-22 08:12,latte,medium,whole,3.80,1,card
+S0843,2026-09-22 08:25,cappuccino,small,oat,3.60,1,card
+S0844,2026-09-22 08:31,capp,small,whole,3.20,1,cash
+S0845,2026-09-22 08:45,tea,large,none,3.00,1,card
+S0846,2026-09-22 08:49,cappuccino,small,oat,£3.60,2,cash
+S0847,2026-09-22 08:59,flat white,small,oat,3.80,2,card
+S0848,2026-09-22 09:01,espresso,small,none,1.70,2,card
+S0849,2026-09-22 09:03,latte,small,whole,3.30,2,card
+S0850,2026-09-22 09:10,Espresso,small,none,1.70,1,card
+S0851,2026-09-22 09:33,cappuccino,medium,oat,4.10,2,card
+S0852,2026-09-22 09:37,latte,large,oat,4.70,1,card
+S0853,2026-09-22 09:49,flat white,large,whole,4.40,3 ,card
+S0854,2026-09-22 09:56,flat white,small,whole,3.40,1,card
+S0855,2026-09-22 09:59,espresso,small,none,1.70,3,card
+S0856,2026-09-22 10:15,tea,large,none,3.00,1,card
+S0857,2026-09-22 10:29,latte,small,oat,3.70,2,cash
+S0858,2026-09-22 10:32,tea,large,none,3.00,2,card
+S0859,2026-09-22 10:39,tea,medium,none,2.50,4,card
+S0860,2026-09-22 10:46,cappuccino,medium,whole,3.70,1,card
+S0861,2026-09-22 10:58,tea,large,none,3.00,1,card
+S0862,2026-09-22 11:01,flat white,small,oat,3.80,1,cash
+S0863,2026-09-22 11:22,latte,medium,whole,3.80,1,card
+S0864,2026-09-22 11:32,cappuccino,medium,whole,3.70,1,card
+S0865,2026-09-22 11:48,flat-white,medium,whole,3.90,1,card
+S0866,2026-09-22 11:57,Cappuccino,large,whole,4.20,3,card
+S0867,2026-09-22 12:06,cappuccino,small,whole,3.20,1,cash
+S0868,2026-09-22 12:15,latte,medium,whole,3.80,2,card
+S0869,2026-09-22 12:26,latte,medium,whole,3.80,1,card
+S0870,2026-09-22 12:39,Cappuccino,medium,whole,3.70,1,cash
+S0871,2026-09-22 12:43, latte,small,oat,3.70,1,card
+S0872,2026-09-22 12:50,espresso,small,none,1.70,3,card
+S0873,2026-09-22 12:54,espresso,small,none,1.70,1,cash
+S0874,2026-09-22 13:00,latte,small,whole,3.30,3,card
+S0875,2026-09-22 13:04,latte,medium,whole,3.80,1,card
+S0876,2026-09-22 13:14,cappuccino,medium,whole,3.70,1,card
+S0877,2026-09-22 13:23,cappuccino,medium,whole,3.70,one,card
+S0878,2026-09-22 13:57,capp,medium,whole,3.70,1,card
+S0879,2026-09-22 14:12,cappuccino,medium,whole,3.70,3,cash
+S0880,2026-09-22 14:14,espresso,small,,,1,card
+S0881,2026-09-22 14:15,latte,large,whole,4.30,1,card
+S0882,2026-09-22 14:33,cappuccino,large,whole,£4.20,4,card
+S0883,2026-09-22 15:07,latte,large,whole,4.30,1 ,card
+S0884,2026-09-22 15:24,latte,medium,oat,4.20,1,card
+S0885,2026-09-22 15:47,latte,large,whole,4.30,3,card
+S0886,2026-09-22 16:48,latte,medium,whole,3.80,1,card
+S0887,2026-09-23 07:01,espresso,small,none,1.70,3,card
+S0888,2026-09-23 07:03,cappuccino,medium,whole,3.70,2,card
+S0889,2026-09-23 07:08,latte,medium,whole,3.80,1,card
+S0890,2026-09-23 07:18,cappuccino,small,whole,3.20,2,card
+S0891,2026-09-23 07:21,cappuccino,medium,whole,3.70,1,card
+S0892,2026-09-23 07:23,Tea,medium,none,,1,card
+S0893,2026-09-23 07:28,latte,small,whole,3.30,2,card
+S0894,2026-09-23 07:28,latte,small,whole,3.30,2,card
+S0895,2026-09-23 07:50,cappuccino,medium,oat,4.10,2,card
+S0896,2026-09-23 08:01,latte,small,whole,3.30,1,card
+S0897,2026-09-23 08:07,espresso,small,none,£1.70,2,card
+S0898,2026-09-23 08:14,latte,medium,whole,3.80,1,card
+S0899,2026-09-23 08:19,tea,medium,none,2.50,2,card
+S0900,2026-09-23 08:37,Tea,medium,none,2.50,2,card
+S0901,2026-09-23 08:49,cappuccino,small,whole,3.20,2,card
+S0902,2026-09-23 08:51,latte,medium,whole,3.80,3,card
+S0903,2026-09-23 08:53,latte,small,whole,3.30,4,card
+S0904,2026-09-23 08:54,latte,small,whole,3.30,2,card
+S0905,2026-09-23 08:55,latte,medium,whole,3.80,1,card
+S0906,2026-09-23 09:09,latte,medium,whole,3.80,1,card
+S0907,2026-09-23 09:09,flat white,medium,oat,4.30,1,card
+S0908,2026-09-23 09:17,latte,small,whole,3.30,2,card
+S0909,2026-09-23 09:19,latte,medium,whole,3.80,1,card
+S0910,2026-09-23 09:23,latte,medium,whole,3.80,1,card
+S0911,2026-09-23 09:26,cappuccino,medium,oat,4.10,1,card
+S0912,2026-09-23 09:31,tea,medium,none,2.50,3,card
+S0913,2026-09-23 09:38,espresso,small,none,1.70,3,card
+S0914,2026-09-23 09:44,latte,medium,oat,4.20,1,card
+S0915,2026-09-23 09:54,cappuccino,medium,whole,3.70,1,card
+S0916,2026-09-23 10:16,cappuccino,medium,whole,3.70,1,card
+S0917,2026-09-23 10:19,cappuccino,medium,whole,3.70,2,cash
+S0918,2026-09-23 10:36,latte,large,whole,4.30,2,card
+S0919,2026-09-23 10:38,espresso,small,none,1.70,2,card
+S0920,2026-09-23 10:58,tea,medium,none,2.50,1,card
+S0921,2026-09-23 11:10,espresso,small,none,1.70,1,card
+S0922,2026-09-23 11:23,latte,medium,whole,3.80,1,card
+S0923,2026-09-23 12:01,tea,medium,none,2.50,1,card
+S0924,2026-09-23 12:04,flat white,medium,whole,3.90,1,cash
+S0925,2026-09-23 12:04,latte,medium,whole,,1,cash
+S0926,2026-09-23 12:17,flat white,medium,oat,4.30,1,card
+S0927,2026-09-23 12:18,latte,large,whole,4.30,3,card
+S0928,2026-09-23 12:28,cappuccino,large,whole,4.20,1,card
+S0929,2026-09-23 12:33,cappuccino,medium,oat,4.10,1,cash
+S0930,2026-09-23 12:47,flat white,medium,whole,3.90,2,card
+S0931,2026-09-23 12:54,cappuccino,medium,whole,3.70,1,card
+S0932,2026-09-23 13:10,cappuccino,small,whole,3.20,1,card
+S0933,2026-09-23 13:13,cappuccino,medium,whole,3.70,1,cash
+S0934,2026-09-23 13:16,latte,medium,oat,4.20,4,card
+S0935,2026-09-23 13:31,espresso,small,none,,1,card
+S0936,2026-09-23 13:52,espresso,small,none,1.70,1,card
+S0937,2026-09-23 14:06,latte,medium,oat,4.20,2,
+S0938,2026-09-23 14:14,latte,large,whole,4.30,1,card
+S0939,2026-09-23 14:19,cappuccino,medium,oat,4.10,1,card
+S0940,2026-09-23 15:03,latte,small,whole,3.30,1,card
+S0941,2026-09-23 15:09,cappuccino,medium,whole,3.70,1,cash
+S0942,2026-09-23 15:18,latte,large,whole,4.30,1,card
+S0943,2026-09-23 15:50,flat white,medium,whole,3.90,3,cash
+S0944,2026-09-23 15:51,TEA,small,none,2.00,4,card
+S0945,2026-09-23 15:54,espresso,small,none,1.70,2,cash
+S0946,2026-09-23 15:58,flat white,medium,oat,4.30,1,card
+S0947,2026-09-24 07:13,espresso,small,none,1.70,1,card
+S0948,2026-09-24 07:37,latte,medium,whole,3.80,2,card
+S0949,2026-09-24 07:44,cappuccino,large,whole,4.20,2,cash
+S0950,2026-09-24 07:56,latte,medium,oat,4.20,1,card
+S0951,2026-09-24 07:56,latte,large,whole,4.30,1,card
+S0952,2026-09-24 08:07,latte,large,whole,4.30,3,card
+S0953,2026-09-24 08:19,espresso,small,none,1.70,1,card
+S0954,2026-09-24 08:29,tea,medium,none,2.50,1,cash
+S0955,2026-09-24 08:30,espresso,small,none,1.70,1,card
+S0956,2026-09-24 08:30,cappuccino,large,oat,4.60,1,card
+S0957,2026-09-24 08:34,flat white,medium,oat,4.30,1,
+S0958,2026-09-24 08:39,flat white,large,whole,4.40,1,card
+S0959,2026-09-24 08:41,cappuccino,small,whole,3.20,3,card
+S0960,2026-09-24 09:01,cappuccino,medium,whole,3.70,1,card
+S0961,2026-09-24 09:02,cappuccino,small,whole,3.20,2,card
+S0962,2026-09-24 09:08,tea,large,none,3.00,1,card
+S0963,2026-09-24 09:21,flat white,large,whole,4.40,2,card
+S0964,2026-09-24 09:22,flat white,medium,oat,,1,card
+S0965,2026-09-24 09:23,tea,large,,3.00,1,card
+S0966,2026-09-24 09:28,latte,small,whole,3.30,1,card
+S0967,2026-09-24 09:29,flat white,medium,whole,3.90,1,card
+S0968,2026-09-24 09:33,flat white,medium,whole,3.90,2,card
+S0969,2026-09-24 09:37,flat white,large,oat,4.80,2,card
+S0970,2026-09-24 09:43,latte,large,oat,4.70,1,card
+S0971,2026-09-24 09:49,latte,large,whole,4.30,2,card
+S0972,2026-09-24 09:53,tea,medium,none,2.50,1,card
+S0972,2026-09-24 09:53,tea,medium,none,2.50,1,card
+S0973,2026-09-24 09:58,Flat White,small,whole,3.40,1,card
+S0974,2026-09-24 10:07,tea,large,none,3.00,2,card
+S0975,2026-09-24 10:08,cappuccino,medium,whole,3.70,3,card
+S0976,2026-09-24 10:35,latte,medium,whole,3.80,4,card
+S0977,2026-09-24 10:53,latte,large,whole,4.30,1,card
+S0978,2026-09-24 11:06,latte,medium,whole,3.80,3,cash
+S0979,2026-09-24 11:30,latte,medium,oat,4.20,1,card
+S0980,2026-09-24 11:40,tea,large,none,3.00,1,card
+S0981,2026-09-24 11:41,latte,large,whole,4.30,1,card
+S0982,2026-09-24 11:57,cappuccino,medium,whole,3.70,1,card
+S0983,2026-09-24 12:00,tea,large,none,3.00,4,card
+S0984,2026-09-24 12:18,tea,medium,none,2.50,3,card
+S0985,2026-09-24 12:29,flat white,large,whole,4.40,1,card
+S0986,2026-09-24 12:34,flat white,medium,whole,3.90,1,cash
+S0987,2026-09-24 12:39,espresso,small,none,1.70,1,card
+S0988,2026-09-24 12:41,latte,medium,whole,3.80,1,card
+S0989,2026-09-24 12:42,cappuccino,medium,oat,4.10,2,card
+S0990,2026-09-24 12:47,flat white,medium,whole,3.90,1,card
+S0991,2026-09-24 13:24,latte,large,oat,4.70,1,card
+S0992,2026-09-24 13:54,cappuccino,medium,whole,3.70,3,card
+S0993,2026-09-24 14:06,latte,medium,oat,4.20,1,card
+S0994,2026-09-24 14:13,cappuccino,medium,whole,3.70,1,card
+S0995,2026-09-24 14:33,latte,large,whole,4.30,4,card
+S0996,2026-09-24 14:52,flat white,small,whole,3.40,1,card
+S0997,2026-09-24 14:57,latte,large,whole,4.30,1,card
+S0998,2026-09-24 15:02,cappuccino,small,oat,3.60,2,card
+S0999,2026-09-24 15:24,flat white,large,whole,4.40,1,card
+S1000,2026-09-24 15:25,latte,medium,oat,4.20,1,cash
+S1001,2026-09-24 16:06,latte,large,whole,4.30,2,card
+S1002,2026-09-24 16:33,latte,medium,whole,3.80,1,card
+S1003,2026-09-24 16:34,capp,medium,oat,4.10,1,card
+S1004,2026-09-25 07:18,latte,medium,whole,3.80,1,card
+S1005,2026-09-25 07:49,cappuccino,medium,whole,3.70,3,card
+S1006,2026-09-25 07:50,latte,large,oat,4.70,2,card
+S1007,2026-09-25 07:54,tea,large,none,3.00,1,card
+S1008,2026-09-25 07:58,cappuccino,medium,oat,4.10,3,card
+S1009,2026-09-25 08:00,latte,large,oat,4.70,3,card
+S1010,2026-09-25 08:07,cappuccino,medium,whole,3.70,2,card
+S1011,2026-09-25 08:11,cappuccino,large,whole,4.20,3,card
+S1012,2026-09-25 08:12,latte,medium,oat,4.20,2,card
+S1013,2026-09-25 08:12,cappuccino,small,whole,3.20,2,card
+S1014,2026-09-25 08:14,latte,medium,whole,3.80,3,card
+S1015,2026-09-25 08:17,cappuccino,small,whole,3.20,2,card
+S1016,2026-09-25 08:24,flat white,large,whole,4.40,1,cash
+S1017,2026-09-25 08:27,cappuccino,large,whole,4.20,1,card
+S1018,2026-09-25 08:42,tea,medium,none,2.50,1,card
+S1019,2026-09-25 08:50,espresso,small,none,1.70,1,cash
+S1020,2026-09-25 08:59,flat white,medium,oat,4.30,2,card
+S1021,2026-09-25 09:07,latte,large,whole,4.30,2,cash
+S1022,2026-09-25 09:10,tea,medium,none,2.50,1,card
+S1023,2026-09-25 09:11,cappuccino,medium,whole,3.70,1,card
+S1024,2026-09-25 09:34,latte,large,whole,£4.30,1,card
+S1025,2026-09-25 09:43,tea,medium,none,2.50,1,card
+S1026,2026-09-25 09:47,cappuccino,large,whole,4.20,1,card
+S1027,2026-09-25 09:53,flat white,medium,oat,4.30,2,card
+S1028,2026-09-25 09:54,latte,medium,whole,3.80,2,card
+S1029,2026-09-25 09:55,cappuccino,small,oat,3.60,1,cash
+S1030,2026-09-25 10:23,tea,medium,none,2.50,1,card
+S1031,2026-09-25 10:31,latte,medium,whole,3.80,1,card
+S1032,2026-09-25 10:36,cappuccino,small,whole,3.20,2,card
+S1033,2026-09-25 10:42,latte,medium,oat,4.20,one,cash
+S1034,2026-09-25 10:50,tea,medium,none,2.50,4,card
+S1035,2026-09-25 10:55,flat white,large,whole,4.40,3,card
+S1036,2026-09-25 10:56,latte,small,whole,3.30,1,cash
+S1037,2026-09-25 11:02,flat white,small,oat,3.80,1,cash
+S1038,2026-09-25 11:22, latte,medium,oat,4.20,2,
+S1039,2026-09-25 11:31,cappuccino,medium,whole,3.70,1,card
+S1040,2026-09-25 11:48,espresso,small,none,1.70,1,card
+S1041,2026-09-25 11:49,tea,small,none,2.00,1,card
+S1042,2026-09-25 12:02,cappuccino,medium,whole,3.70,2,card
+S1043,2026-09-25 12:11,latte,large,whole,4.30,1,card
+S1044,2026-09-25 12:12,cappuccino,medium,oat,4.10,1,card
+S1045,2026-09-25 12:27,flat white,large,whole,4.40,1,card
+S1046,2026-09-25 12:38,espresso,small,none,1.70,1,card
+S1047,2026-09-25 12:40,espresso,small,none,1.70,3,
+S1048,2026-09-25 12:44,espresso,small,none,1.70,2,cash
+S1049,2026-09-25 12:45,espresso,small,none,1.70,1,card
+S1050,2026-09-25 12:52,latte,medium,whole,£3.80,3,card
+S1051,2026-09-25 12:52,cappuccino,large,whole,4.20,2,card
+S1052,2026-09-25 12:59,cappuccino,large,whole,4.20,1,card
+S1053,2026-09-25 13:27,latte,small,whole,3.30,2,cash
+S1054,2026-09-25 13:35,cappuccino,medium,oat,4.10,2,cash
+S1055,2026-09-25 13:57,cappuccino,medium,whole,3.70,1,card
+S1056,2026-09-25 13:58,latte,small,whole,3.30,1,cash
+S1057,2026-09-25 14:15,latte,large,whole,4.30,2,card
+S1058,2026-09-25 14:48,latte,small,oat,3.70,2,card
+S1059,2026-09-25 15:06,espresso,small,none,1.70,3,card
+S1060,2026-09-25 15:24,cappuccino,large,whole,4.20,3,card
+S1061,2026-09-25 15:32,latte,small,whole,3.30,2,card
+S1062,2026-09-25 16:53,flat white,medium,whole,3.90,1,card
+S1063,2026-09-28 07:02,latte,large,whole,4.30,1 ,card
+S1064,2026-09-28 07:11,cappuccino,small,whole,3.20,2,card
+S1065,2026-09-28 07:18,cappuccino,large,oat,4.60,2,card
+S1066,2026-09-28 07:32,latte,medium,oat,4.20,1,card
+S1067,2026-09-28 07:52,espresso,small,none,1.70,1,card
+S1068,2026-09-28 07:58,flat white,large,whole,4.40,1,
+S1068,2026-09-28 07:58,flat white,large,whole,4.40,1,
+S1069,2026-09-28 08:01,flat white,large,oat,£4.80,1,card
+S1070,2026-09-28 08:03,latte,medium,whole,3.80,1,card
+S1071,2026-09-28 08:11,latte,medium,whole,3.80,3,cash
+S1072,2026-09-28 08:20,cappuccino,medium,whole,3.70,2,card
+S1073,2026-09-28 08:23,tea,large,none,3.00,2,card
+S1074,2026-09-28 08:40,cappuccino,small,whole,3.20,2,card
+S1075,2026-09-28 08:45,flat white,medium,whole,3.90,3,cash
+S1076,2026-09-28 08:48,cappuccino,small,whole,3.20,1,card
+S1077,2026-09-28 08:54,cappuccino,small,whole,3.20,1,card
+S1078,2026-09-28 09:05,espresso,small,none,1.70,3,card
+S1078,2026-09-28 09:05,espresso,small,none,1.70,3,card
+S1079,2026-09-28 09:12,espresso,small,none,1.70,1,card
+S1080,2026-09-28 09:12,espresso,small,none,1.70,1,
+S1081,2026-09-28 09:12,cappuccino,large,whole,4.20,2,card
+S1082,2026-09-28 09:14,latte,medium,whole,3.80,1,card
+S1083,2026-09-28 09:25,flat white,large,whole,4.40,1,card
+S1084,2026-09-28 09:32,cappuccino,medium,whole,3.70,1,card
+S1085,2026-09-28 09:35,latte,small,whole,3.30,4,card
+S1086,2026-09-28 09:43,cappuccino,medium,whole,3.70,2,cash
+S1087,2026-09-28 09:52,cappuccino,medium,whole,3.70,1,card
+S1088,2026-09-28 09:52,cappuccino,large,oat,4.60,1,card
+S1089,2026-09-28 09:57,cappuccino,large,whole,£4.20,2,card
+S1090,2026-09-28 09:59,cappuccino,large,whole,4.20,2,card
+S1091,2026-09-28 10:23,Latte,large,oat,4.70,1,card
+S1092,2026-09-28 10:29,cappuccino,large,whole,4.20,2,card
+S1093,2026-09-28 10:43,latte,large,whole,4.30,1,card
+S1094,2026-09-28 10:45,flat white,large,whole,4.40,2,card
+S1095,2026-09-28 11:27,latte,small,whole,3.30,1,
+S1096,2026-09-28 11:49,tea,small,none,2.00,4,card
+S1097,2026-09-28 12:07,flat white,medium,whole,3.90,1,card
+S1098,2026-09-28 12:10, latte,large,whole,4.30,1,card
+S1099,2026-09-28 12:14,espresso,small,none,1.70,3,card
+S1100,2026-09-28 12:31,TEA,large,none,3.00,1,card
+S1101,2026-09-28 12:36,tea,large,,3.00,1,card
+S1102,2026-09-28 12:42,espresso,small,none,1.70,2,card
+S1103,2026-09-28 13:16,flat white,small,whole,3.40,1,card
+S1104,2026-09-28 13:27,cappuccino,large,whole,4.20,1,card
+S1105,2026-09-28 13:33,latte,large,whole,4.30,1,
+S1106,2026-09-28 14:06,cappuccino,small,oat,3.60,2,card
+S1107,2026-09-28 14:13,cappuccino,medium,whole,3.70,1,cash
+S1108,2026-09-28 14:58,cappuccino,small,whole,3.20,1,card
+S1109,2026-09-28 16:01,latte,medium,oat,4.20,1,card
+S1110,2026-09-28 16:26,cappuccino,medium,oat,4.10,2,card
+S1111,2026-09-28 16:36,espresso,small,none,1.70,1,card
+S1112,2026-09-28 16:44,tea,medium,none,2.50,3,card
+S1113,2026-09-28 16:57, latte,small,oat,3.70,3,card
+S1114,2026-09-29 07:04,tea,large,none,3.00,2,card
+S1115,2026-09-29 07:18,flat white,small,whole,3.40,1,cash
+S1116,2026-09-29 07:19,latte,medium,whole,3.80,1,card
+S1117,2026-09-29 07:24,Espresso,small,,1.70,1,cash
+S1118,2026-09-29 07:29,cappuccino,large,whole,4.20,2,card
+S1119,2026-09-29 07:33,espresso,small,none,1.70,1,cash
+S1120,2026-09-29 07:40,cappuccino,small,whole,3.20,1,card
+S1121,2026-09-29 07:48,flat white,medium,whole,3.90,2,card
+S1122,2026-09-29 07:49,latte,medium,whole,3.80,2,card
+S1123,2026-09-29 07:52,tea,medium,none,2.50,2,card
+S1124,2026-09-29 08:14,espresso,small,none,1.70,3,card
+S1125,2026-09-29 08:17,flat white,medium,whole,3.90,2,cash
+S1126,2026-09-29 08:19,espresso,small,none,1.70,1,cash
+S1127,2026-09-29 08:27,latte,small,whole,3.30,3,card
+S1128,2026-09-29 08:28,cappuccino,medium,whole,3.70,2,card
+S1129,2026-09-29 08:42,latte,medium,oat,4.20,2,card
+S1130,2026-09-29 08:55,espresso,small,none,1.70,2,card
+S1131,2026-09-29 09:10,cappuccino,small,whole,3.20,1,card
+S1132,2026-09-29 09:21,espresso,small,none,1.70,1,card
+S1133,2026-09-29 09:24,flat-white,small,oat,3.80,1,card
+S1134,2026-09-29 09:38,flat white,medium,whole,3.90,2,card
+S1135,2026-09-29 09:51,latte,medium,whole,3.80,2,card
+S1135,2026-09-29 09:51,latte,medium,whole,3.80,2,card
+S1136,2026-09-29 09:58,cappuccino,medium,oat,4.10,1,card
+S1137,2026-09-29 10:00,cappuccino,medium,whole,3.70,1,card
+S1138,2026-09-29 10:02,espresso,small,none,,1,card
+S1139,2026-09-29 10:25,flat white,large,oat,4.80,1,cash
+S1140,2026-09-29 10:52,flat white,medium,whole,3.90,1,card
+S1141,2026-09-29 10:56,latte,medium,whole,3.80,2,cash
+S1142,2026-09-29 11:15,cappuccino,medium,whole,£3.70,2,card
+S1143,2026-09-29 11:38,cappuccino,small,whole,3.20,1,card
+S1144,2026-09-29 11:57,espresso,small,none,1.70,1,cash
+S1145,2026-09-29 12:07,cappuccino,large,whole,4.20,1,card
+S1146,2026-09-29 12:12,cappuccino,medium,whole,3.70,1,card
+S1147,2026-09-29 12:29,cappuccino,large,whole,4.20,1,card
+S1148,2026-09-29 12:35,latte,small,oat,3.70,1,card
+S1149,2026-09-29 12:47,latte,medium,whole,,1,card
+S1150,2026-09-29 13:01,tea,medium,none,2.50,1,card
+S1151,2026-09-29 13:06,espresso,small,none,1.70,1,card
+S1152,2026-09-29 13:09,latte,medium,whole,3.80,2,card
+S1153,2026-09-29 13:20,latte,medium,whole,3.80,2,card
+S1154,2026-09-29 13:25,flat white,medium,oat,4.30,1,card
+S1155,2026-09-29 13:49,latte,large,whole,4.30,1,cash
+S1156,2026-09-29 13:57,flat white,large,whole,4.40,2,card
+S1157,2026-09-29 14:08,latte,medium,oat,4.20,1,card
+S1158,2026-09-29 14:21,espresso,small,none,1.70,1,cash
+S1159,2026-09-29 14:28,latte,small,whole,3.30,1,card
+S1160,2026-09-29 15:05,espresso,small,none,1.70,1,card
+S1161,2026-09-29 15:28,espresso,small,none,1.70,1,card
+S1162,2026-09-29 16:42,latte,small,oat,3.70,1,cash
+S1163,2026-09-30 07:02,flat white,small,whole,3.40,2,card
+S1164,2026-09-30 07:06,flat white,large,oat,4.80,1,card
+S1165,2026-09-30 07:07,latte,large,whole,4.30,1,cash
+S1166,2026-09-30 07:19,cappuccino,large,whole,4.20,1,card
+S1167,2026-09-30 07:20,tea,large,none,3.00,2,card
+S1167,2026-09-30 07:20,tea,large,none,3.00,2,card
+S1168,2026-09-30 07:22,flat white,medium,whole,3.90,1,card
+S1169,2026-09-30 07:36,espresso,small,none,1.70,1,card
+S1169,2026-09-30 07:36,espresso,small,none,1.70,1,card
+S1170,2026-09-30 08:00,flat white,large,whole,4.40,2,card
+S1171,2026-09-30 08:14,cappuccino,small,oat,3.60,1,card
+S1172,2026-09-30 08:18,tea,medium,none,2.50,1,card
+S1173,2026-09-30 08:27,latte,large,whole,4.30,1,card
+S1174,2026-09-30 08:37,espresso,small,none,1.70,1,card
+S1175,2026-09-30 08:52,latte,large,oat,4.70,1,card
+S1176,2026-09-30 08:53,espresso,small,none,1.70,1,card
+S1177,2026-09-30 08:58,latte,small,whole,3.30,1,card
+S1178,2026-09-30 09:12,tea,small,none,2.00,1,card
+S1179,2026-09-30 09:23,latte,medium,whole,3.80,1,
+S1180,2026-09-30 09:24,latte,small,whole,3.30,2,cash
+S1181,2026-09-30 09:47,latte,medium,oat,4.20,2,card
+S1182,2026-09-30 10:02,latte,medium,whole,3.80,3,card
+S1183,2026-09-30 10:04,flat white,small,whole,3.40,3,cash
+S1184,2026-09-30 10:12,espresso,small,none,1.70,1,card
+S1185,2026-09-30 10:22,latte,small,whole,3.30,1,card
+S1186,2026-09-30 10:49,cappuccino,large,oat,4.60,1,card
+S1187,2026-09-30 11:11,latte,small,whole,3.30,2,card
+S1187,2026-09-30 11:11,latte,small,whole,3.30,2,card
+S1188,2026-09-30 11:37,latte,medium,oat,4.20,1,cash
+S1189,2026-09-30 11:52,flat white,medium,whole,3.90,2,card
+S1190,2026-09-30 11:54,flat white,large,oat,4.80,1,card
+S1191,2026-09-30 12:05,flat white,medium,whole,3.90,3,card
+S1192,2026-09-30 12:07,latte,large,whole,4.30,1,cash
+S1193,2026-09-30 12:16,flat white,medium,whole,3.90,2,card
+S1194,2026-09-30 12:38,tea,medium,none,2.50,1,card
+S1195,2026-09-30 12:41,latte,medium,whole,3.80,2,card
+S1196,2026-09-30 12:41,flat white,large,whole,4.40,1,card
+S1197,2026-09-30 12:45,latte,medium,whole,3.80,1,card
+S1198,2026-09-30 12:48,tea,medium,none,2.50,1,card
+S1199,2026-09-30 13:03,latte,small,whole,3.30,1,
+S1200,2026-09-30 13:05,espresso,small,none,1.70,1,card
+S1201,2026-09-30 13:19,flat-white,medium,oat,4.30,2,card
+S1202,2026-09-30 13:21,latte,medium,whole,3.80,1,card
+S1203,2026-09-30 13:29,cappuccino,large,whole,4.20,1,card
+S1204,2026-09-30 13:46,latte,medium,oat,4.20,2,card
+S1205,2026-09-30 13:48,cappuccino,medium,whole,3.70,1,card
+S1206,2026-09-30 14:53,latte,large,whole,4.30,1,card
+S1207,2026-09-30 14:59,latte,medium,whole,3.80,1,card
+S1208,2026-09-30 15:15,latte,large,whole,4.30,1,card
+S1209,2026-09-30 15:19,latte,large,whole,4.30,1,card
+S1210,2026-09-30 15:19,cappuccino,large,oat,4.60,1,card
+S1211,2026-09-30 15:55,espresso,small,none,1.70,1,card
+S1212,2026-09-30 16:19,latte,large,whole,4.30,2,card
+S1213,2026-09-30 16:28,flat white,small,whole,3.40,3,card
+S1214,2026-09-30 16:57,cappuccino,medium,whole,3.70,1,card
