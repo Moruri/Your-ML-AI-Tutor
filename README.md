@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Monday 2026-09-28, Week 4 Day 1):**
+**Today's lessons (Tuesday 2026-09-29, Week 4 Day 2):**
 
-- [Lesson 023 - Distributions and summary statistics](lessons/phase-1-data-science/lesson-023-distributions-and-summary-statistics/README.md)
-- [Lesson 024 - Correlation, causation and the traps in between](lessons/phase-1-data-science/lesson-024-correlation-causation-and-the-traps-in-between/README.md)
+- [Lesson 025 - Probability intuition for ML](lessons/phase-1-data-science/lesson-025-probability-intuition-for-ml/README.md)
+- [Lesson 026 - Sampling, confidence and the bootstrap](lessons/phase-1-data-science/lesson-026-sampling-confidence-and-the-bootstrap/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 1: inside the virtual environment, see below)
-python lessons/phase-1-data-science/lesson-023-distributions-and-summary-statistics/lesson.py
-python lessons/phase-1-data-science/lesson-024-correlation-causation-and-the-traps-in-between/lesson.py
+python lessons/phase-1-data-science/lesson-025-probability-intuition-for-ml/lesson.py
+python lessons/phase-1-data-science/lesson-026-sampling-confidence-and-the-bootstrap/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
