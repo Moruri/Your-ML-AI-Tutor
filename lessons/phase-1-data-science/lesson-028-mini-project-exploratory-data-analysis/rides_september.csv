@@ -1,0 +1,1199 @@
+ride_id,started_at,start_station,bike_type,duration_min,distance_km,rider_type,rating
+R00001,2026-09-01 07:04,Park Gate,electric,16.5,4.59,casual,5
+R00002,2026-09-01 08:00,Park Gate,electric,23.1,6.11,member,
+R00003,2026-09-01 08:04,Station Road,classic,20.1,3.51,member,5
+R00004,2026-09-01 08:06,Riverside,electric,8.2,2.19,member,5
+R00005,2026-09-01 08:07,Old Mill,classic,39.3,6.78,casual,4
+R00006,2026-09-01 08:12,Old Mill,electric,5.5,1.16,member,3
+R00007,2026-09-01 08:15,Park Gate,electric,8.9,2.16,casual,4
+R00008,2026-09-01 08:16,Old Mill,classic,26.7,5.12,member,3
+R00009,2026-09-01 08:16,University,classic,7.9,1.32,member,5
+R00010,2026-09-01 08:18,Park Gate,classic,25.6,3.59,casual,3
+R00011,2026-09-01 08:20,Riverside,classic,16.1,3.46,member,
+R00012,2026-09-01 08:23,Market Square,classic,9.7,1.6,member,
+R00013,2026-09-01 08:30,Riverside,electric,20.2,5.56,casual,5
+R00014,2026-09-01 08:31,University,classic,38.7,5.16,casual,
+R00015,2026-09-01 08:40,University,electric,5.8,1.52,member,4
+R00016,2026-09-01 08:41,Station Road,electric,9.5,2.52,casual,4
+R00017,2026-09-01 08:42,Riverside,classic,8.4,1.36,member,2
+R00018,2026-09-01 08:51,University,classic,15.1,2.7,member,
+R00019,2026-09-01 08:52,Old Mill,classic,7.7,1.15,member,3
+R00020,2026-09-01 08:54,Old Mill,classic,25.3,4.87,casual,2
+R00021,2026-09-01 09:14,Old Mill,electric,3.9,0.94,member,4
+R00022,2026-09-01 10:47,Old Mill,electric,16.6,4.35,casual,5
+R00023,2026-09-01 12:00,University,classic,15.1,2.91,member,4
+R00024,2026-09-01 12:15,Old Mill,classic,18.6,2.96,member,4
+R00025,2026-09-01 12:15,Park Gate,electric,9.0,2.58,member,2
+R00026,2026-09-01 12:33,Station Road,electric,6.4,1.44,member,4
+R00027,2026-09-01 12:34,Park Gate,classic,16.1,2.71,member,4
+R00028,2026-09-01 12:52,Market Square,electric,37.2,10.02,member,4
+R00029,2026-09-01 12:56,University,classic,15.2,3.18,casual,4
+R00030,2026-09-01 13:18,old mill,electric,4.9,1.06,member,5
+R00031,2026-09-01 13:21,Old Mill,classic,34.7,5.22,member,5
+R00032,2026-09-01 13:37,Station Road,electric,9.4,2.22,member,5
+R00033,2026-09-01 13:50,Park Gate,classic,27.8,5.14,casual,3
+R00034,2026-09-01 13:50,Old Mill,classic,7.7,1.65,member,3
+R00035,2026-09-01 13:54,Station Road,classic,20.4,3.8,casual,4
+R00036,2026-09-01 14:29,Market Square,electric,10.0,2.14,member,5
+R00037,2026-09-01 14:39,Market Square,classic,16.0,2.41,member,2
+R00038,2026-09-01 16:08,Station Road,electric,10.0,2.15,member,4
+R00039,2026-09-01 17:00,University,classic,14.4,3.14,member,5
+R00040,2026-09-01 17:09,Old Mill,classic,8.0,1.43,member,5
+R00041,2026-09-01 17:18,Riverside,classic,24.1,5.25,member,
+R00042,2026-09-01 17:20,Park Gate,classic,33.7,7.11,member,4
+R00043,2026-09-01 17:20,Riverside,classic,4.2,0.8,member,4
+R00044,2026-09-01 17:27,Market Square,classic,15.9,3.33,member,4
+R00045,2026-09-01 17:35,Station Road,classic,16.7,2.29,casual,5
+R00046,2026-09-01 17:40,University,classic,7.0,0.87,member,3
+R00047,2026-09-01 17:47,Old Mill,classic,27.9,4.45,casual,4
+R00048,2026-09-01 17:47,Market Square,electric,27.0,5.21,casual,3
+R00049,2026-09-01 17:49,Old Mill,electric,13.1,2.84,member,3
+R00050,2026-09-01 17:51,Park Gate,classic,12.2,2.23,member,4
+R00051,2026-09-01 17:57,Market Square,classic,22.0,3.12,casual,4
+R00052,2026-09-01 17:58,Park Gate,electric,7.3,1.54,member,4
+R00053,2026-09-01 17:59,Market Square,classic,10.0,1.65,member,
+R00054,2026-09-01 18:05,Station Road,classic,20.4,3.21,casual,4
+R00055,2026-09-01 18:22,University,electric,14.9,3.49,member,3
+R00056,2026-09-01 18:38,University,electric,11.8,3.25,member,3
+R00057,2026-09-01 18:57,Market Square,classic,11.9,2.11,member,4
+R00058,2026-09-01 18:58,Riverside,classic,23.0,3.97,member,4
+R00059,2026-09-01 19:39,University,classic,6.8,1.42,member,5
+R00060,2026-09-01 20:18,Station Road,classic,17.4,3.97,member,5
+R00061,2026-09-02 07:40,Park Gate,classic,15.8,3.15,member,3
+R00062,2026-09-02 07:49,University,electric,12.2,3.07,casual,4
+R00063,2026-09-02 08:05,Station Road,classic,7.1,1.61,member,4
+R00064,2026-09-02 08:30,University,electric,8.9,1.91,member,4
+R00065,2026-09-02 08:38,Old Mill,classic,10.7,2.19,casual,5
+R00066,2026-09-02 08:51,Park Gate,electric,13.5,3.19,member,5
+R00067,2026-09-02 09:10,Old Mill,classic,7.7,1.54,member,4
+R00068,2026-09-02 09:22,Market Square,classic,11.3,1.75,member,5
+R00069,2026-09-02 09:23,University,classic,17.8,2.34,casual,4
+R00070,2026-09-02 09:25,Market Square,electric,8.5,2.62,member,4
+R00071,2026-09-02 09:36,Old Mill,classic,9.8,1.78,casual,5
+R00072,2026-09-02 09:42,Park Gate,classic,13.5,2.56,member,4
+R00073,2026-09-02 09:44,Riverside,classic,16.1,2.79,member,4
+R00074,2026-09-02 09:50,Station Road,classic,8.4,1.85,member,4
+R00075,2026-09-02 10:28,Riverside,electric,15.0,4.31,member,3
+R00076,2026-09-02 12:00,Riverside,classic,37.8,5.94,casual,5
+R00077,2026-09-02 12:03,University,classic,17.5,3.96,member,
+R00078,2026-09-02 12:29,Station Road,classic,8.6,0.97,member,
+R00079,2026-09-02 12:42,Riverside,classic,7.8,1.27,member,2
+R00080,2026-09-02 12:44,Market Square,electric,12.0,3.35,casual,3
+R00081,2026-09-02 12:51,Park Gate,electric,12.5,3.39,member,
+R00082,2026-09-02 12:54,Riverside,electric,3.9,0.81,member,3
+R00083,2026-09-02 12:55,Old Mill,classic,708.0,5.11,member,
+R00084,2026-09-02 12:58,Station Road,classic,20.8,3.38,member,4
+R00085,2026-09-02 13:02,Station Road,electric,3.5,0.8,member,4
+R00086,2026-09-02 13:11,Station Road,classic,12.7,2.69,member,4
+R00087,2026-09-02 13:12,Market Square,electric,22.1,4.55,casual,5
+R00088,2026-09-02 13:38,Market Square,classic,6.6,1.19,member,
+R00089,2026-09-02 13:44,Old Mill,electric,3.2,0.97,member,4
+R00090,2026-09-02 17:01,Riverside,classic,20.5,3.06,member,4
+R00091,2026-09-02 17:09,Park Gate,electric,12.1,3.13,member,3
+R00092,2026-09-02 17:20,Station Road,electric,11.5,2.93,casual,2
+R00093,2026-09-02 17:21,Old Mill,classic,7.2,1.0,member,3
+R00094,2026-09-02 17:24,Station Road,classic,7.1,1.04,member,
+R00095,2026-09-02 17:25,Old Mill,electric,16.0,4.1,member,5
+R00096,2026-09-02 17:26,University,classic,13.6,2.76,member,5
+R00097,2026-09-02 17:27,Station Road,electric,7.2,1.87,member,4
+R00098,2026-09-02 17:31,Old Mill,classic,22.6,3.65,member,3
+R00099,2026-09-02 17:36,Riverside,electric,6.8,1.68,member,4
+R00100,2026-09-02 17:50,Riverside,electric,11.6,2.67,member,5
+R00101,2026-09-02 17:50,Market Square,classic,12.4,2.48,member,4
+R00102,2026-09-02 17:55,Park Gate,electric,7.2,2.03,member,3
+R00103,2026-09-02 18:24,Station Road,classic,14.3,2.91,casual,4
+R00104,2026-09-02 18:26,  University ,electric,7.2,1.97,member,4
+R00105,2026-09-02 18:33,Old Mill,classic,12.6,2.59,member,4
+R00106,2026-09-02 18:36,Station Road,electric,20.4,5.15,casual,
+R00107,2026-09-02 21:21,Old Mill,classic,12.5,1.84,member,5
+R00108,2026-09-02 21:35,Old Mill,classic,9.7,2.33,member,
+R00109,2026-09-02 21:55,Riverside,classic,14.3,2.15,casual,
+R00110,2026-09-03 07:10,Park Gate,electric,15.7,3.39,casual,4
+R00111,2026-09-03 07:19,Riverside,classic,7.0,1.47,casual,5
+R00112,2026-09-03 08:00,University,electric,14.6,3.66,member,4
+R00113,2026-09-03 08:02,Riverside,classic,17.6,4.04,member,4
+R00114,2026-09-03 08:06,Station Road,electric,8.7,2.38,member,
+R00115,2026-09-03 08:07,University,classic,10.1,1.06,member,3
+R00116,2026-09-03 08:09,University,classic,21.0,3.35,casual,4
+R00117,2026-09-03 08:11,Riverside,electric,27.5,7.8,casual,4
+R00118,2026-09-03 08:17,University,classic,15.1,2.22,casual,5
+R00119,2026-09-03 08:19,University,classic,14.2,2.37,casual,4
+R00120,2026-09-03 08:36,University,classic,11.1,1.76,member,4
+R00121,2026-09-03 08:38,Station Road,classic,11.6,2.65,member,5
+R00122,2026-09-03 08:39,Park Gate,classic,12.6,1.1,member,4
+R00123,2026-09-03 08:56,Park Gate,classic,9.4,2.05,member,
+R00124,2026-09-03 08:57,University,electric,12.8,3.18,casual,
+R00125,2026-09-03 09:06,Park Gate,electric,19.4,4.81,casual,5
+R00126,2026-09-03 09:14,University,electric,9.0,2.29,member,
+R00127,2026-09-03 09:14,Riverside,classic,16.4,2.44,casual,
+R00128,2026-09-03 09:27,Riverside,electric,13.9,2.51,casual,4
+R00129,2026-09-03 09:40,station road,electric,10.3,2.65,member,4
+R00130,2026-09-03 09:41,Old Mill,electric,14.6,4.03,member,5
+R00131,2026-09-03 09:46,Market Square,electric,17.4,4.66,member,5
+R00132,2026-09-03 09:53,Park Gate,classic,14.5,3.07,member,4
+R00133,2026-09-03 10:23,Market Square,electric,8.3,2.16,member,5
+R00134,2026-09-03 12:31,Park Gate,electric,7.5,1.89,member,5
+R00135,2026-09-03 12:51,University,electric,11.8,2.98,member,
+R00136,2026-09-03 12:57,Old Mill,classic,7.7,1.65,member,3
+R00137,2026-09-03 12:57,Station Road,classic,12.0,2.38,casual,
+R00138,2026-09-03 13:08,Park Gate,classic,11.0,1.77,member,4
+R00139,2026-09-03 13:12,Old Mill,classic,4.0,0.89,member,4
+R00140,2026-09-03 13:23,Park Gate,classic,2.4,0.43,member,
+R00141,2026-09-03 13:25,Riverside,classic,3.8,0.6,member,5
+R00142,2026-09-03 13:38,University,electric,5.7,1.4,member,4
+R00143,2026-09-03 13:49,Market Square,classic,27.2,4.48,member,
+R00144,2026-09-03 13:58,Station Road,electric,10.8,2.22,member,4
+R00144,2026-09-03 13:58,Station Road,electric,10.8,2.22,member,4
+R00145,2026-09-03 14:02,University,electric,10.3,2.66,member,3
+R00146,2026-09-03 16:57,Station Road,electric,24.4,6.38,member,
+R00147,2026-09-03 17:08,University,classic,10.1,1.39,member,5
+R00148,2026-09-03 17:09,Riverside,electric,11.5,3.24,member,4
+R00149,2026-09-03 17:11,Riverside,classic,8.1,1.57,member,4
+R00150,2026-09-03 17:23,University,classic,15.2,2.7,casual,4
+R00151,2026-09-03 17:25,Old Mill,classic,14.7,3.08,member,4
+R00152,2026-09-03 17:31,Market Square,classic,8.2,1.89,member,
+R00153,2026-09-03 17:34,Station Road,electric,18.0,3.84,member,
+R00154,2026-09-03 17:38,Park Gate,classic,4.5,0.98,member,
+R00155,2026-09-03 17:46,Station Road,classic,12.8,2.2,member,4
+R00156,2026-09-03 17:47,Market Square,classic,6.8,1.5,member,4
+R00157,2026-09-03 17:51,Riverside,electric,27.0,5.14,casual,
+R00158,2026-09-03 17:59,Riverside,classic,21.6,5.58,casual,3
+R00159,2026-09-03 18:04,Old Mill,classic,11.8,2.76,casual,
+R00160,2026-09-03 18:09,University,classic,14.2,2.83,member,
+R00161,2026-09-03 18:10,University,classic,37.0,7.39,casual,3
+R00162,2026-09-03 18:18,Market Square,electric,11.3,3.55,member,4
+R00163,2026-09-03 18:24,Old Mill,classic,19.4,3.91,casual,
+R00164,2026-09-03 18:40,Riverside,electric,7.6,1.95,member,3
+R00165,2026-09-03 18:43,University,electric,32.3,8.68,casual,
+R00166,2026-09-03 19:22,Riverside,electric,22.1,5.82,casual,4
+R00167,2026-09-03 20:54,Old Mill,classic,13.4,1.94,member,
+R00168,2026-09-04 08:02,Park Gate,classic,4.9,0.7,member,5
+R00169,2026-09-04 08:02,Park Gate,electric,14.5,3.15,casual,2
+R00170,2026-09-04 08:03,University,electric,13.5,2.84,casual,3
+R00171,2026-09-04 08:20,Riverside,electric,5.7,1.5,member,4
+R00172,2026-09-04 08:21,Old Mill,classic,12.7,3.3,member,3
+R00173,2026-09-04 08:24,  Old Mill ,electric,4.2,1.01,member,5
+R00174,2026-09-04 08:36,University,classic,7.7,1.18,member,5
+R00175,2026-09-04 08:37,University,classic,14.3,2.7,member,5
+R00176,2026-09-04 08:44,University,classic,15.4,2.01,member,4
+R00177,2026-09-04 08:57,Old Mill,classic,14.8,3.0,member,
+R00178,2026-09-04 09:02,University,classic,8.0,2.03,member,4
+R00179,2026-09-04 09:04,Park Gate,electric,4.0,0.83,member,
+R00180,2026-09-04 09:07,University,electric,4.3,0.99,member,4
+R00181,2026-09-04 09:07,University,Classic,23.5,5.36,casual,3
+R00182,2026-09-04 09:13,Market Square,classic,13.3,2.75,member,4
+R00183,2026-09-04 09:16,Old Mill,classic,8.5,1.01,member,5
+R00184,2026-09-04 09:25,University,classic,12.3,1.92,member,4
+R00185,2026-09-04 09:45,Market Square,classic,6.2,1.08,member,5
+R00186,2026-09-04 09:53,Market Square,classic,26.5,4.93,casual,4
+R00187,2026-09-04 09:58,Park Gate,electric,10.8,2.86,member,3
+R00188,2026-09-04 11:37,Station Road,electric,17.1,3.77,member,4
+R00189,2026-09-04 12:05,Market Square,electric,32.0,9.62,casual,4
+R00190,2026-09-04 12:05,University,classic,8.7,1.13,casual,
+R00191,2026-09-04 12:06,Station Road,classic,19.0,2.92,member,5
+R00192,2026-09-04 12:34,Station Road,classic,13.6,3.04,member,
+R00193,2026-09-04 12:34,Old Mill,classic,40.2,9.23,casual,3
+R00194,2026-09-04 12:43,Market Square,electric,11.9,2.8,casual,
+R00195,2026-09-04 12:53,University,electric,13.2,3.1,casual,
+R00196,2026-09-04 12:56,Station Road,classic,22.1,3.44,member,5
+R00197,2026-09-04 13:07,University,classic,9.8,1.83,member,
+R00198,2026-09-04 13:29,Park Gate,classic,13.7,2.37,member,4
+R00199,2026-09-04 13:37,Market Square,classic,14.8,2.95,member,3
+R00200,2026-09-04 17:04,Station Road,electric,15.6,3.83,member,5
+R00201,2026-09-04 17:16,Riverside,electric,8.5,1.72,member,3
+R00202,2026-09-04 17:25,University,classic,12.4,2.53,casual,4
+R00203,2026-09-04 17:27,Riverside,electric,13.5,3.19,member,5
+R00204,2026-09-04 17:48,Market Square,classic,5.0,1.05,member,4
+R00205,2026-09-04 17:56,Station Road,electric,40.1,8.05,casual,4
+R00206,2026-09-04 18:14,Station Road,electric,33.1,8.11,casual,3
+R00207,2026-09-04 18:39,Market Square,classic,15.7,2.84,member,
+R00208,2026-09-04 18:49,Station Road,electric,6.0,1.32,member,4
+R00209,2026-09-04 18:51,Riverside,classic,22.9,5.03,casual,
+R00210,2026-09-04 18:53,Riverside,electric,6.9,2.1,member,3
+R00211,2026-09-04 20:22,Riverside,classic,11.0,1.87,member,3
+R00212,2026-09-04 20:45,Old Mill,classic,12.6,1.63,member,2
+R00213,2026-09-04 21:54,Riverside,electric,8.3,2.23,member,4
+R00214,2026-09-05 07:43,Park Gate,electric,19.7,5.65,casual,4
+R00215,2026-09-05 09:03,Market Square,classic,16.6,3.83,casual,5
+R00216,2026-09-05 09:08,Old Mill,classic,23.5,4.22,casual,3
+R00217,2026-09-05 09:17,Riverside,classic,23.7,3.68,member,5
+R00218,2026-09-05 09:40,Park Gate,classic,5.9,1.19,member,
+R00219,2026-09-05 09:54,Market Square,electric,13.4,3.29,casual,4
+R00220,2026-09-05 10:08,Station Road,electric,5.9,1.44,member,4
+R00221,2026-09-05 10:34,Old Mill,classic,6.4,0.98,casual,
+R00222,2026-09-05 11:08,Park Gate,classic,4.8,0.88,member,
+R00222,2026-09-05 11:08,Park Gate,classic,4.8,0.88,member,
+R00223,2026-09-05 11:27,Riverside,electric,11.8,3.11,casual,2
+R00224,2026-09-05 12:03,University,electric,19.0,3.28,casual,4
+R00225,2026-09-05 12:05,University,classic,23.8,3.1,casual,4
+R00226,2026-09-05 12:09,Station Road,classic,16.5,2.85,casual,4
+R00227,2026-09-05 12:25,University,classic,15.8,3.48,member,4
+R00228,2026-09-05 12:38,Riverside,classic,27.8,7.1,casual,4
+R00229,2026-09-05 13:24,Old Mill,classic,20.0,3.56,casual,
+R00230,2026-09-05 13:52,University,electric,10.0,2.35,member,
+R00231,2026-09-05 14:38,University,Classic,9.6,1.43,member,4
+R00232,2026-09-05 14:43,station road,classic,12.5,2.22,casual,3
+R00233,2026-09-05 14:59,Station Road,classic,17.6,2.86,casual,3
+R00234,2026-09-05 14:59,Old Mill,classic,7.0,0.97,member,5
+R00235,2026-09-05 15:19,Station Road,classic,31.4,5.73,casual,4
+R00236,2026-09-05 15:23,Riverside,classic,18.0,4.05,member,4
+R00237,2026-09-05 15:28,Station Road,classic,10.9,1.94,member,
+R00238,2026-09-05 15:33,Old Mill,classic,24.2,3.41,member,
+R00239,2026-09-05 15:39,University,classic,12.4,2.84,casual,3
+R00240,2026-09-05 16:19,Old Mill,classic,15.5,3.36,casual,5
+R00241,2026-09-05 16:44,Old Mill,classic,25.1,5.27,casual,5
+R00242,2026-09-05 16:51,Station Road,classic,14.0,2.74,member,4
+R00243,2026-09-05 16:59,Park Gate,electric,13.5,2.71,member,4
+R00244,2026-09-05 17:14,Station Road,classic,21.5,5.39,casual,
+R00245,2026-09-05 17:30,Market Square,classic,6.1,1.06,member,5
+R00246,2026-09-05 17:43,University,classic,31.7,5.74,casual,5
+R00247,2026-09-05 17:55,Riverside,classic,21.9,4.14,casual,4
+R00248,2026-09-05 18:25,Market Square,classic,11.2,1.92,member,5
+R00249,2026-09-05 18:43,Old Mill,classic,12.7,2.85,casual,
+R00250,2026-09-06 07:39,Park Gate,electric,17.0,4.89,member,4
+R00251,2026-09-06 09:39,Market Square,electric,21.6,5.53,member,4
+R00252,2026-09-06 09:53,Old Mill,classic,7.7,1.57,member,5
+R00253,2026-09-06 10:14,Old Mill,classic,4.4,0.75,member,4
+R00254,2026-09-06 10:22,Riverside,electric,12.4,3.36,casual,5
+R00255,2026-09-06 10:28,University,electric,16.9,4.25,casual,4
+R00256,2026-09-06 10:54,Station Road,classic,23.5,4.22,casual,3
+R00257,2026-09-06 10:58,Old Mill,classic,7.3,1.55,member,5
+R00258,2026-09-06 11:09,University,electric,37.9,10.19,casual,
+R00259,2026-09-06 11:11,Riverside,classic,10.7,2.02,member,5
+R00260,2026-09-06 11:18,Station Road,classic,20.9,3.92,casual,4
+R00261,2026-09-06 11:24,Market Square,classic,11.9,2.26,member,5
+R00262,2026-09-06 11:28,Station Road,electric,14.6,3.58,casual,4
+R00263,2026-09-06 11:55,Market Square,classic,13.2,2.74,casual,5
+R00264,2026-09-06 12:00,Park Gate,electric,13.6,2.76,casual,3
+R00265,2026-09-06 12:21,University,electric,17.6,4.56,casual,3
+R00266,2026-09-06 12:33,University,electric,2.6,0.62,member,3
+R00267,2026-09-06 13:09,Station Road,classic,11.1,1.61,member,5
+R00268,2026-09-06 13:44,Station Road,classic,13.7,2.85,member,3
+R00269,2026-09-06 13:53,Market Square,classic,16.8,2.4,casual,
+R00270,2026-09-06 13:53,Market Square,classic,10.2,2.02,casual,3
+R00271,2026-09-06 14:04,Market Square,electric,20.4,4.73,casual,
+R00272,2026-09-06 14:16,Park Gate,electric,10.0,2.93,member,4
+R00273,2026-09-06 14:34,Market Square,electric,14.1,3.38,casual,
+R00274,2026-09-06 14:41,Riverside,electric,33.5,7.92,casual,4
+R00275,2026-09-06 14:49,Old Mill,classic,8.8,2.04,member,4
+R00276,2026-09-06 14:53,University,electric,4.1,1.04,member,
+R00277,2026-09-06 15:06,Station Road,electric,8.5,1.95,casual,4
+R00278,2026-09-06 15:13,University,electric,5.9,1.57,member,4
+R00279,2026-09-06 15:17,Old Mill,electric,16.6,3.31,casual,3
+R00280,2026-09-06 15:27,Market Square,electric,24.5,5.78,casual,3
+R00281,2026-09-06 15:30,University,electric,17.3,4.2,member,4
+R00282,2026-09-06 15:54,Riverside,electric,25.2,4.77,casual,4
+R00283,2026-09-06 16:32,Park Gate,electric,3.7,1.02,member,
+R00284,2026-09-06 16:36,Old Mill,classic,6.3,1.26,member,4
+R00285,2026-09-06 16:38,Riverside,classic,12.2,1.56,casual,
+R00286,2026-09-06 16:58,Riverside,classic,9.2,1.77,member,5
+R00287,2026-09-06 17:31,University,classic,,9.51,casual,3
+R00288,2026-09-06 17:32,Old Mill,classic,16.6,2.55,member,3
+R00289,2026-09-06 17:38,Market Square,classic,39.4,5.86,casual,4
+R00289,2026-09-06 17:38,Market Square,classic,39.4,5.86,casual,4
+R00290,2026-09-06 18:02,  Park Gate ,electric,8.4,2.54,member,
+R00291,2026-09-06 18:46,Old Mill,electric,31.6,8.81,member,4
+R00292,2026-09-06 19:40,Riverside,electric,20.3,4.97,casual,5
+R00293,2026-09-07 08:00,Station Road,electric,38.3,9.59,casual,4
+R00294,2026-09-07 08:01,Riverside,electric,13.4,2.78,member,
+R00295,2026-09-07 08:03,Riverside,classic,14.5,3.04,member,4
+R00296,2026-09-07 08:07,Station Road,electric,6.7,1.87,member,3
+R00297,2026-09-07 08:08,Park Gate,electric,10.0,2.15,member,5
+R00298,2026-09-07 08:10,Station Road,classic,43.4,5.62,casual,
+R00299,2026-09-07 08:12,Riverside,electric,4.1,1.2,member,4
+R00300,2026-09-07 08:19,Market Square,classic,18.2,2.92,casual,4
+R00301,2026-09-07 08:21,Riverside,classic,27.7,4.23,member,
+R00302,2026-09-07 08:21,Old Mill,electric,6.1,1.5,member,5
+R00303,2026-09-07 08:32,Park Gate,classic,10.0,1.98,member,3
+R00304,2026-09-07 08:33,Station Road,classic,18.9,3.02,member,3
+R00305,2026-09-07 08:33,Park Gate,classic,17.8,3.36,casual,5
+R00306,2026-09-07 08:40,Riverside,electric,8.1,1.99,member,3
+R00307,2026-09-07 08:44,Riverside,classic,17.4,2.77,casual,
+R00308,2026-09-07 08:45,Old Mill,classic,12.2,2.22,casual,4
+R00309,2026-09-07 08:47,Station Road,classic,6.8,1.25,member,4
+R00310,2026-09-07 08:48,Park Gate,electric,4.2,1.06,member,5
+R00311,2026-09-07 08:56,Station Road,electric,3.6,0.83,member,4
+R00312,2026-09-07 08:56,Park Gate,electric,33.2,7.43,casual,
+R00313,2026-09-07 08:57,Market Square,electric,19.6,4.55,member,3
+R00314,2026-09-07 09:05,University,classic,10.2,1.67,member,5
+R00315,2026-09-07 09:09,University,classic,16.8,3.03,member,4
+R00316,2026-09-07 09:09,Riverside,electric,3.9,0.97,member,
+R00317,2026-09-07 09:21,Old Mill,electric,19.4,5.54,casual,
+R00318,2026-09-07 09:26,University,electric,18.5,4.72,member,5
+R00319,2026-09-07 09:42,University,classic,9.4,1.67,member,
+R00320,2026-09-07 09:43,station road,classic,10.1,1.63,member,3
+R00321,2026-09-07 11:32,Riverside,classic,12.0,2.17,casual,4
+R00322,2026-09-07 12:03,Station Road,classic,25.3,3.86,member,3
+R00323,2026-09-07 12:07,Market Square,Classic,56.6,14.88,casual,4
+R00324,2026-09-07 12:07,Station Road,classic,5.7,1.25,member,5
+R00325,2026-09-07 12:07,University,electric,5.4,1.14,member,4
+R00326,2026-09-07 12:08,Market Square,classic,11.7,2.02,member,4
+R00327,2026-09-07 12:10,Old Mill,classic,6.8,1.41,member,4
+R00328,2026-09-07 12:13,station road,electric,10.7,2.63,member,4
+R00329,2026-09-07 12:22,Station Road,electric,22.4,5.07,casual,4
+R00330,2026-09-07 12:25,Station Road,electric,7.7,2.08,member,4
+R00331,2026-09-07 12:30,Old Mill,classic,9.5,1.93,member,
+R00332,2026-09-07 12:38,University,classic,4.6,0.82,member,4
+R00333,2026-09-07 12:40,University,electric,2.7,0.54,member,
+R00334,2026-09-07 12:53,Station Road,classic,12.8,2.48,casual,4
+R00335,2026-09-07 12:59,University,classic,20.8,5.22,casual,3
+R00336,2026-09-07 13:08,Market Square,electric,4.8,1.39,member,5
+R00337,2026-09-07 13:23,Riverside,classic,29.5,3.16,member,3
+R00338,2026-09-07 13:25,park gate,classic,10.5,1.9,member,
+R00339,2026-09-07 13:44,Market Square,classic,20.1,4.05,member,
+R00340,2026-09-07 13:49,University,classic,18.4,3.42,casual,4
+R00341,2026-09-07 13:54,Market Square,classic,11.0,1.81,member,4
+R00342,2026-09-07 13:54,University,electric,12.5,2.79,member,4
+R00343,2026-09-07 15:10,Riverside,electric,9.2,1.68,member,5
+R00344,2026-09-07 15:45,Riverside,electric,7.7,2.27,member,5
+R00345,2026-09-07 17:04,Park Gate,electric,18.5,4.54,member,4
+R00346,2026-09-07 17:04,Riverside,classic,9.4,1.65,member,
+R00347,2026-09-07 17:08,University,electric,7.0,1.44,member,4
+R00348,2026-09-07 17:13,Park Gate,electric,10.7,2.04,member,4
+R00349,2026-09-07 17:13,Station Road,classic,22.7,4.84,member,4
+R00350,2026-09-07 17:14,Riverside,classic,23.6,4.93,casual,5
+R00351,2026-09-07 17:14,Market Square,classic,5.2,0.65,member,5
+R00352,2026-09-07 17:24,Market Square,electric,8.3,2.2,member,3
+R00353,2026-09-07 17:33,Old Mill,classic,9.0,1.32,member,5
+R00354,2026-09-07 17:37,Park Gate,classic,17.6,2.53,casual,4
+R00355,2026-09-07 17:42,Station Road,classic,9.0,1.99,member,4
+R00356,2026-09-07 17:43,Riverside,electric,7.4,2.04,casual,4
+R00357,2026-09-07 17:43,Old Mill,electric,20.6,4.33,member,
+R00358,2026-09-07 17:45,Old Mill,electric,15.2,4.25,member,4
+R00359,2026-09-07 17:53,Station Road,classic,60.4,11.0,casual,4
+R00360,2026-09-07 17:54,Park Gate,classic,15.7,3.53,member,4
+R00361,2026-09-07 17:58,Market Square,classic,18.1,2.34,member,4
+R00362,2026-09-07 17:59,Riverside,electric,24.3,5.56,casual,
+R00363,2026-09-07 17:59,Station Road,classic,30.8,7.42,casual,4
+R00364,2026-09-07 17:59,Riverside,classic,13.4,2.42,casual,4
+R00365,2026-09-07 18:02,Station Road,electric,10.7,2.51,member,4
+R00366,2026-09-07 18:04,Park Gate,classic,12.3,1.76,member,4
+R00367,2026-09-07 18:07,Station Road,electric,7.7,2.26,member,5
+R00368,2026-09-07 18:09,Riverside,electric,8.4,2.44,member,4
+R00369,2026-09-07 18:24,Market Square,electric,8.1,1.95,member,5
+R00370,2026-09-07 18:33,Park Gate,classic,12.8,2.69,member,5
+R00371,2026-09-07 18:36,Riverside,classic,29.5,4.78,casual,5
+R00372,2026-09-07 18:48,park gate,electric,6.2,1.43,member,4
+R00373,2026-09-07 18:50,Old Mill,classic,16.5,2.6,member,
+R00374,2026-09-07 18:53,Park Gate,classic,19.0,3.08,member,3
+R00375,2026-09-07 18:59,University,E-bike,6.7,2.13,member,
+R00376,2026-09-07 20:41,Market Square,electric,13.9,3.06,member,
+R00377,2026-09-07 21:33,Riverside,classic,19.5,3.99,casual,4
+R00378,2026-09-08 07:46,Old Mill,electric,5.4,1.44,member,4
+R00379,2026-09-08 08:00,university,classic,19.5,2.74,member,5
+R00380,2026-09-08 08:01,Riverside,classic,7.5,1.37,member,4
+R00381,2026-09-08 08:04,Old Mill,classic,25.9,4.76,member,4
+R00382,2026-09-08 08:13,Market Square,classic,9.9,1.31,member,5
+R00383,2026-09-08 08:20,Riverside,classic,7.9,1.34,member,4
+R00384,2026-09-08 08:38,Station Road,electric,7.2,1.82,casual,4
+R00385,2026-09-08 08:42,Riverside,classic,23.0,4.66,member,
+R00386,2026-09-08 08:47,University,electric,8.4,1.87,member,5
+R00387,2026-09-08 08:57,Old Mill,classic,20.1,3.11,member,3
+R00388,2026-09-08 09:04,Old Mill,electric,12.0,2.82,member,4
+R00389,2026-09-08 09:07,Old Mill,classic,17.9,3.59,member,5
+R00390,2026-09-08 09:07,Park Gate,classic,12.2,1.79,member,5
+R00391,2026-09-08 09:18,Riverside,classic,8.5,1.53,member,4
+R00392,2026-09-08 09:19,University,classic,14.0,2.36,member,5
+R00393,2026-09-08 09:26,Park Gate,electric,12.8,2.91,member,3
+R00394,2026-09-08 09:27,University,classic,4.0,0.71,member,4
+R00395,2026-09-08 09:30,Riverside,electric,11.8,2.54,casual,4
+R00396,2026-09-08 09:35,Market Square,electric,5.4,1.27,member,
+R00397,2026-09-08 09:39,Riverside,electric,12.3,3.06,member,4
+R00398,2026-09-08 09:40,Market Square,electric,16.6,3.85,casual,5
+R00399,2026-09-08 09:45,Park Gate,classic,10.1,1.7,member,
+R00400,2026-09-08 09:53,Market Square,classic,8.8,1.33,member,5
+R00401,2026-09-08 12:04,Market Square,classic,7.9,1.76,member,4
+R00402,2026-09-08 12:16,Old Mill,classic,15.9,3.17,member,
+R00403,2026-09-08 12:19,Riverside,classic,21.4,3.25,member,4
+R00404,2026-09-08 12:19,Old Mill,classic,35.8,5.67,member,4
+R00405,2026-09-08 12:28,Market Square,classic,16.0,3.02,member,4
+R00406,2026-09-08 12:30,Park Gate,classic,9.8,1.53,member,4
+R00407,2026-09-08 12:33,Market Square,classic,18.5,2.89,casual,4
+R00408,2026-09-08 12:33,Park Gate,classic,17.2,4.06,member,4
+R00409,2026-09-08 12:43,Market Square,classic,11.2,2.32,casual,4
+R00410,2026-09-08 12:50,Station Road,classic,4.8,1.0,member,
+R00411,2026-09-08 12:57,Market Square,classic,22.6,3.66,member,4
+R00412,2026-09-08 13:04,Station Road,classic,18.0,2.74,member,
+R00413,2026-09-08 13:17,Park Gate,classic,9.9,1.46,member,4
+R00414,2026-09-08 13:50,Station Road,classic,14.3,1.64,casual,4
+R00415,2026-09-08 13:58,Market Square,classic,16.8,2.14,member,5
+R00416,2026-09-08 17:08,University,classic,7.6,1.0,member,5
+R00417,2026-09-08 17:09,Market Square,electric,27.0,6.91,casual,
+R00418,2026-09-08 17:20,Riverside,classic,28.7,7.17,casual,4
+R00419,2026-09-08 17:24,Market Square,electric,5.0,1.5,member,5
+R00420,2026-09-08 17:29,Old Mill,electric,3.6,1.05,member,5
+R00421,2026-09-08 17:48,Station Road,classic,13.6,2.17,member,5
+R00422,2026-09-08 17:48,Riverside,classic,24.9,6.55,member,4
+R00423,2026-09-08 17:52,Park Gate,classic,18.2,3.33,member,5
+R00424,2026-09-08 18:00,Riverside,classic,8.6,1.22,member,5
+R00425,2026-09-08 18:18,Market Square,electric,3.1,0.74,member,
+R00426,2026-09-08 18:21,Station Road,classic,33.8,6.14,member,4
+R00427,2026-09-08 18:36,Old Mill,electric,9.8,2.31,member,3
+R00428,2026-09-08 18:39,University,classic,16.8,3.17,member,
+R00429,2026-09-08 20:02,Old Mill,electric,16.8,4.21,casual,5
+R00430,2026-09-08 20:34,University,electric,,7.66,casual,4
+R00431,2026-09-09 08:06,Park Gate,classic,5.6,1.28,member,5
+R00432,2026-09-09 08:09,Station Road,classic,8.3,1.42,member,4
+R00433,2026-09-09 08:10,University,classic,23.6,2.92,casual,3
+R00434,2026-09-09 08:10,Old Mill,classic,14.7,3.81,casual,5
+R00435,2026-09-09 08:23,Market Square,classic,11.4,2.09,member,5
+R00436,2026-09-09 08:32,Riverside,classic,29.3,4.33,member,4
+R00437,2026-09-09 08:37,Market Square,classic,34.2,6.76,casual,4
+R00438,2026-09-09 08:38,University,classic,16.3,3.42,casual,3
+R00439,2026-09-09 08:40,Station Road,classic,15.8,3.66,member,4
+R00440,2026-09-09 08:40,Park Gate,electric,15.4,4.44,member,4
+R00441,2026-09-09 08:41,Station Road,electric,10.1,1.93,member,4
+R00442,2026-09-09 08:46,University,electric,1110.0,2.77,member,5
+R00443,2026-09-09 08:53,University,electric,9.2,2.4,member,3
+R00444,2026-09-09 09:03,Station Road,classic,10.0,1.63,casual,4
+R00445,2026-09-09 09:26,University,classic,6.1,1.27,member,4
+R00446,2026-09-09 09:27,Station Road,electric,5.3,1.26,member,4
+R00447,2026-09-09 09:35,University,classic,23.2,4.76,member,4
+R00448,2026-09-09 09:40,Market Square,classic,12.9,3.29,member,5
+R00449,2026-09-09 09:47,Market Square,classic,14.1,2.35,member,3
+R00450,2026-09-09 09:55,University,electric,10.1,2.18,member,4
+R00451,2026-09-09 12:21,Old Mill,electric,27.3,7.6,member,4
+R00452,2026-09-09 12:21,University,electric,,1.42,member,5
+R00453,2026-09-09 12:30,Market Square,classic,9.5,2.09,member,5
+R00454,2026-09-09 12:32,University,classic,9.5,1.58,member,4
+R00455,2026-09-09 12:33,Park Gate,classic,52.3,10.27,casual,3
+R00456,2026-09-09 12:44,Market Square,classic,15.8,3.59,member,
+R00457,2026-09-09 12:48,Market Square,classic,76.4,10.32,casual,4
+R00458,2026-09-09 12:54,Park Gate,classic,12.3,1.78,casual,5
+R00459,2026-09-09 12:59,Station Road,classic,12.9,3.15,member,4
+R00460,2026-09-09 12:59,University,classic,12.1,2.26,member,3
+R00461,2026-09-09 12:59,  Market Square ,electric,27.2,5.36,casual,
+R00462,2026-09-09 13:04,University,classic,11.1,1.95,member,5
+R00463,2026-09-09 13:34,Station Road,classic,13.3,2.58,member,4
+R00464,2026-09-09 13:42,University,electric,10.1,2.76,member,4
+R00465,2026-09-09 17:08,Market Square,electric,16.0,3.4,casual,
+R00466,2026-09-09 17:09,Station Road,classic,17.9,3.31,casual,4
+R00467,2026-09-09 17:12,Market Square,classic,8.1,1.35,member,3
+R00468,2026-09-09 17:13,University,classic,23.8,4.06,casual,4
+R00469,2026-09-09 17:14,Market Square,classic,21.6,5.06,member,5
+R00470,2026-09-09 17:19,Riverside,classic,55.6,6.98,casual,3
+R00471,2026-09-09 17:20,Market Square,classic,21.8,3.56,casual,
+R00472,2026-09-09 17:25,Park Gate,classic,12.0,2.18,member,5
+R00473,2026-09-09 17:32,University,classic,9.0,1.49,member,5
+R00474,2026-09-09 17:32,Station Road,classic,13.2,2.74,casual,4
+R00475,2026-09-09 17:41,Market Square,classic,13.0,2.89,member,
+R00476,2026-09-09 17:49,Station Road,classic,11.0,1.86,member,4
+R00477,2026-09-09 17:50,Station Road,classic,20.4,3.81,casual,4
+R00478,2026-09-09 17:53,Station Road,classic,20.1,4.52,member,3
+R00479,2026-09-09 17:54,Riverside,classic,12.4,2.51,member,4
+R00480,2026-09-09 17:56,Market Square,electric,19.6,5.16,member,3
+R00481,2026-09-09 17:58,Riverside,electric,20.0,4.36,member,4
+R00482,2026-09-09 18:03,Station Road,electric,9.6,2.4,member,4
+R00483,2026-09-09 18:12,Old Mill,electric,31.8,7.46,casual,5
+R00484,2026-09-09 18:20,Park Gate,classic,13.3,2.98,member,4
+R00485,2026-09-09 18:30,University,electric,16.6,3.58,member,
+R00486,2026-09-09 18:43,Park Gate,classic,15.4,3.06,casual,4
+R00487,2026-09-10 08:01,Old Mill,classic,17.2,3.04,casual,4
+R00488,2026-09-10 08:10,Station Road,electric,5.7,1.31,member,
+R00489,2026-09-10 08:16,Station Road,electric,23.9,5.1,casual,4
+R00490,2026-09-10 08:22,Old Mill,classic,7.8,1.46,member,3
+R00491,2026-09-10 08:39,Old Mill,classic,27.2,5.12,member,5
+R00492,2026-09-10 08:58,University,classic,8.9,1.25,member,5
+R00493,2026-09-10 09:05,University,electric,15.3,3.75,member,4
+R00494,2026-09-10 09:22,Station Road,classic,20.1,3.62,casual,
+R00495,2026-09-10 09:27,Old Mill,classic,4.7,0.79,member,
+R00496,2026-09-10 09:33,Market Square,classic,11.1,1.68,member,4
+R00497,2026-09-10 09:34,Station Road,classic,10.8,2.35,member,4
+R00498,2026-09-10 11:18,park gate,classic,26.7,5.53,member,4
+R00499,2026-09-10 12:10,University,classic,15.1,2.31,member,2
+R00500,2026-09-10 12:19,Park Gate,classic,22.6,2.72,member,4
+R00501,2026-09-10 12:38,University,electric,8.5,2.22,casual,
+R00502,2026-09-10 12:38,Old Mill,classic,5.5,1.21,member,4
+R00503,2026-09-10 12:41,Station Road,classic,27.7,5.09,casual,2
+R00504,2026-09-10 12:50,Riverside,electric,15.1,3.75,member,3
+R00505,2026-09-10 13:30,Market Square,electric,8.4,2.24,member,4
+R00506,2026-09-10 13:37,Riverside,electric,8.6,1.93,casual,3
+R00507,2026-09-10 13:39,Station Road,electric,26.0,6.87,casual,5
+R00508,2026-09-10 13:43,Riverside,classic,20.5,3.2,member,
+R00509,2026-09-10 13:49,Station Road,classic,21.1,3.88,casual,
+R00510,2026-09-10 17:00,Old Mill,classic,22.7,4.49,member,4
+R00511,2026-09-10 17:04,Riverside,electric,11.8,3.16,member,3
+R00512,2026-09-10 17:16,University,classic,18.6,3.86,member,5
+R00513,2026-09-10 17:17,Station Road,classic,13.8,1.87,casual,5
+R00514,2026-09-10 17:20,Riverside,electric,12.9,3.01,member,4
+R00515,2026-09-10 17:26,Park Gate,classic,10.4,1.2,casual,2
+R00516,2026-09-10 17:27,Park Gate,electric,11.7,3.15,member,3
+R00517,2026-09-10 17:30,Old Mill,classic,12.5,2.16,member,5
+R00518,2026-09-10 17:37,Market Square,electric,21.4,5.33,casual,2
+R00519,2026-09-10 17:43,Old Mill,classic,10.8,2.72,member,3
+R00520,2026-09-10 17:45,University,classic,55.8,9.69,casual,
+R00521,2026-09-10 17:50,Station Road,classic,7.1,1.53,member,3
+R00522,2026-09-10 18:25,Old Mill,electric,10.1,2.99,member,4
+R00523,2026-09-10 18:49,Riverside,classic,13.1,1.48,member,
+R00524,2026-09-10 20:24,Market Square,classic,44.4,8.87,casual,
+R00525,2026-09-11 08:11,Old Mill,classic,18.9,1.94,member,5
+R00526,2026-09-11 08:11,Old Mill,classic,7.5,1.33,member,4
+R00527,2026-09-11 08:29,University,classic,11.7,2.13,member,3
+R00528,2026-09-11 08:32,Old Mill,classic,8.1,1.79,member,4
+R00529,2026-09-11 08:41,Station Road,electric,11.0,3.03,member,
+R00530,2026-09-11 08:50,Market Square,classic,15.5,2.48,member,4
+R00531,2026-09-11 08:51,Station Road,electric,19.8,4.83,casual,4
+R00532,2026-09-11 08:57,Park Gate,classic,3.7,0.58,member,3
+R00533,2026-09-11 09:03,Park Gate,classic,16.0,2.77,member,
+R00534,2026-09-11 09:15,Station Road,classic,7.7,1.69,member,4
+R00535,2026-09-11 09:24,Riverside,electric,6.7,1.71,member,5
+R00536,2026-09-11 09:54,Market Square,electric,19.8,5.5,casual,4
+R00537,2026-09-11 09:58,Old Mill,classic,6.1,1.11,member,4
+R00538,2026-09-11 12:12,Old Mill,classic,10.1,1.96,member,3
+R00539,2026-09-11 12:47,Market Square,electric,9.8,2.46,member,5
+R00540,2026-09-11 12:51,Station Road,classic,11.5,2.48,member,3
+R00541,2026-09-11 12:55,University,classic,16.9,3.26,casual,3
+R00542,2026-09-11 12:57,Riverside,classic,23.2,5.11,casual,4
+R00543,2026-09-11 13:12,Old Mill,electric,15.0,3.37,member,4
+R00544,2026-09-11 13:18,Old Mill,classic,8.9,1.68,member,3
+R00545,2026-09-11 13:28,Park Gate,classic,30.7,5.89,casual,4
+R00546,2026-09-11 13:41,Park Gate,classic,12.7,2.07,casual,3
+R00547,2026-09-11 13:43,Old Mill,classic,31.1,4.09,member,3
+R00548,2026-09-11 17:05,Park Gate,classic,5.1,0.92,member,4
+R00549,2026-09-11 17:20,University,classic,9.9,1.58,member,
+R00550,2026-09-11 17:37,Market Square,electric,19.7,4.31,casual,5
+R00551,2026-09-11 17:53,University,electric,5.7,1.38,member,
+R00552,2026-09-11 18:21,Station Road,electric,21.9,6.57,casual,2
+R00553,2026-09-11 20:15,Riverside,electric,11.5,3.04,member,4
+R00554,2026-09-12 08:00,Market Square,classic,47.5,11.26,casual,
+R00555,2026-09-12 10:19,Station Road,classic,27.3,5.59,casual,4
+R00556,2026-09-12 10:41,Riverside,classic,11.6,1.65,casual,3
+R00557,2026-09-12 11:17,Riverside,classic,5.8,0.78,casual,4
+R00558,2026-09-12 11:42,Old Mill,electric,39.5,10.6,casual,
+R00559,2026-09-12 11:58,Old Mill,classic,8.2,1.6,casual,4
+R00560,2026-09-12 11:58,Station Road,classic,26.7,5.13,casual,3
+R00561,2026-09-12 12:20,Park Gate,classic,22.2,4.63,casual,5
+R00562,2026-09-12 12:27,Old Mill,electric,19.5,4.7,casual,3
+R00563,2026-09-12 12:30,Old Mill,electric,16.6,4.29,casual,3
+R00564,2026-09-12 12:40,Old Mill,classic,671.0,9.51,casual,
+R00565,2026-09-12 12:42,Park Gate,electric,17.8,4.28,casual,4
+R00566,2026-09-12 12:54,Old Mill,electric,26.8,6.67,casual,4
+R00567,2026-09-12 13:13,Station Road,electric,22.7,4.84,member,3
+R00568,2026-09-12 13:51,Old Mill,electric,8.9,2.12,member,4
+R00569,2026-09-12 14:10,University,electric,18.9,4.59,member,5
+R00570,2026-09-12 14:32,Station Road,classic,7.5,1.57,casual,
+R00571,2026-09-12 15:47,Riverside,classic,7.7,1.27,member,
+R00572,2026-09-12 15:47,Park Gate,electric,6.5,1.51,member,
+R00573,2026-09-12 16:27,Park Gate,electric,29.2,6.58,casual,2
+R00574,2026-09-12 17:35,Park Gate,electric,7.8,2.02,member,4
+R00575,2026-09-13 08:07,Park Gate,classic,25.6,4.57,member,5
+R00576,2026-09-13 08:17,Old Mill,electric,15.4,3.82,casual,4
+R00577,2026-09-13 08:46,Park Gate,classic,25.9,4.04,casual,5
+R00578,2026-09-13 09:02,Old Mill,classic,26.4,5.44,casual,5
+R00579,2026-09-13 09:14,Station Road,classic,9.5,1.67,member,
+R00580,2026-09-13 09:17,Station Road,classic,13.2,3.09,casual,5
+R00581,2026-09-13 09:28,Station Road,classic,48.8,6.66,casual,4
+R00582,2026-09-13 09:43,  Market Square ,classic,28.7,5.12,casual,
+R00583,2026-09-13 09:46,University,electric,14.1,2.98,member,4
+R00584,2026-09-13 10:58,Station Road,classic,33.5,5.67,casual,4
+R00585,2026-09-13 11:13,Market Square,classic,8.1,1.83,casual,4
+R00586,2026-09-13 11:58,Market Square,classic,44.8,9.87,casual,5
+R00587,2026-09-13 12:01,University,classic,16.5,2.98,casual,3
+R00588,2026-09-13 12:11,Station Road,classic,20.8,2.47,member,4
+R00589,2026-09-13 12:43,Market Square,classic,15.4,3.19,member,4
+R00590,2026-09-13 12:55,Riverside,electric,32.2,8.77,casual,4
+R00591,2026-09-13 13:00,Riverside,classic,20.4,2.7,member,5
+R00592,2026-09-13 13:15,University,electric,62.1,13.27,casual,5
+R00593,2026-09-13 13:23,Market Square,electric,21.0,3.73,casual,5
+R00594,2026-09-13 13:55,Station Road,classic,57.2,8.7,casual,4
+R00595,2026-09-13 13:56,Old Mill,electric,12.8,2.82,casual,4
+R00596,2026-09-13 14:10,Station Road,classic,25.4,4.8,casual,3
+R00597,2026-09-13 14:12,Park Gate,classic,13.5,2.65,member,5
+R00598,2026-09-13 14:19,Riverside,electric,38.8,8.31,casual,4
+R00599,2026-09-13 14:31,University,electric,9.9,2.44,member,4
+R00600,2026-09-13 14:39,Market Square,classic,35.2,7.87,casual,3
+R00601,2026-09-13 14:48,Old Mill,electric,10.3,2.09,member,
+R00602,2026-09-13 14:50,Market Square,classic,8.8,1.59,member,
+R00603,2026-09-13 14:54,Riverside,classic,21.6,4.55,casual,5
+R00604,2026-09-13 15:05,Riverside,classic,9.7,2.32,member,5
+R00605,2026-09-13 15:05,Station Road,classic,11.3,2.78,member,5
+R00606,2026-09-13 15:18,Riverside,electric,24.9,7.56,casual,
+R00607,2026-09-13 15:25,University,classic,11.1,2.13,casual,5
+R00608,2026-09-13 15:27,Station Road,classic,26.3,4.12,casual,
+R00609,2026-09-13 15:49,Market Square,classic,9.3,2.27,casual,5
+R00610,2026-09-13 16:05,Station Road,electric,10.7,2.57,casual,3
+R00611,2026-09-13 16:20,Old Mill,electric,7.9,1.87,member,3
+R00611,2026-09-13 16:20,Old Mill,electric,7.9,1.87,member,3
+R00612,2026-09-13 16:41,Old Mill,classic,4.1,0.81,member,5
+R00613,2026-09-13 17:01,Park Gate,classic,17.1,3.64,casual,4
+R00614,2026-09-13 17:28,Old Mill,electric,10.9,2.63,casual,3
+R00615,2026-09-14 08:18,Station Road,electric,27.8,5.47,casual,3
+R00616,2026-09-14 08:20,Market Square,classic,20.0,2.8,member,5
+R00617,2026-09-14 08:21,Old Mill,classic,10.4,2.23,member,5
+R00618,2026-09-14 08:22,Market Square,electric,3.7,0.92,member,3
+R00619,2026-09-14 08:22,Market Square,electric,8.1,2.08,member,4
+R00620,2026-09-14 08:31,University,classic,41.7,6.96,casual,5
+R00621,2026-09-14 08:33,University,classic,21.1,5.12,casual,4
+R00622,2026-09-14 08:34,Park Gate,classic,17.1,2.38,member,5
+R00623,2026-09-14 08:35,Riverside,electric,8.3,2.12,member,3
+R00624,2026-09-14 08:41,Park Gate,classic,13.5,1.86,member,4
+R00625,2026-09-14 09:07,Riverside,electric,17.6,4.7,casual,4
+R00626,2026-09-14 09:25,Market Square,classic,13.6,1.83,member,4
+R00627,2026-09-14 09:35,Park Gate,classic,21.2,4.04,member,3
+R00628,2026-09-14 09:51,Market Square,classic,6.0,1.11,member,3
+R00629,2026-09-14 09:55,Old Mill,electric,11.9,2.39,member,4
+R00630,2026-09-14 11:51,Old Mill,classic,38.1,7.58,casual,5
+R00631,2026-09-14 12:12,Station Road,electric,2.8,0.88,member,4
+R00632,2026-09-14 12:59,Riverside,classic,12.0,2.2,member,5
+R00633,2026-09-14 13:11,Park Gate,electric,12.4,2.87,member,4
+R00634,2026-09-14 13:19,Park Gate,classic,8.4,1.91,member,3
+R00635,2026-09-14 13:23,Station Road,classic,15.7,2.74,casual,4
+R00636,2026-09-14 13:36,Old Mill,classic,9.5,2.16,member,4
+R00637,2026-09-14 13:41,University,classic,21.4,4.23,member,
+R00638,2026-09-14 13:51,Park Gate,electric,5.9,1.31,member,
+R00639,2026-09-14 13:52,Riverside,electric,15.3,3.56,casual,3
+R00640,2026-09-14 14:26,Market Square,classic,14.9,2.71,member,5
+R00640,2026-09-14 14:26,Market Square,classic,14.9,2.71,member,5
+R00641,2026-09-14 16:07,Market Square,classic,11.8,2.67,member,4
+R00642,2026-09-14 16:56,Market Square,classic,7.1,1.27,member,4
+R00643,2026-09-14 17:00,  Park Gate ,classic,17.5,2.65,member,3
+R00644,2026-09-14 17:11,Station Road,electric,12.1,2.81,casual,4
+R00644,2026-09-14 17:11,Station Road,electric,12.1,2.81,casual,4
+R00645,2026-09-14 17:28,University,electric,10.8,2.05,member,
+R00646,2026-09-14 17:30,Station Road,classic,37.6,7.82,casual,5
+R00647,2026-09-14 17:35,Riverside,classic,17.7,2.91,member,
+R00648,2026-09-14 17:35,University,classic,17.1,4.13,member,3
+R00649,2026-09-14 17:50,Park Gate,classic,11.3,1.97,member,3
+R00650,2026-09-14 18:00,University,electric,11.6,3.19,member,5
+R00651,2026-09-14 18:04,Old Mill,classic,15.8,3.5,member,4
+R00652,2026-09-14 18:04,Old Mill,classic,21.9,3.83,member,5
+R00653,2026-09-14 18:19,Market Square,classic,9.2,1.84,member,
+R00654,2026-09-14 18:23,Old Mill,classic,10.4,2.19,member,4
+R00655,2026-09-14 18:28,Market Square,classic,6.1,0.92,member,5
+R00656,2026-09-14 18:31,University,classic,16.0,2.53,member,4
+R00657,2026-09-14 18:48,University,electric,14.5,4.2,member,5
+R00658,2026-09-15 08:01,Old Mill,classic,11.6,2.55,member,3
+R00659,2026-09-15 08:03,Old Mill,classic,13.2,1.73,member,4
+R00660,2026-09-15 08:15,Riverside,electric,5.2,1.25,member,4
+R00661,2026-09-15 08:19,Old Mill,classic,9.4,1.77,member,5
+R00662,2026-09-15 08:19,Park Gate,classic,25.0,4.35,casual,3
+R00663,2026-09-15 08:29,Old Mill,classic,5.6,1.11,member,
+R00664,2026-09-15 08:32,University,electric,10.1,1.92,member,4
+R00665,2026-09-15 08:34,Riverside,classic,14.3,3.1,member,
+R00666,2026-09-15 08:42,Station Road,classic,11.9,2.5,member,5
+R00667,2026-09-15 08:45,Park Gate,classic,17.7,3.74,member,
+R00668,2026-09-15 09:01,Riverside,electric,23.3,6.43,casual,5
+R00669,2026-09-15 09:05,Station Road,classic,27.9,5.32,member,3
+R00670,2026-09-15 09:09,University,classic,8.4,1.46,member,3
+R00671,2026-09-15 09:16,University,classic,14.1,2.34,member,4
+R00672,2026-09-15 09:26,Station Road,classic,17.4,2.57,casual,5
+R00673,2026-09-15 09:40,Old Mill,classic,6.2,1.26,member,5
+R00674,2026-09-15 09:47,Station Road,electric,,1.59,member,5
+R00675,2026-09-15 09:47,Market Square,electric,7.2,1.77,member,5
+R00676,2026-09-15 09:49,Market Square,electric,10.2,2.32,member,3
+R00677,2026-09-15 12:20,Riverside,electric,12.8,3.59,member,5
+R00678,2026-09-15 12:21,Park Gate,electric,8.7,2.25,member,5
+R00679,2026-09-15 12:22,Park Gate,classic,8.6,1.67,member,3
+R00680,2026-09-15 12:26,Park Gate,classic,5.3,0.94,member,4
+R00681,2026-09-15 12:40,Station Road,classic,16.9,2.97,member,4
+R00682,2026-09-15 12:41,Market Square,classic,20.0,4.66,member,4
+R00683,2026-09-15 12:55,Old Mill,classic,9.5,1.64,member,4
+R00684,2026-09-15 12:56,Riverside,classic,48.0,9.08,casual,5
+R00685,2026-09-15 12:57,Riverside,electric,12.7,2.95,casual,4
+R00686,2026-09-15 12:59,Station Road,classic,41.2,10.03,casual,5
+R00687,2026-09-15 12:59,Station Road,electric,14.5,3.47,member,5
+R00688,2026-09-15 13:09,Station Road,classic,20.2,3.9,casual,4
+R00689,2026-09-15 13:10,University,classic,27.3,4.97,casual,5
+R00690,2026-09-15 13:14,Park Gate,electric,7.2,1.91,member,4
+R00691,2026-09-15 13:18,Market Square,electric,15.4,3.51,casual,5
+R00692,2026-09-15 15:34,Park Gate,classic,17.1,3.91,casual,5
+R00693,2026-09-15 17:09,University,Classic,12.9,2.11,casual,4
+R00694,2026-09-15 17:13,Old Mill,classic,9.5,2.1,member,4
+R00695,2026-09-15 17:23,Market Square,electric,10.8,2.18,member,4
+R00696,2026-09-15 17:29,Market Square,electric,5.5,1.12,member,3
+R00697,2026-09-15 17:36,Park Gate,classic,12.9,2.71,member,4
+R00698,2026-09-15 17:39,Park Gate,electric,6.5,1.55,member,4
+R00699,2026-09-15 17:43,Market Square,electric,6.8,1.63,member,5
+R00700,2026-09-15 18:06,Park Gate,electric,9.4,2.1,member,5
+R00701,2026-09-15 18:23,Park Gate,electric,5.3,1.4,member,3
+R00702,2026-09-15 18:26,University,classic,7.7,1.54,member,4
+R00703,2026-09-15 18:33,Old Mill,classic,21.0,3.53,member,
+R00704,2026-09-15 18:42,Station Road,classic,15.7,2.55,casual,3
+R00705,2026-09-15 18:46,Riverside,classic,18.6,3.72,member,3
+R00706,2026-09-15 21:15,Riverside,classic,6.7,1.27,member,5
+R00707,2026-09-16 07:39,University,electric,3.9,0.86,member,
+R00708,2026-09-16 08:25,Riverside,classic,6.3,1.01,member,3
+R00709,2026-09-16 08:27,Riverside,electric,18.1,4.74,member,4
+R00710,2026-09-16 08:28,Market Square,classic,54.4,8.42,casual,
+R00711,2026-09-16 08:31,University,classic,11.0,2.17,casual,4
+R00712,2026-09-16 08:35,Riverside,electric,8.9,2.16,member,4
+R00713,2026-09-16 08:36,Market Square,classic,9.0,2.01,member,
+R00714,2026-09-16 08:39,University,electric,12.4,2.91,casual,4
+R00715,2026-09-16 08:43,Riverside,electric,8.6,2.4,member,3
+R00716,2026-09-16 08:47,Station Road,electric,13.0,4.26,member,4
+R00717,2026-09-16 08:47,University,classic,15.6,3.04,member,2
+R00718,2026-09-16 08:54,Old Mill,classic,8.8,1.58,member,4
+R00719,2026-09-16 09:02,Park Gate,electric,11.7,3.03,member,3
+R00720,2026-09-16 09:13,Market Square,classic,9.9,2.03,member,4
+R00721,2026-09-16 09:22,Park Gate,E-bike,7.1,1.53,member,4
+R00722,2026-09-16 09:23,Market Square,classic,10.2,1.17,casual,4
+R00723,2026-09-16 09:29,Old Mill,Classic,20.0,2.47,member,4
+R00724,2026-09-16 09:48,Riverside,electric,4.5,1.22,member,4
+R00725,2026-09-16 09:50,Park Gate,E-bike,13.6,2.94,casual,5
+R00726,2026-09-16 10:22,Park Gate,classic,13.5,2.22,member,
+R00727,2026-09-16 12:07,University,classic,3.0,0.52,member,5
+R00728,2026-09-16 12:33,Station Road,classic,11.2,1.86,member,3
+R00729,2026-09-16 12:49,University,classic,8.0,1.56,member,
+R00730,2026-09-16 13:32,Riverside,classic,29.3,4.48,member,4
+R00731,2026-09-16 17:03,Market Square,electric,21.8,5.73,casual,4
+R00732,2026-09-16 17:06,Park Gate,classic,24.3,3.0,member,2
+R00733,2026-09-16 17:11,Market Square,classic,7.8,1.33,member,
+R00734,2026-09-16 17:27,University,Classic,42.9,7.25,casual,4
+R00735,2026-09-16 17:29,Market Square,electric,10.8,2.44,member,5
+R00736,2026-09-16 17:38,Station Road,electric,26.5,5.8,casual,4
+R00737,2026-09-16 17:38,University,electric,12.6,3.29,member,4
+R00738,2026-09-16 17:42,Park Gate,classic,10.9,2.68,member,5
+R00739,2026-09-16 17:49,Market Square,classic,13.8,2.1,member,4
+R00740,2026-09-16 17:56,Riverside,classic,9.5,1.81,member,4
+R00741,2026-09-16 18:00,Old Mill,classic,11.3,2.08,member,3
+R00742,2026-09-16 18:14,Station Road,electric,20.3,5.97,member,
+R00743,2026-09-16 18:16,Old Mill,electric,17.8,4.72,casual,2
+R00744,2026-09-16 18:17,University,classic,11.1,2.12,member,3
+R00745,2026-09-16 18:18,Riverside,electric,11.1,3.03,member,4
+R00746,2026-09-16 18:21,Riverside,classic,14.7,3.24,member,4
+R00747,2026-09-16 18:30,Park Gate,classic,21.0,4.38,casual,
+R00748,2026-09-16 18:32,University,electric,4.2,0.9,member,4
+R00749,2026-09-16 18:32,Riverside,classic,37.2,7.38,member,3
+R00750,2026-09-16 18:51,Station Road,electric,9.1,2.44,member,3
+R00751,2026-09-16 21:01,Station Road,classic,16.2,3.0,member,
+R00752,2026-09-17 08:01,Station Road,electric,9.2,2.63,member,4
+R00753,2026-09-17 08:25,Market Square,classic,21.9,5.49,casual,4
+R00754,2026-09-17 08:26,Riverside,electric,8.9,2.78,member,
+R00755,2026-09-17 08:31,Market Square,electric,7.1,1.86,member,4
+R00756,2026-09-17 08:52,Station Road,classic,22.3,5.78,casual,3
+R00757,2026-09-17 09:05,Station Road,classic,8.8,1.81,member,3
+R00758,2026-09-17 09:24,Riverside,classic,9.4,1.82,member,3
+R00759,2026-09-17 09:47,Park Gate,electric,12.3,2.92,member,4
+R00760,2026-09-17 09:48,Park Gate,electric,8.1,1.56,member,4
+R00761,2026-09-17 11:26,Station Road,classic,,1.3,member,2
+R00762,2026-09-17 12:11,  Old Mill ,classic,6.7,1.07,member,5
+R00763,2026-09-17 12:19,  Market Square ,classic,14.1,2.83,casual,3
+R00764,2026-09-17 12:31,Old Mill,electric,12.7,3.09,member,2
+R00765,2026-09-17 12:59,University,electric,31.4,8.55,casual,3
+R00766,2026-09-17 13:02,Riverside,electric,14.7,4.56,member,4
+R00767,2026-09-17 13:11,Station Road,classic,27.0,4.03,member,
+R00768,2026-09-17 13:13,University,electric,7.4,1.47,member,
+R00769,2026-09-17 13:14,Riverside,classic,7.8,1.28,member,4
+R00770,2026-09-17 13:22,Old Mill,classic,8.9,1.76,member,4
+R00771,2026-09-17 17:04,old mill,classic,20.7,4.57,member,4
+R00772,2026-09-17 17:04,Market Square,classic,22.3,4.24,casual,
+R00773,2026-09-17 17:05,Park Gate,classic,9.1,1.55,member,4
+R00774,2026-09-17 17:06,University,classic,6.7,0.96,member,4
+R00775,2026-09-17 17:20,Station Road,electric,8.2,2.06,member,3
+R00776,2026-09-17 17:37,Riverside,classic,6.5,1.53,member,4
+R00777,2026-09-17 17:42,Riverside,classic,15.5,2.85,casual,4
+R00778,2026-09-17 17:46,Park Gate,classic,9.2,1.25,member,3
+R00779,2026-09-17 17:50,Market Square,classic,32.7,5.39,casual,
+R00780,2026-09-17 17:50,Station Road,classic,8.8,1.84,member,5
+R00781,2026-09-17 17:55,Station Road,classic,15.4,2.66,member,
+R00782,2026-09-17 17:58,Old Mill,classic,24.4,4.88,member,4
+R00783,2026-09-17 18:08,Old Mill,classic,17.1,4.5,member,5
+R00784,2026-09-17 18:14,Market Square,electric,12.4,3.32,member,5
+R00785,2026-09-17 18:16,Park Gate,electric,16.0,3.27,member,5
+R00786,2026-09-17 18:26,University,classic,18.8,3.56,member,3
+R00787,2026-09-17 18:34,Station Road,classic,26.3,4.64,casual,3
+R00788,2026-09-17 18:49,Station Road,electric,7.0,1.48,member,3
+R00789,2026-09-17 18:49,Market Square,classic,4.9,1.08,member,4
+R00790,2026-09-17 18:51,University,electric,14.3,2.83,casual,4
+R00791,2026-09-18 08:06,Market Square,classic,13.9,2.68,member,3
+R00792,2026-09-18 08:10,Market Square,classic,7.2,1.19,member,3
+R00793,2026-09-18 08:23,Station Road,classic,16.8,1.79,member,4
+R00794,2026-09-18 08:23,Riverside,classic,6.0,1.06,member,4
+R00795,2026-09-18 08:26,Old Mill,classic,21.5,2.9,casual,4
+R00796,2026-09-18 08:37,Market Square,electric,3.9,1.04,member,2
+R00797,2026-09-18 08:52,Riverside,classic,5.8,0.97,member,4
+R00798,2026-09-18 08:53,Riverside,classic,8.0,2.07,member,3
+R00799,2026-09-18 08:53,Park Gate,classic,6.5,1.15,member,2
+R00800,2026-09-18 09:23,Market Square,classic,22.0,5.01,member,3
+R00801,2026-09-18 12:04,Riverside,classic,5.3,0.71,member,5
+R00802,2026-09-18 12:06,Park Gate,classic,30.8,8.03,member,5
+R00803,2026-09-18 12:08,Park Gate,electric,10.5,2.59,member,4
+R00804,2026-09-18 12:16,Old Mill,electric,8.5,2.08,member,2
+R00805,2026-09-18 12:24,Park Gate,classic,20.2,4.57,casual,4
+R00806,2026-09-18 12:28,Park Gate,classic,11.0,1.81,member,5
+R00807,2026-09-18 12:45,Riverside,classic,15.5,2.1,member,5
+R00808,2026-09-18 13:20,Park Gate,electric,6.7,1.83,member,4
+R00809,2026-09-18 13:31,Station Road,electric,20.8,5.76,casual,5
+R00810,2026-09-18 13:34,University,classic,22.2,4.21,member,4
+R00811,2026-09-18 13:39,Park Gate,electric,10.9,2.13,member,3
+R00812,2026-09-18 13:50,Station Road,electric,5.3,1.38,member,
+R00813,2026-09-18 15:05,Market Square,electric,8.2,2.03,member,
+R00814,2026-09-18 17:03,Park Gate,classic,61.1,9.83,casual,4
+R00815,2026-09-18 17:06,Old Mill,electric,14.7,3.84,casual,3
+R00816,2026-09-18 17:16,Station Road,classic,8.2,1.72,member,3
+R00817,2026-09-18 17:23,Riverside,classic,20.6,3.95,member,4
+R00818,2026-09-18 17:41,Station Road,classic,22.0,3.16,member,5
+R00819,2026-09-18 17:43,University,classic,15.5,2.71,casual,3
+R00820,2026-09-18 17:45,Riverside,classic,11.6,1.9,member,3
+R00821,2026-09-18 17:45,Station Road,classic,10.2,1.75,member,5
+R00822,2026-09-18 17:49,Market Square,electric,5.4,1.58,member,3
+R00823,2026-09-18 17:53,Old Mill,electric,9.9,2.35,member,
+R00824,2026-09-18 18:04,Park Gate,classic,8.1,1.7,member,5
+R00825,2026-09-18 19:04,  Riverside ,classic,10.8,2.41,member,3
+R00826,2026-09-18 21:49,University,electric,28.6,5.5,casual,5
+R00827,2026-09-19 09:23,Station Road,electric,10.2,3.2,casual,5
+R00828,2026-09-19 10:24,Park Gate,classic,26.9,3.21,member,3
+R00829,2026-09-19 11:47,Riverside,classic,12.2,2.36,member,4
+R00830,2026-09-19 12:57,Park Gate,classic,7.4,0.93,member,4
+R00831,2026-09-19 13:03,Park Gate,classic,19.9,4.17,casual,3
+R00832,2026-09-19 13:20,Park Gate,classic,1105.0,2.68,casual,3
+R00833,2026-09-19 13:24,Park Gate,classic,7.3,1.31,member,4
+R00834,2026-09-19 13:54,Market Square,classic,12.8,2.05,casual,
+R00835,2026-09-19 13:54,Station Road,electric,23.7,7.56,casual,4
+R00836,2026-09-19 14:57,Riverside,electric,8.5,1.95,member,5
+R00837,2026-09-19 15:12,Park Gate,classic,24.4,5.71,casual,4
+R00838,2026-09-19 15:20,Park Gate,classic,10.9,1.92,member,3
+R00839,2026-09-19 15:22,Station Road,classic,26.9,4.72,casual,5
+R00840,2026-09-19 15:36,Old Mill,classic,26.8,6.45,casual,3
+R00841,2026-09-19 15:51,University,electric,14.7,3.2,casual,4
+R00842,2026-09-19 17:36,Market Square,classic,32.3,6.22,casual,4
+R00843,2026-09-20 07:26,Riverside,electric,6.3,2.14,member,4
+R00844,2026-09-20 07:43,Old Mill,electric,16.4,4.58,casual,4
+R00845,2026-09-20 08:20,Old Mill,electric,5.7,1.49,member,4
+R00846,2026-09-20 08:38,Station Road,classic,36.1,8.37,casual,4
+R00847,2026-09-20 09:24,Park Gate,electric,37.6,9.61,casual,3
+R00848,2026-09-20 09:36,Station Road,classic,8.9,1.87,member,3
+R00849,2026-09-20 10:03,University,classic,26.0,4.28,casual,4
+R00850,2026-09-20 10:04,Market Square,classic,48.4,8.29,casual,5
+R00851,2026-09-20 11:06,Riverside,classic,21.2,3.35,casual,5
+R00852,2026-09-20 11:17,Market Square,electric,17.8,4.08,casual,4
+R00853,2026-09-20 11:17,University,classic,16.6,3.3,casual,4
+R00854,2026-09-20 11:42,Park Gate,classic,27.3,5.01,casual,3
+R00855,2026-09-20 11:54,Station Road,classic,16.5,2.14,casual,
+R00856,2026-09-20 12:14,Riverside,electric,11.7,3.24,member,2
+R00857,2026-09-20 12:27,Market Square,electric,15.0,2.68,casual,4
+R00858,2026-09-20 12:37,Park Gate,classic,35.2,8.13,casual,5
+R00859,2026-09-20 12:45,Market Square,classic,7.3,1.37,member,3
+R00860,2026-09-20 13:09,University,classic,9.9,1.09,member,
+R00861,2026-09-20 13:09,Old Mill,classic,25.2,4.88,casual,4
+R00862,2026-09-20 13:36,Riverside,electric,17.9,3.93,casual,4
+R00863,2026-09-20 13:40,Market Square,electric,6.2,1.58,member,5
+R00864,2026-09-20 13:44,Park Gate,classic,9.3,1.95,casual,4
+R00865,2026-09-20 13:49,Park Gate,electric,10.5,2.95,member,4
+R00866,2026-09-20 13:55,Park Gate,electric,12.1,2.78,member,4
+R00867,2026-09-20 14:07,Old Mill,electric,26.9,6.87,casual,3
+R00868,2026-09-20 14:25,Station Road,classic,26.6,4.5,casual,4
+R00869,2026-09-20 14:25,Riverside,classic,23.3,5.24,member,
+R00870,2026-09-20 14:35,University,electric,14.1,3.27,casual,4
+R00871,2026-09-20 14:38,Old Mill,classic,9.8,1.36,member,
+R00872,2026-09-20 14:43,Market Square,classic,48.9,7.68,casual,4
+R00873,2026-09-20 15:08,Park Gate,electric,41.6,10.95,casual,3
+R00874,2026-09-20 15:26,Park Gate,classic,4.3,1.05,member,5
+R00875,2026-09-20 15:43,University,Classic,12.3,1.5,member,4
+R00876,2026-09-20 16:47,University,electric,20.7,4.93,member,
+R00877,2026-09-20 17:11,University,electric,14.4,3.62,member,5
+R00878,2026-09-20 19:37,University,classic,7.1,1.16,member,4
+R00879,2026-09-20 21:31,Station Road,classic,8.3,1.1,member,3
+R00880,2026-09-21 08:13,Station Road,classic,11.1,1.92,member,
+R00881,2026-09-21 08:22,Park Gate,electric,8.6,2.22,member,4
+R00882,2026-09-21 08:27,Old Mill,electric,16.0,3.68,casual,4
+R00883,2026-09-21 08:40,Park Gate,electric,9.6,2.15,member,4
+R00884,2026-09-21 08:55,Station Road,electric,4.3,1.18,member,4
+R00885,2026-09-21 09:04,University,electric,12.6,2.82,casual,4
+R00886,2026-09-21 09:06,Market Square,classic,10.4,1.68,member,3
+R00887,2026-09-21 09:31,University,electric,3.2,0.81,member,3
+R00888,2026-09-21 09:50,University,classic,24.3,3.24,member,
+R00889,2026-09-21 12:13,University,classic,7.2,1.62,member,4
+R00890,2026-09-21 12:16,Park Gate,classic,8.8,1.04,member,4
+R00891,2026-09-21 12:33,Old Mill,classic,13.7,2.38,member,4
+R00892,2026-09-21 13:01,Park Gate,electric,11.0,2.63,member,3
+R00893,2026-09-21 13:25,Park Gate,electric,4.5,0.97,member,2
+R00894,2026-09-21 13:39,Old Mill,classic,21.6,4.08,member,4
+R00895,2026-09-21 13:42,Market Square,classic,21.3,4.05,member,
+R00896,2026-09-21 13:45,Riverside,electric,9.9,2.31,member,3
+R00897,2026-09-21 17:03,University,classic,15.9,3.46,member,
+R00898,2026-09-21 17:09,Riverside,classic,20.4,2.95,member,4
+R00899,2026-09-21 17:14,University,electric,8.7,2.74,member,4
+R00900,2026-09-21 17:21,Old Mill,classic,13.3,3.12,member,3
+R00901,2026-09-21 17:24,University,classic,12.7,1.88,member,5
+R00902,2026-09-21 17:26,Station Road,electric,25.2,4.19,casual,
+R00903,2026-09-21 17:42,Riverside,electric,12.5,3.3,casual,3
+R00904,2026-09-21 17:44,Old Mill,classic,1069.0,0.86,member,4
+R00905,2026-09-21 17:51,University,electric,13.3,3.23,member,3
+R00906,2026-09-21 18:07,Park Gate,classic,22.9,4.92,member,4
+R00907,2026-09-21 18:08,Old Mill,electric,5.9,1.41,member,
+R00908,2026-09-21 18:33,Old Mill,classic,9.4,1.46,casual,4
+R00909,2026-09-21 19:49,Old Mill,classic,6.8,1.43,member,4
+R00910,2026-09-22 08:02,Old Mill,classic,11.8,1.24,casual,4
+R00911,2026-09-22 08:15,Market Square,electric,6.3,1.97,member,3
+R00912,2026-09-22 08:16,Station Road,classic,10.9,2.43,member,4
+R00913,2026-09-22 08:26,Park Gate,electric,11.0,2.67,member,3
+R00914,2026-09-22 08:38,Station Road,electric,16.4,3.72,member,
+R00915,2026-09-22 08:41,University,E-bike,7.7,2.31,member,1
+R00916,2026-09-22 08:44,Market Square,classic,3.4,0.64,member,
+R00917,2026-09-22 08:59,Market Square,classic,21.3,4.6,casual,4
+R00918,2026-09-22 09:08,Old Mill,classic,6.4,1.31,member,3
+R00919,2026-09-22 09:25,Station Road,classic,10.2,1.7,member,
+R00920,2026-09-22 09:30,Riverside,classic,15.0,3.98,member,4
+R00921,2026-09-22 13:38,University,electric,19.7,5.33,member,
+R00922,2026-09-22 13:41,Park Gate,classic,15.7,2.91,member,
+R00923,2026-09-22 13:56,Riverside,classic,8.0,1.49,member,5
+R00924,2026-09-22 14:46,Market Square,classic,12.1,1.88,member,4
+R00925,2026-09-22 17:07,Station Road,classic,14.0,2.22,casual,3
+R00926,2026-09-22 17:18,Old Mill,electric,12.0,3.53,member,3
+R00927,2026-09-22 17:24,Old Mill,classic,23.1,3.42,member,
+R00928,2026-09-22 17:27,Riverside,classic,8.4,0.96,member,4
+R00929,2026-09-22 18:54,Market Square,classic,13.0,2.55,member,4
+R00930,2026-09-23 07:00,Old Mill,classic,9.7,1.88,member,5
+R00931,2026-09-23 08:00,Park Gate,classic,8.0,1.62,member,5
+R00932,2026-09-23 08:00,Old Mill,classic,11.4,2.09,member,4
+R00933,2026-09-23 08:04,Old Mill,classic,22.7,4.23,member,
+R00934,2026-09-23 08:05,Station Road,classic,6.1,1.23,member,4
+R00935,2026-09-23 08:10,Old Mill,classic,9.9,1.66,member,4
+R00936,2026-09-23 08:12,Market Square,classic,25.4,5.43,casual,4
+R00937,2026-09-23 08:16,University,classic,11.1,1.46,casual,2
+R00938,2026-09-23 08:16,Market Square,classic,13.6,2.27,member,4
+R00939,2026-09-23 08:17,Station Road,electric,3.8,0.77,member,
+R00940,2026-09-23 08:18,University,classic,10.7,1.91,member,3
+R00941,2026-09-23 08:36,Station Road,classic,20.9,3.87,casual,4
+R00942,2026-09-23 08:37,Old Mill,classic,9.5,1.74,member,4
+R00943,2026-09-23 08:43,Old Mill,electric,6.3,1.43,member,5
+R00944,2026-09-23 08:44,Park Gate,electric,9.7,2.54,member,3
+R00945,2026-09-23 08:51,Park Gate,classic,14.4,3.03,member,1
+R00946,2026-09-23 09:23,Station Road,classic,913.0,5.04,member,5
+R00947,2026-09-23 09:58,Station Road,electric,22.8,5.92,casual,5
+R00948,2026-09-23 12:00,Riverside,classic,21.1,3.15,casual,3
+R00949,2026-09-23 12:19,University,Classic,16.5,2.29,member,4
+R00950,2026-09-23 13:13,Riverside,classic,3.3,0.41,member,4
+R00951,2026-09-23 13:21,Old Mill,classic,28.5,3.97,casual,3
+R00952,2026-09-23 13:30,Market Square,electric,6.6,1.71,member,4
+R00953,2026-09-23 13:39,Riverside,classic,16.7,2.79,member,4
+R00954,2026-09-23 13:43,Old Mill,electric,31.3,9.26,casual,4
+R00955,2026-09-23 13:44,Station Road,classic,9.4,1.53,member,2
+R00956,2026-09-23 13:55,Old Mill,classic,22.2,2.39,member,3
+R00957,2026-09-23 13:58,Market Square,classic,10.4,2.01,member,
+R00958,2026-09-23 13:59,Station Road,classic,22.4,4.09,member,4
+R00959,2026-09-23 16:44,University,electric,7.1,1.84,member,4
+R00960,2026-09-23 17:02,University,electric,7.9,1.73,member,
+R00961,2026-09-23 17:08,Station Road,electric,7.8,2.07,member,4
+R00962,2026-09-23 17:11,Park Gate,electric,17.4,2.72,member,
+R00963,2026-09-23 17:36,Riverside,classic,22.8,4.11,member,4
+R00964,2026-09-23 17:38,Old Mill,classic,6.6,1.35,member,3
+R00965,2026-09-23 17:50,Park Gate,Classic,14.4,2.87,casual,4
+R00966,2026-09-23 18:07,Riverside,electric,10.4,2.44,member,4
+R00967,2026-09-23 20:03,Park Gate,electric,17.1,3.79,casual,
+R00968,2026-09-24 08:07,Station Road,E-bike,14.6,3.74,member,
+R00969,2026-09-24 08:08,Old Mill,classic,7.6,1.16,member,3
+R00970,2026-09-24 08:10,Old Mill,classic,15.6,3.63,member,
+R00971,2026-09-24 08:41,Riverside,electric,10.6,2.28,casual,
+R00972,2026-09-24 08:44,Station Road,electric,8.5,1.93,member,3
+R00973,2026-09-24 08:48,Market Square,classic,6.5,1.2,member,3
+R00974,2026-09-24 08:52,Market Square,electric,11.5,3.09,member,3
+R00975,2026-09-24 09:31,Market Square,classic,6.3,1.23,member,
+R00976,2026-09-24 09:35,Station Road,classic,9.5,1.94,member,4
+R00977,2026-09-24 09:55,Old Mill,electric,16.1,4.41,casual,4
+R00978,2026-09-24 09:55,Park Gate,classic,13.9,2.43,member,4
+R00979,2026-09-24 09:58,University,electric,51.1,13.96,casual,
+R00980,2026-09-24 12:32,Station Road,classic,15.8,2.19,member,4
+R00981,2026-09-24 13:03,Riverside,classic,7.4,1.13,casual,4
+R00982,2026-09-24 13:49,Market Square,classic,33.6,6.01,member,
+R00983,2026-09-24 13:58,Old Mill,classic,14.3,2.59,member,5
+R00984,2026-09-24 14:24,Park Gate,classic,22.8,4.31,casual,2
+R00985,2026-09-24 15:30,Market Square,classic,31.7,6.41,member,3
+R00986,2026-09-24 17:07,Riverside,electric,41.2,10.96,casual,4
+R00987,2026-09-24 17:36,Station Road,classic,27.7,5.62,member,3
+R00988,2026-09-24 17:41,Station Road,classic,4.6,0.64,member,3
+R00989,2026-09-24 17:42,Park Gate,classic,13.3,2.59,member,4
+R00990,2026-09-24 17:55,Station Road,classic,8.4,1.68,member,
+R00991,2026-09-24 17:56,University,classic,10.1,0.78,member,4
+R00992,2026-09-24 18:06,Old Mill,electric,12.5,2.98,member,4
+R00993,2026-09-24 18:31,University,classic,8.0,1.63,member,4
+R00994,2026-09-24 18:35,Park Gate,electric,13.8,3.56,member,5
+R00995,2026-09-25 08:06,University,classic,11.6,1.58,member,2
+R00996,2026-09-25 08:16,Park Gate,classic,31.7,5.33,casual,4
+R00997,2026-09-25 08:27,Park Gate,electric,20.5,4.68,casual,4
+R00998,2026-09-25 08:35,Old Mill,classic,13.6,2.34,member,5
+R00999,2026-09-25 08:56,Old Mill,classic,,8.25,casual,5
+R01000,2026-09-25 09:22,Market Square,classic,9.9,1.47,member,2
+R01001,2026-09-25 09:53,Old Mill,classic,13.2,3.23,member,4
+R01002,2026-09-25 09:58,University,classic,14.1,2.42,casual,
+R01003,2026-09-25 13:05,Riverside,classic,23.3,4.2,casual,1
+R01004,2026-09-25 13:45,Old Mill,classic,35.4,5.42,casual,4
+R01005,2026-09-25 13:59,Market Square,electric,9.4,2.37,member,
+R01006,2026-09-25 17:35,Market Square,classic,13.6,2.98,casual,3
+R01007,2026-09-25 17:52,Market Square,classic,7.8,1.33,member,4
+R01008,2026-09-25 17:56,University,electric,13.1,3.52,casual,
+R01009,2026-09-25 17:58,Park Gate,classic,24.4,4.12,member,4
+R01010,2026-09-25 18:06,Station Road,electric,16.5,3.99,casual,4
+R01011,2026-09-25 18:17,Park Gate,classic,17.6,3.37,member,
+R01012,2026-09-25 19:37,Riverside,classic,17.5,2.94,casual,
+R01013,2026-09-25 21:25,Park Gate,electric,3.9,0.8,member,5
+R01014,2026-09-26 08:20,Old Mill,electric,26.9,8.24,casual,3
+R01015,2026-09-26 09:16,University,classic,23.5,4.13,casual,4
+R01016,2026-09-26 10:36,Riverside,classic,6.5,1.18,member,4
+R01017,2026-09-26 11:18,Park Gate,classic,15.7,3.42,member,4
+R01018,2026-09-26 11:23,Market Square,classic,20.6,4.19,casual,3
+R01019,2026-09-26 11:59,University,electric,17.0,3.8,casual,3
+R01020,2026-09-26 12:00,Old Mill,electric,4.9,1.25,member,
+R01021,2026-09-26 12:43,Old Mill,classic,71.4,12.02,casual,4
+R01022,2026-09-26 12:45,riverside,classic,15.5,2.73,member,
+R01023,2026-09-26 12:54,Market Square,classic,15.2,1.91,casual,4
+R01024,2026-09-26 13:11,Old Mill,classic,28.1,5.67,casual,5
+R01025,2026-09-26 14:11,Market Square,classic,9.1,1.35,member,
+R01026,2026-09-26 14:14,Market Square,classic,5.2,0.97,member,4
+R01027,2026-09-26 14:42,Old Mill,classic,9.1,1.57,member,
+R01028,2026-09-26 15:20,Riverside,classic,17.7,3.75,member,4
+R01029,2026-09-26 17:19,Station Road,electric,12.9,4.27,member,3
+R01030,2026-09-26 18:02,Riverside,classic,10.1,2.24,casual,2
+R01031,2026-09-26 19:48,Riverside,classic,10.7,1.63,member,4
+R01032,2026-09-27 07:10,Old Mill,classic,15.6,3.24,member,5
+R01033,2026-09-27 07:43,Park Gate,classic,21.0,3.99,member,4
+R01034,2026-09-27 08:12,Market Square,classic,45.3,9.67,casual,
+R01035,2026-09-27 08:33,Park Gate,electric,21.5,4.86,casual,4
+R01036,2026-09-27 09:16,Riverside,classic,15.0,2.68,member,3
+R01037,2026-09-27 10:18,Market Square,electric,7.9,1.42,member,5
+R01038,2026-09-27 10:28,Old Mill,classic,25.3,5.65,casual,5
+R01039,2026-09-27 10:32,Station Road,classic,9.8,1.78,casual,5
+R01040,2026-09-27 10:33,University,classic,17.8,3.22,casual,4
+R01041,2026-09-27 10:38,Riverside,electric,22.6,5.51,member,5
+R01042,2026-09-27 10:40,Old Mill,electric,17.3,3.99,casual,3
+R01043,2026-09-27 11:07,Riverside,classic,12.2,2.28,member,
+R01043,2026-09-27 11:07,Riverside,classic,12.2,2.28,member,
+R01044,2026-09-27 11:13,University,classic,17.2,3.73,casual,5
+R01045,2026-09-27 12:18,Park Gate,classic,33.9,6.04,casual,4
+R01046,2026-09-27 12:23,Riverside,classic,13.1,2.52,casual,5
+R01047,2026-09-27 12:24,University,classic,22.3,3.67,member,
+R01048,2026-09-27 12:25,Market Square,classic,6.8,1.55,member,4
+R01049,2026-09-27 12:28,Old Mill,classic,19.8,4.29,casual,4
+R01050,2026-09-27 12:31,Market Square,electric,7.7,2.02,member,
+R01051,2026-09-27 14:20,University,classic,10.1,1.92,casual,
+R01052,2026-09-27 14:26,Station Road,classic,9.2,1.35,member,4
+R01053,2026-09-27 14:39,Park Gate,classic,26.1,2.8,casual,
+R01054,2026-09-27 14:45,Riverside,classic,15.3,2.34,member,4
+R01055,2026-09-27 15:00,Station Road,classic,13.9,3.04,member,5
+R01056,2026-09-27 15:28,Park Gate,classic,17.9,3.04,casual,4
+R01057,2026-09-27 15:41,Market Square,classic,7.7,0.71,member,4
+R01058,2026-09-27 15:55,Riverside,classic,34.4,6.13,casual,4
+R01059,2026-09-27 16:42,Market Square,classic,16.0,4.0,casual,4
+R01060,2026-09-27 16:48,Station Road,classic,5.1,1.09,member,3
+R01061,2026-09-27 16:49,university,electric,10.3,1.69,casual,2
+R01062,2026-09-27 17:20,Park Gate,electric,,2.99,casual,3
+R01063,2026-09-27 17:29,Old Mill,electric,61.3,14.72,casual,4
+R01064,2026-09-27 17:32,Park Gate,classic,6.6,1.33,member,
+R01065,2026-09-27 18:52,Station Road,classic,7.6,1.14,member,
+R01066,2026-09-27 19:31,University,classic,53.5,9.64,casual,5
+R01067,2026-09-27 19:58,Market Square,classic,26.4,4.2,casual,4
+R01068,2026-09-27 19:59,Park Gate,classic,20.2,3.71,casual,4
+R01069,2026-09-28 08:03,Market Square,classic,55.1,9.95,casual,4
+R01070,2026-09-28 08:06,Park Gate,electric,8.3,2.03,member,3
+R01071,2026-09-28 08:13,Market Square,electric,6.9,1.59,member,
+R01072,2026-09-28 08:13,Old Mill,electric,15.1,3.37,member,3
+R01073,2026-09-28 08:14,university,classic,34.6,7.08,casual,4
+R01074,2026-09-28 08:23,Market Square,classic,76.5,16.52,casual,4
+R01075,2026-09-28 08:25,Old Mill,classic,9.2,1.79,casual,4
+R01076,2026-09-28 08:26,University,electric,5.1,1.3,member,4
+R01077,2026-09-28 08:28,Market Square,electric,35.0,10.53,casual,5
+R01078,2026-09-28 08:36,Riverside,electric,4.9,1.2,member,4
+R01079,2026-09-28 08:44,Market Square,electric,8.9,1.9,member,5
+R01080,2026-09-28 08:54,Riverside,electric,18.2,4.51,casual,5
+R01081,2026-09-28 09:32,Station Road,classic,14.3,2.57,member,
+R01082,2026-09-28 09:36,Old Mill,electric,12.9,2.73,member,4
+R01083,2026-09-28 09:56,Park Gate,electric,2.2,0.53,member,5
+R01084,2026-09-28 10:13,Market Square,electric,8.9,1.96,member,3
+R01085,2026-09-28 12:07,Old Mill,electric,8.5,1.92,member,
+R01086,2026-09-28 12:17,University,classic,21.2,3.24,member,4
+R01087,2026-09-28 12:27,Riverside,electric,9.1,1.76,member,
+R01088,2026-09-28 12:29,Old Mill,classic,13.9,2.22,member,3
+R01089,2026-09-28 12:54,Market Square,E-bike,11.9,2.86,member,4
+R01090,2026-09-28 13:06,Station Road,classic,11.3,1.87,member,3
+R01091,2026-09-28 13:23,Station Road,electric,3.4,1.01,member,3
+R01092,2026-09-28 13:36,University,electric,10.0,2.55,member,4
+R01093,2026-09-28 13:43,Station Road,classic,7.1,1.33,member,4
+R01094,2026-09-28 17:24,University,classic,9.0,1.97,member,5
+R01095,2026-09-28 17:33,Riverside,electric,7.7,2.08,member,4
+R01096,2026-09-28 17:56,Riverside,electric,7.6,1.74,member,
+R01097,2026-09-28 17:57,Station Road,electric,4.3,1.0,member,4
+R01098,2026-09-28 18:00,Old Mill,electric,16.8,5.08,member,
+R01099,2026-09-28 18:25,Station Road,classic,28.0,5.08,member,5
+R01100,2026-09-28 18:48,Market Square,classic,8.6,1.92,member,4
+R01101,2026-09-28 18:52,Market Square,electric,10.4,2.33,member,5
+R01102,2026-09-28 18:59,Market Square,electric,19.8,4.86,casual,5
+R01103,2026-09-28 19:24,Station Road,classic,34.5,4.98,casual,3
+R01104,2026-09-29 07:35,Old Mill,classic,12.9,2.28,member,4
+R01105,2026-09-29 08:05,Old Mill,classic,17.0,2.34,member,
+R01106,2026-09-29 08:13,Old Mill,electric,7.8,1.73,member,
+R01107,2026-09-29 08:19,Park Gate,classic,13.0,2.34,member,3
+R01108,2026-09-29 08:20,Market Square,electric,8.3,2.26,member,2
+R01109,2026-09-29 08:20,Station Road,classic,12.0,2.19,member,3
+R01110,2026-09-29 08:27,Riverside,classic,41.1,8.6,casual,5
+R01111,2026-09-29 08:34,Old Mill,electric,11.9,2.87,member,5
+R01112,2026-09-29 08:35,Park Gate,classic,4.9,1.07,member,4
+R01113,2026-09-29 08:40,University,classic,14.5,2.63,member,5
+R01114,2026-09-29 08:45,Old Mill,classic,9.9,1.83,member,4
+R01115,2026-09-29 08:46,Market Square,classic,20.2,3.13,member,3
+R01116,2026-09-29 08:58,Riverside,classic,22.3,3.46,member,
+R01117,2026-09-29 09:00,Market Square,classic,13.7,2.28,member,4
+R01118,2026-09-29 09:08,Riverside,electric,25.8,5.95,casual,4
+R01119,2026-09-29 09:08,Market Square,electric,24.4,7.75,member,5
+R01120,2026-09-29 09:12,old mill,classic,21.4,3.09,member,4
+R01121,2026-09-29 09:19,Park Gate,classic,5.7,0.76,member,3
+R01122,2026-09-29 09:24,Old Mill,classic,7.6,1.41,member,3
+R01123,2026-09-29 09:26,Park Gate,electric,7.1,1.73,member,5
+R01124,2026-09-29 09:53,University,electric,5.9,1.7,member,5
+R01125,2026-09-29 09:57,University,electric,40.6,9.84,casual,4
+R01126,2026-09-29 12:13,Riverside,classic,9.5,1.66,member,5
+R01127,2026-09-29 12:26,Old Mill,classic,11.1,1.69,member,5
+R01128,2026-09-29 13:07,Riverside,classic,36.2,6.47,casual,5
+R01129,2026-09-29 13:18,Station Road,classic,7.9,1.55,member,5
+R01130,2026-09-29 13:50,Park Gate,classic,9.5,1.34,member,4
+R01131,2026-09-29 17:03,Old Mill,electric,16.0,4.08,casual,5
+R01132,2026-09-29 17:08,Old Mill,electric,27.3,8.22,casual,4
+R01133,2026-09-29 17:09,Old Mill,electric,13.9,2.81,member,3
+R01134,2026-09-29 17:18,Old Mill,electric,15.6,3.84,member,4
+R01135,2026-09-29 17:30,Market Square,classic,6.1,1.24,member,
+R01136,2026-09-29 17:32,University,classic,23.3,4.05,member,4
+R01137,2026-09-29 17:42,Station Road,electric,51.3,12.26,casual,4
+R01138,2026-09-29 17:43,Station Road,classic,46.5,6.74,casual,4
+R01139,2026-09-29 17:44,Market Square,classic,18.1,3.96,member,5
+R01140,2026-09-29 17:47,Old Mill,classic,27.1,2.44,casual,4
+R01141,2026-09-29 17:57,Park Gate,classic,6.8,1.78,member,4
+R01142,2026-09-29 17:58,Market Square,classic,23.6,4.1,member,3
+R01143,2026-09-29 18:17,Riverside,classic,25.8,4.52,casual,4
+R01144,2026-09-29 18:26,Station Road,electric,16.8,4.01,member,5
+R01145,2026-09-29 18:32,Park Gate,classic,19.9,4.37,member,5
+R01146,2026-09-29 21:19,Riverside,classic,4.8,0.63,member,3
+R01147,2026-09-29 21:23,Market Square,classic,12.8,2.16,member,3
+R01148,2026-09-30 07:17,riverside,classic,35.7,6.32,member,5
+R01149,2026-09-30 08:03,Park Gate,classic,29.4,4.42,casual,5
+R01150,2026-09-30 08:05,Park Gate,classic,3.3,0.5,member,
+R01151,2026-09-30 08:16,Old Mill,classic,20.4,3.76,casual,4
+R01152,2026-09-30 08:31,Old Mill,classic,4.6,0.81,member,4
+R01153,2026-09-30 08:35,Old Mill,electric,6.4,1.35,member,5
+R01154,2026-09-30 08:37,Riverside,electric,6.5,1.55,member,3
+R01155,2026-09-30 08:38,Station Road,classic,10.0,1.36,casual,5
+R01156,2026-09-30 08:49,Park Gate,classic,10.7,2.0,casual,3
+R01157,2026-09-30 09:12,Park Gate,classic,51.9,9.12,casual,
+R01158,2026-09-30 09:14,University,classic,6.0,0.95,casual,4
+R01159,2026-09-30 09:42,Park Gate,classic,15.9,3.07,member,
+R01160,2026-09-30 09:53,Riverside,electric,11.2,2.55,casual,
+R01161,2026-09-30 09:55,Park Gate,classic,8.8,1.48,member,
+R01162,2026-09-30 09:59,Riverside,classic,15.3,1.89,casual,4
+R01163,2026-09-30 12:27,Park Gate,classic,33.0,4.81,casual,
+R01164,2026-09-30 12:38,Riverside,classic,4.3,0.96,member,
+R01165,2026-09-30 12:40,Riverside,classic,23.8,2.78,casual,
+R01166,2026-09-30 12:48,Old Mill,electric,2.6,0.63,member,3
+R01167,2026-09-30 13:07,Station Road,classic,16.5,3.84,member,5
+R01168,2026-09-30 13:27,  University ,classic,13.6,1.55,member,5
+R01169,2026-09-30 13:28,Market Square,classic,9.8,1.93,member,4
+R01170,2026-09-30 13:32,Park Gate,classic,16.7,2.61,casual,4
+R01171,2026-09-30 13:38,Old Mill,classic,17.3,3.71,casual,4
+R01172,2026-09-30 13:56,Market Square,classic,15.7,3.11,member,4
+R01173,2026-09-30 15:17,University,classic,9.0,1.51,member,4
+R01174,2026-09-30 17:02,University,electric,23.0,4.92,member,5
+R01175,2026-09-30 17:03,University,electric,8.8,2.21,member,5
+R01176,2026-09-30 17:04,Park Gate,classic,,8.06,casual,4
+R01177,2026-09-30 17:14,University,classic,15.4,2.92,member,4
+R01178,2026-09-30 17:21,University,classic,17.2,3.31,casual,
+R01179,2026-09-30 17:31,Riverside,electric,7.6,1.44,member,4
+R01180,2026-09-30 17:33,Market Square,classic,11.9,2.33,member,4
+R01181,2026-09-30 17:40,Riverside,classic,13.8,2.73,member,3
+R01182,2026-09-30 17:48,Market Square,classic,33.6,7.55,casual,4
+R01183,2026-09-30 18:09,Station Road,classic,11.6,2.59,member,4
+R01184,2026-09-30 18:17,University,classic,10.5,1.88,member,5
+R01185,2026-09-30 18:30,Old Mill,electric,8.5,2.24,member,3
+R01186,2026-09-30 18:35,University,electric,6.6,1.64,member,4
+R01187,2026-09-30 18:47,Station Road,classic,17.1,3.61,member,4
+R01188,2026-09-30 18:48,Station Road,classic,17.0,3.05,member,3
+R01189,2026-09-30 18:54,Station Road,classic,9.2,0.82,member,
+R01190,2026-09-30 18:54,University,classic,,0.77,member,5
+R01191,2026-09-30 19:42,Station Road,classic,8.7,1.57,member,5

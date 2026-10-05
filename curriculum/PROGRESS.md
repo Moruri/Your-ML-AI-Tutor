@@ -2,19 +2,19 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Tuesday 2026-09-29 (Week 4, Day 2)
+**Last updated:** Monday 2026-10-05 (Week 5, Day 1)
 
 ## Summary
 
 | Phase | Lessons | Published | Status |
 |-------|---------|-----------|--------|
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
-| 1 - Data science basics | 013-028 | 14 / 16 | In progress |
+| 1 - Data science basics | 013-028 | 16 / 16 | Complete |
 | 2 - Classical machine learning | 029-048 | 0 / 20 | Not started |
 | 3 - Deep learning foundations | 049-060 | 0 / 12 | Not started |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **26 / 84** | |
+| **Total** | **001-084** | **28 / 84** | |
 
 ## Published lessons
 
@@ -46,11 +46,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-09-28 (Mon) | Week 4, Day 1 | 024 - Correlation, causation and the traps in between | [lessons/phase-1-data-science/lesson-024-correlation-causation-and-the-traps-in-between](../lessons/phase-1-data-science/lesson-024-correlation-causation-and-the-traps-in-between/README.md) |
 | 2026-09-29 (Tue) | Week 4, Day 2 | 025 - Probability intuition for ML | [lessons/phase-1-data-science/lesson-025-probability-intuition-for-ml](../lessons/phase-1-data-science/lesson-025-probability-intuition-for-ml/README.md) |
 | 2026-09-29 (Tue) | Week 4, Day 2 | 026 - Sampling, confidence and the bootstrap | [lessons/phase-1-data-science/lesson-026-sampling-confidence-and-the-bootstrap](../lessons/phase-1-data-science/lesson-026-sampling-confidence-and-the-bootstrap/README.md) |
+| 2026-10-05 (Mon) | Week 5, Day 1 | 027 - Hypothesis tests without the mystery | [lessons/phase-1-data-science/lesson-027-hypothesis-tests-without-the-mystery](../lessons/phase-1-data-science/lesson-027-hypothesis-tests-without-the-mystery/README.md) |
+| 2026-10-05 (Mon) | Week 5, Day 1 | 028 - Mini-project: exploratory data analysis | [lessons/phase-1-data-science/lesson-028-mini-project-exploratory-data-analysis](../lessons/phase-1-data-science/lesson-028-mini-project-exploratory-data-analysis/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-09-30 (Wed) | Week 4, Day 3 | 027 - Hypothesis tests without the mystery; 028 - Mini-project: exploratory data analysis |
+| 2026-10-06 (Tue) | Week 5, Day 2 | 029 - What a model actually is; 030 - Linear regression with scikit-learn |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
