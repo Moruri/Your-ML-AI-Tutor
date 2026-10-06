@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Monday 2026-10-05 (Week 5, Day 1)
+**Last updated:** Tuesday 2026-10-06 (Week 5, Day 2)
 
 ## Summary
 
@@ -10,11 +10,11 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 |-------|---------|-----------|--------|
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
-| 2 - Classical machine learning | 029-048 | 0 / 20 | Not started |
+| 2 - Classical machine learning | 029-048 | 2 / 20 | In progress |
 | 3 - Deep learning foundations | 049-060 | 0 / 12 | Not started |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **28 / 84** | |
+| **Total** | **001-084** | **30 / 84** | |
 
 ## Published lessons
 
@@ -48,11 +48,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-09-29 (Tue) | Week 4, Day 2 | 026 - Sampling, confidence and the bootstrap | [lessons/phase-1-data-science/lesson-026-sampling-confidence-and-the-bootstrap](../lessons/phase-1-data-science/lesson-026-sampling-confidence-and-the-bootstrap/README.md) |
 | 2026-10-05 (Mon) | Week 5, Day 1 | 027 - Hypothesis tests without the mystery | [lessons/phase-1-data-science/lesson-027-hypothesis-tests-without-the-mystery](../lessons/phase-1-data-science/lesson-027-hypothesis-tests-without-the-mystery/README.md) |
 | 2026-10-05 (Mon) | Week 5, Day 1 | 028 - Mini-project: exploratory data analysis | [lessons/phase-1-data-science/lesson-028-mini-project-exploratory-data-analysis](../lessons/phase-1-data-science/lesson-028-mini-project-exploratory-data-analysis/README.md) |
+| 2026-10-06 (Tue) | Week 5, Day 2 | 029 - What a model actually is | [lessons/phase-2-classical-ml/lesson-029-what-a-model-actually-is](../lessons/phase-2-classical-ml/lesson-029-what-a-model-actually-is/README.md) |
+| 2026-10-06 (Tue) | Week 5, Day 2 | 030 - Linear regression with scikit-learn | [lessons/phase-2-classical-ml/lesson-030-linear-regression-with-scikit-learn](../lessons/phase-2-classical-ml/lesson-030-linear-regression-with-scikit-learn/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-06 (Tue) | Week 5, Day 2 | 029 - What a model actually is; 030 - Linear regression with scikit-learn |
+| 2026-10-07 (Wed) | Week 5, Day 3 | 031 - Train/test splits and why we need them; 032 - Cross-validation and honest evaluation |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
