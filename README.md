@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Tuesday 2026-10-06, Week 5 Day 2):**
+**Today's lessons (Wednesday 2026-10-07, Week 5 Day 3):**
 
-- [Lesson 029 - What a model actually is](lessons/phase-2-classical-ml/lesson-029-what-a-model-actually-is/README.md)
-- [Lesson 030 - Linear regression with scikit-learn](lessons/phase-2-classical-ml/lesson-030-linear-regression-with-scikit-learn/README.md)
+- [Lesson 031 - Train/test splits and why we need them](lessons/phase-2-classical-ml/lesson-031-train-test-splits-and-why-we-need-them/README.md)
+- [Lesson 032 - Cross-validation and honest evaluation](lessons/phase-2-classical-ml/lesson-032-cross-validation-and-honest-evaluation/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 2: inside the virtual environment, see below)
-python lessons/phase-2-classical-ml/lesson-029-what-a-model-actually-is/lesson.py
-python lessons/phase-2-classical-ml/lesson-030-linear-regression-with-scikit-learn/lesson.py
+python lessons/phase-2-classical-ml/lesson-031-train-test-splits-and-why-we-need-them/lesson.py
+python lessons/phase-2-classical-ml/lesson-032-cross-validation-and-honest-evaluation/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
