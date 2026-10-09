@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Thursday 2026-10-08, Week 5 Day 4):**
+**Today's lessons (Friday 2026-10-09, Week 5 Day 5):**
 
-- [Lesson 033 - Logistic regression and classification](lessons/phase-2-classical-ml/lesson-033-logistic-regression-and-classification/README.md)
-- [Lesson 034 - Classification metrics that matter](lessons/phase-2-classical-ml/lesson-034-classification-metrics-that-matter/README.md)
+- [Lesson 035 - Feature scaling and encoding](lessons/phase-2-classical-ml/lesson-035-feature-scaling-and-encoding/README.md)
+- [Lesson 036 - Pipelines: doing it right every time](lessons/phase-2-classical-ml/lesson-036-pipelines-doing-it-right-every-time/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 2: inside the virtual environment, see below)
-python lessons/phase-2-classical-ml/lesson-033-logistic-regression-and-classification/lesson.py
-python lessons/phase-2-classical-ml/lesson-034-classification-metrics-that-matter/lesson.py
+python lessons/phase-2-classical-ml/lesson-035-feature-scaling-and-encoding/lesson.py
+python lessons/phase-2-classical-ml/lesson-036-pipelines-doing-it-right-every-time/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
