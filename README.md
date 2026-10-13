@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Monday 2026-10-12, Week 6 Day 1):**
+**Today's lessons (Tuesday 2026-10-13, Week 6 Day 2):**
 
-- [Lesson 037 - k-Nearest Neighbours and the curse of dimensionality](lessons/phase-2-classical-ml/lesson-037-k-nearest-neighbours-and-the-curse-of-dimensionality/README.md)
-- [Lesson 038 - Decision trees you can read](lessons/phase-2-classical-ml/lesson-038-decision-trees-you-can-read/README.md)
+- [Lesson 039 - Random forests and bagging](lessons/phase-2-classical-ml/lesson-039-random-forests-and-bagging/README.md)
+- [Lesson 040 - Gradient boosting](lessons/phase-2-classical-ml/lesson-040-gradient-boosting/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 2: inside the virtual environment, see below)
-python lessons/phase-2-classical-ml/lesson-037-k-nearest-neighbours-and-the-curse-of-dimensionality/lesson.py
-python lessons/phase-2-classical-ml/lesson-038-decision-trees-you-can-read/lesson.py
+python lessons/phase-2-classical-ml/lesson-039-random-forests-and-bagging/lesson.py
+python lessons/phase-2-classical-ml/lesson-040-gradient-boosting/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find

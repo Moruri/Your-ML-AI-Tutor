@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Monday 2026-10-12 (Week 6, Day 1)
+**Last updated:** Tuesday 2026-10-13 (Week 6, Day 2)
 
 ## Summary
 
@@ -10,11 +10,11 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 |-------|---------|-----------|--------|
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
-| 2 - Classical machine learning | 029-048 | 10 / 20 | In progress |
+| 2 - Classical machine learning | 029-048 | 12 / 20 | In progress |
 | 3 - Deep learning foundations | 049-060 | 0 / 12 | Not started |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **38 / 84** | |
+| **Total** | **001-084** | **40 / 84** | |
 
 ## Published lessons
 
@@ -58,11 +58,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-10-09 (Fri) | Week 5, Day 5 | 036 - Pipelines: doing it right every time | [lessons/phase-2-classical-ml/lesson-036-pipelines-doing-it-right-every-time](../lessons/phase-2-classical-ml/lesson-036-pipelines-doing-it-right-every-time/README.md) |
 | 2026-10-12 (Mon) | Week 6, Day 1 | 037 - k-Nearest Neighbours and the curse of dimensionality | [lessons/phase-2-classical-ml/lesson-037-k-nearest-neighbours-and-the-curse-of-dimensionality](../lessons/phase-2-classical-ml/lesson-037-k-nearest-neighbours-and-the-curse-of-dimensionality/README.md) |
 | 2026-10-12 (Mon) | Week 6, Day 1 | 038 - Decision trees you can read | [lessons/phase-2-classical-ml/lesson-038-decision-trees-you-can-read](../lessons/phase-2-classical-ml/lesson-038-decision-trees-you-can-read/README.md) |
+| 2026-10-13 (Tue) | Week 6, Day 2 | 039 - Random forests and bagging | [lessons/phase-2-classical-ml/lesson-039-random-forests-and-bagging](../lessons/phase-2-classical-ml/lesson-039-random-forests-and-bagging/README.md) |
+| 2026-10-13 (Tue) | Week 6, Day 2 | 040 - Gradient boosting | [lessons/phase-2-classical-ml/lesson-040-gradient-boosting](../lessons/phase-2-classical-ml/lesson-040-gradient-boosting/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-13 (Tue) | Week 6, Day 2 | 039 - Random forests and bagging; 040 - Gradient boosting |
+| 2026-10-14 (Wed) | Week 6, Day 3 | 041 - Regularisation: Ridge, Lasso and friends; 042 - Hyperparameter search |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
