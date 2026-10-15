@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Wednesday 2026-10-14 (Week 6, Day 3)
+**Last updated:** Thursday 2026-10-15 (Week 6, Day 4)
 
 ## Summary
 
@@ -10,11 +10,11 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 |-------|---------|-----------|--------|
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
-| 2 - Classical machine learning | 029-048 | 14 / 20 | In progress |
+| 2 - Classical machine learning | 029-048 | 16 / 20 | In progress |
 | 3 - Deep learning foundations | 049-060 | 0 / 12 | Not started |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **42 / 84** | |
+| **Total** | **001-084** | **44 / 84** | |
 
 ## Published lessons
 
@@ -62,11 +62,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-10-13 (Tue) | Week 6, Day 2 | 040 - Gradient boosting | [lessons/phase-2-classical-ml/lesson-040-gradient-boosting](../lessons/phase-2-classical-ml/lesson-040-gradient-boosting/README.md) |
 | 2026-10-14 (Wed) | Week 6, Day 3 | 041 - Regularisation: Ridge, Lasso and friends | [lessons/phase-2-classical-ml/lesson-041-regularisation-ridge-lasso-and-friends](../lessons/phase-2-classical-ml/lesson-041-regularisation-ridge-lasso-and-friends/README.md) |
 | 2026-10-14 (Wed) | Week 6, Day 3 | 042 - Hyperparameter search | [lessons/phase-2-classical-ml/lesson-042-hyperparameter-search](../lessons/phase-2-classical-ml/lesson-042-hyperparameter-search/README.md) |
+| 2026-10-15 (Thu) | Week 6, Day 4 | 043 - Imbalanced data and threshold tuning | [lessons/phase-2-classical-ml/lesson-043-imbalanced-data-and-threshold-tuning](../lessons/phase-2-classical-ml/lesson-043-imbalanced-data-and-threshold-tuning/README.md) |
+| 2026-10-15 (Thu) | Week 6, Day 4 | 044 - Unsupervised learning: k-means clustering | [lessons/phase-2-classical-ml/lesson-044-unsupervised-learning-k-means-clustering](../lessons/phase-2-classical-ml/lesson-044-unsupervised-learning-k-means-clustering/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-15 (Thu) | Week 6, Day 4 | 043 - Imbalanced data and threshold tuning; 044 - Unsupervised learning: k-means clustering |
+| 2026-10-16 (Fri) | Week 6, Day 5 | 045 - Dimensionality reduction: PCA; 046 - Anomaly detection |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).

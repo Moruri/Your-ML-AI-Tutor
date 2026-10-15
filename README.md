@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Wednesday 2026-10-14, Week 6 Day 3):**
+**Today's lessons (Thursday 2026-10-15, Week 6 Day 4):**
 
-- [Lesson 041 - Regularisation: Ridge, Lasso and friends](lessons/phase-2-classical-ml/lesson-041-regularisation-ridge-lasso-and-friends/README.md)
-- [Lesson 042 - Hyperparameter search](lessons/phase-2-classical-ml/lesson-042-hyperparameter-search/README.md)
+- [Lesson 043 - Imbalanced data and threshold tuning](lessons/phase-2-classical-ml/lesson-043-imbalanced-data-and-threshold-tuning/README.md)
+- [Lesson 044 - Unsupervised learning: k-means clustering](lessons/phase-2-classical-ml/lesson-044-unsupervised-learning-k-means-clustering/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 2: inside the virtual environment, see below)
-python lessons/phase-2-classical-ml/lesson-041-regularisation-ridge-lasso-and-friends/lesson.py
-python lessons/phase-2-classical-ml/lesson-042-hyperparameter-search/lesson.py
+python lessons/phase-2-classical-ml/lesson-043-imbalanced-data-and-threshold-tuning/lesson.py
+python lessons/phase-2-classical-ml/lesson-044-unsupervised-learning-k-means-clustering/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
