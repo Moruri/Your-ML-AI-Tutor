@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Friday 2026-10-16, Week 6 Day 5):**
+**Today's lessons (Monday 2026-10-19, Week 7 Day 1):**
 
-- [Lesson 045 - Dimensionality reduction: PCA](lessons/phase-2-classical-ml/lesson-045-dimensionality-reduction-pca/README.md)
-- [Lesson 046 - Anomaly detection](lessons/phase-2-classical-ml/lesson-046-anomaly-detection/README.md)
+- [Lesson 047 - Model interpretation](lessons/phase-2-classical-ml/lesson-047-model-interpretation/README.md)
+- [Lesson 048 - Mini-project: end-to-end tabular ML](lessons/phase-2-classical-ml/lesson-048-mini-project-end-to-end-tabular-ml/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 2: inside the virtual environment, see below)
-python lessons/phase-2-classical-ml/lesson-045-dimensionality-reduction-pca/lesson.py
-python lessons/phase-2-classical-ml/lesson-046-anomaly-detection/lesson.py
+python lessons/phase-2-classical-ml/lesson-047-model-interpretation/lesson.py
+python lessons/phase-2-classical-ml/lesson-048-mini-project-end-to-end-tabular-ml/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find

@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Friday 2026-10-16 (Week 6, Day 5)
+**Last updated:** Monday 2026-10-19 (Week 7, Day 1)
 
 ## Summary
 
@@ -10,11 +10,11 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 |-------|---------|-----------|--------|
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
-| 2 - Classical machine learning | 029-048 | 18 / 20 | In progress |
+| 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
 | 3 - Deep learning foundations | 049-060 | 0 / 12 | Not started |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **46 / 84** | |
+| **Total** | **001-084** | **48 / 84** | |
 
 ## Published lessons
 
@@ -66,11 +66,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-10-15 (Thu) | Week 6, Day 4 | 044 - Unsupervised learning: k-means clustering | [lessons/phase-2-classical-ml/lesson-044-unsupervised-learning-k-means-clustering](../lessons/phase-2-classical-ml/lesson-044-unsupervised-learning-k-means-clustering/README.md) |
 | 2026-10-16 (Fri) | Week 6, Day 5 | 045 - Dimensionality reduction: PCA | [lessons/phase-2-classical-ml/lesson-045-dimensionality-reduction-pca](../lessons/phase-2-classical-ml/lesson-045-dimensionality-reduction-pca/README.md) |
 | 2026-10-16 (Fri) | Week 6, Day 5 | 046 - Anomaly detection | [lessons/phase-2-classical-ml/lesson-046-anomaly-detection](../lessons/phase-2-classical-ml/lesson-046-anomaly-detection/README.md) |
+| 2026-10-19 (Mon) | Week 7, Day 1 | 047 - Model interpretation | [lessons/phase-2-classical-ml/lesson-047-model-interpretation](../lessons/phase-2-classical-ml/lesson-047-model-interpretation/README.md) |
+| 2026-10-19 (Mon) | Week 7, Day 1 | 048 - Mini-project: end-to-end tabular ML | [lessons/phase-2-classical-ml/lesson-048-mini-project-end-to-end-tabular-ml](../lessons/phase-2-classical-ml/lesson-048-mini-project-end-to-end-tabular-ml/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-19 (Mon) | Week 7, Day 1 | 047 - Model interpretation; 048 - Mini-project: end-to-end tabular ML |
+| 2026-10-20 (Tue) | Week 7, Day 2 | 049 - A neuron in pure NumPy; 050 - Backpropagation, step by step |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
