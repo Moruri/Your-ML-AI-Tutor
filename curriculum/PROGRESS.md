@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Monday 2026-10-19 (Week 7, Day 1)
+**Last updated:** Tuesday 2026-10-20 (Week 7, Day 2)
 
 ## Summary
 
@@ -11,10 +11,10 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
 | 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
-| 3 - Deep learning foundations | 049-060 | 0 / 12 | Not started |
+| 3 - Deep learning foundations | 049-060 | 2 / 12 | In progress |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **48 / 84** | |
+| **Total** | **001-084** | **50 / 84** | |
 
 ## Published lessons
 
@@ -68,11 +68,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-10-16 (Fri) | Week 6, Day 5 | 046 - Anomaly detection | [lessons/phase-2-classical-ml/lesson-046-anomaly-detection](../lessons/phase-2-classical-ml/lesson-046-anomaly-detection/README.md) |
 | 2026-10-19 (Mon) | Week 7, Day 1 | 047 - Model interpretation | [lessons/phase-2-classical-ml/lesson-047-model-interpretation](../lessons/phase-2-classical-ml/lesson-047-model-interpretation/README.md) |
 | 2026-10-19 (Mon) | Week 7, Day 1 | 048 - Mini-project: end-to-end tabular ML | [lessons/phase-2-classical-ml/lesson-048-mini-project-end-to-end-tabular-ml](../lessons/phase-2-classical-ml/lesson-048-mini-project-end-to-end-tabular-ml/README.md) |
+| 2026-10-20 (Tue) | Week 7, Day 2 | 049 - A neuron in pure NumPy | [lessons/phase-3-deep-learning/lesson-049-a-neuron-in-pure-numpy](../lessons/phase-3-deep-learning/lesson-049-a-neuron-in-pure-numpy/README.md) |
+| 2026-10-20 (Tue) | Week 7, Day 2 | 050 - Backpropagation, step by step | [lessons/phase-3-deep-learning/lesson-050-backpropagation-step-by-step](../lessons/phase-3-deep-learning/lesson-050-backpropagation-step-by-step/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-20 (Tue) | Week 7, Day 2 | 049 - A neuron in pure NumPy; 050 - Backpropagation, step by step |
+| 2026-10-21 (Wed) | Week 7, Day 3 | 051 - Hello, PyTorch: tensors and autograd; 052 - Building networks with `nn.Module` |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
