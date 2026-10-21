@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Tuesday 2026-10-20, Week 7 Day 2):**
+**Today's lessons (Wednesday 2026-10-21, Week 7 Day 3):**
 
-- [Lesson 049 - A neuron in pure NumPy](lessons/phase-3-deep-learning/lesson-049-a-neuron-in-pure-numpy/README.md)
-- [Lesson 050 - Backpropagation, step by step](lessons/phase-3-deep-learning/lesson-050-backpropagation-step-by-step/README.md)
+- [Lesson 051 - Hello, PyTorch: tensors and autograd](lessons/phase-3-deep-learning/lesson-051-hello-pytorch-tensors-and-autograd/README.md)
+- [Lesson 052 - Building networks with `nn.Module`](lessons/phase-3-deep-learning/lesson-052-building-networks-with-nn-module/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 3: inside the virtual environment, see below)
-python lessons/phase-3-deep-learning/lesson-049-a-neuron-in-pure-numpy/lesson.py
-python lessons/phase-3-deep-learning/lesson-050-backpropagation-step-by-step/lesson.py
+python lessons/phase-3-deep-learning/lesson-051-hello-pytorch-tensors-and-autograd/lesson.py
+python lessons/phase-3-deep-learning/lesson-052-building-networks-with-nn-module/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
