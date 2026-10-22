@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Wednesday 2026-10-21 (Week 7, Day 3)
+**Last updated:** Thursday 2026-10-22 (Week 7, Day 4)
 
 ## Summary
 
@@ -11,10 +11,10 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
 | 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
-| 3 - Deep learning foundations | 049-060 | 4 / 12 | In progress |
+| 3 - Deep learning foundations | 049-060 | 6 / 12 | In progress |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **52 / 84** | |
+| **Total** | **001-084** | **54 / 84** | |
 
 ## Published lessons
 
@@ -72,11 +72,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-10-20 (Tue) | Week 7, Day 2 | 050 - Backpropagation, step by step | [lessons/phase-3-deep-learning/lesson-050-backpropagation-step-by-step](../lessons/phase-3-deep-learning/lesson-050-backpropagation-step-by-step/README.md) |
 | 2026-10-21 (Wed) | Week 7, Day 3 | 051 - Hello, PyTorch: tensors and autograd | [lessons/phase-3-deep-learning/lesson-051-hello-pytorch-tensors-and-autograd](../lessons/phase-3-deep-learning/lesson-051-hello-pytorch-tensors-and-autograd/README.md) |
 | 2026-10-21 (Wed) | Week 7, Day 3 | 052 - Building networks with `nn.Module` | [lessons/phase-3-deep-learning/lesson-052-building-networks-with-nn-module](../lessons/phase-3-deep-learning/lesson-052-building-networks-with-nn-module/README.md) |
+| 2026-10-22 (Thu) | Week 7, Day 4 | 053 - Activation functions, initialisation and why training fails | [lessons/phase-3-deep-learning/lesson-053-activation-functions-initialisation-and-why-training-fails](../lessons/phase-3-deep-learning/lesson-053-activation-functions-initialisation-and-why-training-fails/README.md) |
+| 2026-10-22 (Thu) | Week 7, Day 4 | 054 - Optimisers and learning-rate schedules | [lessons/phase-3-deep-learning/lesson-054-optimisers-and-learning-rate-schedules](../lessons/phase-3-deep-learning/lesson-054-optimisers-and-learning-rate-schedules/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-22 (Thu) | Week 7, Day 4 | 053 - Activation functions, initialisation and why training fails; 054 - Optimisers and learning-rate schedules |
+| 2026-10-23 (Fri) | Week 7, Day 5 | 055 - Datasets, DataLoaders and batching; 056 - Regularising neural nets |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
