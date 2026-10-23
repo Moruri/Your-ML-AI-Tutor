@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Thursday 2026-10-22, Week 7 Day 4):**
+**Today's lessons (Friday 2026-10-23, Week 7 Day 5):**
 
-- [Lesson 053 - Activation functions, initialisation and why training fails](lessons/phase-3-deep-learning/lesson-053-activation-functions-initialisation-and-why-training-fails/README.md)
-- [Lesson 054 - Optimisers and learning-rate schedules](lessons/phase-3-deep-learning/lesson-054-optimisers-and-learning-rate-schedules/README.md)
+- [Lesson 055 - Datasets, DataLoaders and batching](lessons/phase-3-deep-learning/lesson-055-datasets-dataloaders-and-batching/README.md)
+- [Lesson 056 - Regularising neural nets](lessons/phase-3-deep-learning/lesson-056-regularising-neural-nets/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 3: inside the virtual environment, see below)
-python lessons/phase-3-deep-learning/lesson-053-activation-functions-initialisation-and-why-training-fails/lesson.py
-python lessons/phase-3-deep-learning/lesson-054-optimisers-and-learning-rate-schedules/lesson.py
+python lessons/phase-3-deep-learning/lesson-055-datasets-dataloaders-and-batching/lesson.py
+python lessons/phase-3-deep-learning/lesson-056-regularising-neural-nets/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find

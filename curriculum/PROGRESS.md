@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Thursday 2026-10-22 (Week 7, Day 4)
+**Last updated:** Friday 2026-10-23 (Week 7, Day 5)
 
 ## Summary
 
@@ -11,10 +11,10 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
 | 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
-| 3 - Deep learning foundations | 049-060 | 6 / 12 | In progress |
+| 3 - Deep learning foundations | 049-060 | 8 / 12 | In progress |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **54 / 84** | |
+| **Total** | **001-084** | **56 / 84** | |
 
 ## Published lessons
 
@@ -74,11 +74,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-10-21 (Wed) | Week 7, Day 3 | 052 - Building networks with `nn.Module` | [lessons/phase-3-deep-learning/lesson-052-building-networks-with-nn-module](../lessons/phase-3-deep-learning/lesson-052-building-networks-with-nn-module/README.md) |
 | 2026-10-22 (Thu) | Week 7, Day 4 | 053 - Activation functions, initialisation and why training fails | [lessons/phase-3-deep-learning/lesson-053-activation-functions-initialisation-and-why-training-fails](../lessons/phase-3-deep-learning/lesson-053-activation-functions-initialisation-and-why-training-fails/README.md) |
 | 2026-10-22 (Thu) | Week 7, Day 4 | 054 - Optimisers and learning-rate schedules | [lessons/phase-3-deep-learning/lesson-054-optimisers-and-learning-rate-schedules](../lessons/phase-3-deep-learning/lesson-054-optimisers-and-learning-rate-schedules/README.md) |
+| 2026-10-23 (Fri) | Week 7, Day 5 | 055 - Datasets, DataLoaders and batching | [lessons/phase-3-deep-learning/lesson-055-datasets-dataloaders-and-batching](../lessons/phase-3-deep-learning/lesson-055-datasets-dataloaders-and-batching/README.md) |
+| 2026-10-23 (Fri) | Week 7, Day 5 | 056 - Regularising neural nets | [lessons/phase-3-deep-learning/lesson-056-regularising-neural-nets](../lessons/phase-3-deep-learning/lesson-056-regularising-neural-nets/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-23 (Fri) | Week 7, Day 5 | 055 - Datasets, DataLoaders and batching; 056 - Regularising neural nets |
+| 2026-10-26 (Mon) | Week 8, Day 1 | 057 - Convolutional networks; 058 - Recurrent networks and sequences |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
