@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Friday 2026-10-23 (Week 7, Day 5)
+**Last updated:** Monday 2026-10-26 (Week 8, Day 1)
 
 ## Summary
 
@@ -11,10 +11,10 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 0 - Python foundations for data work | 001-012 | 12 / 12 | Complete |
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
 | 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
-| 3 - Deep learning foundations | 049-060 | 8 / 12 | In progress |
+| 3 - Deep learning foundations | 049-060 | 10 / 12 | In progress |
 | 4 - Modern AI | 061-074 | 0 / 14 | Not started |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **56 / 84** | |
+| **Total** | **001-084** | **58 / 84** | |
 
 ## Published lessons
 
@@ -76,11 +76,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-10-22 (Thu) | Week 7, Day 4 | 054 - Optimisers and learning-rate schedules | [lessons/phase-3-deep-learning/lesson-054-optimisers-and-learning-rate-schedules](../lessons/phase-3-deep-learning/lesson-054-optimisers-and-learning-rate-schedules/README.md) |
 | 2026-10-23 (Fri) | Week 7, Day 5 | 055 - Datasets, DataLoaders and batching | [lessons/phase-3-deep-learning/lesson-055-datasets-dataloaders-and-batching](../lessons/phase-3-deep-learning/lesson-055-datasets-dataloaders-and-batching/README.md) |
 | 2026-10-23 (Fri) | Week 7, Day 5 | 056 - Regularising neural nets | [lessons/phase-3-deep-learning/lesson-056-regularising-neural-nets](../lessons/phase-3-deep-learning/lesson-056-regularising-neural-nets/README.md) |
+| 2026-10-26 (Mon) | Week 8, Day 1 | 057 - Convolutional networks | [lessons/phase-3-deep-learning/lesson-057-convolutional-networks](../lessons/phase-3-deep-learning/lesson-057-convolutional-networks/README.md) |
+| 2026-10-26 (Mon) | Week 8, Day 1 | 058 - Recurrent networks and sequences | [lessons/phase-3-deep-learning/lesson-058-recurrent-networks-and-sequences](../lessons/phase-3-deep-learning/lesson-058-recurrent-networks-and-sequences/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-26 (Mon) | Week 8, Day 1 | 057 - Convolutional networks; 058 - Recurrent networks and sequences |
+| 2026-10-27 (Tue) | Week 8, Day 2 | 059 - Embeddings: turning categories into geometry; 060 - Mini-project: train and debug a real network |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
