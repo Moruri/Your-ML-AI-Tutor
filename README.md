@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Monday 2026-10-26, Week 8 Day 1):**
+**Today's lessons (Tuesday 2026-10-27, Week 8 Day 2):**
 
-- [Lesson 057 - Convolutional networks](lessons/phase-3-deep-learning/lesson-057-convolutional-networks/README.md)
-- [Lesson 058 - Recurrent networks and sequences](lessons/phase-3-deep-learning/lesson-058-recurrent-networks-and-sequences/README.md)
+- [Lesson 059 - Embeddings: turning categories into geometry](lessons/phase-3-deep-learning/lesson-059-embeddings-turning-categories-into-geometry/README.md)
+- [Lesson 060 - Mini-project: train and debug a real network](lessons/phase-3-deep-learning/lesson-060-mini-project-train-and-debug-a-real-network/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 3: inside the virtual environment, see below)
-python lessons/phase-3-deep-learning/lesson-057-convolutional-networks/lesson.py
-python lessons/phase-3-deep-learning/lesson-058-recurrent-networks-and-sequences/lesson.py
+python lessons/phase-3-deep-learning/lesson-059-embeddings-turning-categories-into-geometry/lesson.py
+python lessons/phase-3-deep-learning/lesson-060-mini-project-train-and-debug-a-real-network/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
