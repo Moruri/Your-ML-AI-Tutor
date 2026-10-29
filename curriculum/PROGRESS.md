@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Wednesday 2026-10-28 (Week 8, Day 3)
+**Last updated:** Thursday 2026-10-29 (Week 8, Day 4)
 
 ## Summary
 
@@ -12,9 +12,9 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
 | 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
 | 3 - Deep learning foundations | 049-060 | 12 / 12 | Complete |
-| 4 - Modern AI | 061-074 | 2 / 14 | In progress |
+| 4 - Modern AI | 061-074 | 4 / 14 | In progress |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **62 / 84** | |
+| **Total** | **001-084** | **64 / 84** | |
 
 ## Published lessons
 
@@ -82,11 +82,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-10-27 (Tue) | Week 8, Day 2 | 060 - Mini-project: train and debug a real network | [lessons/phase-3-deep-learning/lesson-060-mini-project-train-and-debug-a-real-network](../lessons/phase-3-deep-learning/lesson-060-mini-project-train-and-debug-a-real-network/README.md) |
 | 2026-10-28 (Wed) | Week 8, Day 3 | 061 - Text as data: tokenisation and bag-of-words | [lessons/phase-4-modern-ai/lesson-061-text-as-data-tokenisation-and-bag-of-words](../lessons/phase-4-modern-ai/lesson-061-text-as-data-tokenisation-and-bag-of-words/README.md) |
 | 2026-10-28 (Wed) | Week 8, Day 3 | 062 - Attention, explained slowly | [lessons/phase-4-modern-ai/lesson-062-attention-explained-slowly](../lessons/phase-4-modern-ai/lesson-062-attention-explained-slowly/README.md) |
+| 2026-10-29 (Thu) | Week 8, Day 4 | 063 - The Transformer architecture | [lessons/phase-4-modern-ai/lesson-063-the-transformer-architecture](../lessons/phase-4-modern-ai/lesson-063-the-transformer-architecture/README.md) |
+| 2026-10-29 (Thu) | Week 8, Day 4 | 064 - Pretrained models and transfer learning | [lessons/phase-4-modern-ai/lesson-064-pretrained-models-and-transfer-learning](../lessons/phase-4-modern-ai/lesson-064-pretrained-models-and-transfer-learning/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-10-29 (Thu) | Week 8, Day 4 | 063 - The Transformer architecture; 064 - Pretrained models and transfer learning |
+| 2026-10-30 (Fri) | Week 8, Day 5 | 065 - How large language models are trained; 066 - Prompting as programming |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).

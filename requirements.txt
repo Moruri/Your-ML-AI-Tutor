@@ -27,7 +27,8 @@ torch>=2.2,<3
 
 # Phase 4 - modern AI (NLP, vision, generative / LLM basics)
 # These are heavier; the Phase 4 lessons will tell you when to install them.
-# transformers>=4.40,<5
+# transformers is needed from lesson 064 on.
+transformers>=4.40,<5
 # datasets>=2.19,<4
 # pillow>=10.3,<12
 
