@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Friday 2026-10-30, Week 8 Day 5):**
+**Today's lessons (Monday 2026-11-02, Week 9 Day 1):**
 
-- [Lesson 065 - How large language models are trained](lessons/phase-4-modern-ai/lesson-065-how-large-language-models-are-trained/README.md)
-- [Lesson 066 - Prompting as programming](lessons/phase-4-modern-ai/lesson-066-prompting-as-programming/README.md)
+- [Lesson 067 - Embeddings and semantic search](lessons/phase-4-modern-ai/lesson-067-embeddings-and-semantic-search/README.md)
+- [Lesson 068 - Retrieval-augmented generation (RAG)](lessons/phase-4-modern-ai/lesson-068-retrieval-augmented-generation-rag/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 4: inside the virtual environment, see below)
-python lessons/phase-4-modern-ai/lesson-065-how-large-language-models-are-trained/lesson.py
-python lessons/phase-4-modern-ai/lesson-066-prompting-as-programming/lesson.py
+python lessons/phase-4-modern-ai/lesson-067-embeddings-and-semantic-search/lesson.py
+python lessons/phase-4-modern-ai/lesson-068-retrieval-augmented-generation-rag/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
