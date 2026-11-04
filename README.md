@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Tuesday 2026-11-03, Week 9 Day 2):**
+**Today's lessons (Wednesday 2026-11-04, Week 9 Day 3):**
 
-- [Lesson 069 - Tool use and agents](lessons/phase-4-modern-ai/lesson-069-tool-use-and-agents/README.md)
-- [Lesson 070 - Computer vision with pretrained models](lessons/phase-4-modern-ai/lesson-070-computer-vision-with-pretrained-models/README.md)
+- [Lesson 071 - Generative models: autoencoders and VAEs](lessons/phase-4-modern-ai/lesson-071-generative-models-autoencoders-and-vaes/README.md)
+- [Lesson 072 - Diffusion models, intuitively](lessons/phase-4-modern-ai/lesson-072-diffusion-models-intuitively/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 4: inside the virtual environment, see below)
-python lessons/phase-4-modern-ai/lesson-069-tool-use-and-agents/lesson.py
-python lessons/phase-4-modern-ai/lesson-070-computer-vision-with-pretrained-models/lesson.py
+python lessons/phase-4-modern-ai/lesson-071-generative-models-autoencoders-and-vaes/lesson.py
+python lessons/phase-4-modern-ai/lesson-072-diffusion-models-intuitively/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
