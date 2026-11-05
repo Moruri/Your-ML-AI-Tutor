@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Wednesday 2026-11-04 (Week 9, Day 3)
+**Last updated:** Thursday 2026-11-05 (Week 9, Day 4)
 
 ## Summary
 
@@ -12,9 +12,9 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 1 - Data science basics | 013-028 | 16 / 16 | Complete |
 | 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
 | 3 - Deep learning foundations | 049-060 | 12 / 12 | Complete |
-| 4 - Modern AI | 061-074 | 12 / 14 | In progress |
+| 4 - Modern AI | 061-074 | 14 / 14 | Complete |
 | 5 - Projects and production intuition | 075-084 | 0 / 10 | Not started |
-| **Total** | **001-084** | **72 / 84** | |
+| **Total** | **001-084** | **74 / 84** | |
 
 ## Published lessons
 
@@ -92,11 +92,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-11-03 (Tue) | Week 9, Day 2 | 070 - Computer vision with pretrained models | [lessons/phase-4-modern-ai/lesson-070-computer-vision-with-pretrained-models](../lessons/phase-4-modern-ai/lesson-070-computer-vision-with-pretrained-models/README.md) |
 | 2026-11-04 (Wed) | Week 9, Day 3 | 071 - Generative models: autoencoders and VAEs | [lessons/phase-4-modern-ai/lesson-071-generative-models-autoencoders-and-vaes](../lessons/phase-4-modern-ai/lesson-071-generative-models-autoencoders-and-vaes/README.md) |
 | 2026-11-04 (Wed) | Week 9, Day 3 | 072 - Diffusion models, intuitively | [lessons/phase-4-modern-ai/lesson-072-diffusion-models-intuitively](../lessons/phase-4-modern-ai/lesson-072-diffusion-models-intuitively/README.md) |
+| 2026-11-05 (Thu) | Week 9, Day 4 | 073 - Evaluating AI systems | [lessons/phase-4-modern-ai/lesson-073-evaluating-ai-systems](../lessons/phase-4-modern-ai/lesson-073-evaluating-ai-systems/README.md) |
+| 2026-11-05 (Thu) | Week 9, Day 4 | 074 - Safety, bias and responsible use | [lessons/phase-4-modern-ai/lesson-074-safety-bias-and-responsible-use](../lessons/phase-4-modern-ai/lesson-074-safety-bias-and-responsible-use/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-11-05 (Thu) | Week 9, Day 4 | 073 - Evaluating AI systems; 074 - Safety, bias and responsible use |
+| 2026-11-06 (Fri) | Week 9, Day 5 | 075 - Framing a problem worth solving; 076 - Project structure, tests and reproducibility |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).

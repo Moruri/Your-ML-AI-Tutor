@@ -1,0 +1,801 @@
+feedback_id,text,topic
+F0001,Station Road had a broken dock on Monday. Otherwise fine.,station
+F0002,"Quick note: the dock at Uni Square is badly lit when I needed it, and the login screen won't load. :(",station
+F0003,"honestly, i was charged twice via m-pesa. so annoying.",payment
+F0004,FYI the pedal came off this morning. Love the service though.,bike
+F0005,Quick note: the app update drains my battery every time I open it.,app
+F0006,Not happy. the dock at Uni Square had a broken dock again today. Love the service though.,station
+F0007,Quick note: I was charged twice on my statement.,payment
+F0008,"Hi, the login screen is so slow when I try to end the ride. Otherwise fine.",app
+F0009,"Hi, the app is so slow on my phone. :(",app
+F0010,The bell came off again. Love the service though.,bike
+F0011,fyi the back tyre keeps slipping near the market.,bike
+F0012,"Honestly, Hilltop station was blocked by cars at rush hour.",station
+F0013,The map in the app crashes every time I open it.,app
+F0014,hilltop station had nowhere to park at 8am. so annoying.,station
+F0015,Quick note: the app drains my battery all week. Otherwise fine.,app
+F0016,"Honestly, I got billed a fee nobody explained and nobody replied. Love the service though.",payment
+F0017,The Riverside station was blocked by cars at rush hour. :(,station
+F0018,"Ugh, the basket doesn't work this morning, and the app crashes. Thanks.",bike
+F0019,"Ugh, the Riverside station was blocked by cars at 8am!!",station
+F0020,"Ugh, the chain felt wobbly after two minutes. :(",bike
+F0021,The basket was flat in the rain. :(,bike
+F0022,"Honestly, the basket came off this morning.",bike
+F0023,the back tyre was flat near the market. otherwise fine.,bike
+F0024,"not happy. the back tyre squeaks after two minutes, and the riverside station was blocked by cars. thanks.",bike
+F0025,"Hi, the notifications keeps freezing at the worst moment. Love the service though.",app
+F0026,"Not happy. the dock near the market had a broken dock every morning, and the unlock button won't load. :(",station
+F0027,"Honestly, they took money twice via M-Pesa. Please fix!",payment
+F0028,"Honestly, the app won't load on my phone. So annoying.",app
+F0029,"Honestly, Station Road was empty after work, and the app logs me out. Thanks.",station
+F0030,My account was charged after the ride failed last week!!,payment
+F0031,"Hi, the dock at Uni Square was empty every morning. Please fix!",station
+F0032,"Ugh, the app update drains my battery on Android, and the front brake is loose. Love the service though.",app
+F0033,I got billed with no receipt please refund me. Otherwise fine.,payment
+F0034,"Honestly, I was charged for a pass that didn't renew and nobody replied. Otherwise fine.",payment
+F0035,Quick note: I paid for a ride I didn't take this month. Love the service though.,payment
+F0036,"Hi, the QR scanner shows the wrong station on my phone. Love the service though.",app
+F0037,fyi the map in the app won't load on my phone. thanks.,app
+F0038,Not happy. I paid for 3 hours instead of 20 minutes and nobody replied. Otherwise fine.,payment
+F0039,The dock near the market is badly lit after work.,station
+F0040,The login screen crashes when I try to end the ride. Otherwise fine.,app
+F0041,I got billed a fee nobody explained please refund me. So annoying.,payment
+F0042,Quick note: the saddle makes a grinding noise after two minutes.,bike
+F0043,My account was charged twice and nobody replied.,payment
+F0044,they took money for a ride i didn't take can someone check.,payment
+F0045,"Quick note: the back tyre makes a grinding noise on my ride home, and Station Road had a broken dock. Love the service though.",bike
+F0046,Station Road had nowhere to park on Monday.,station
+F0047,"Not happy. I got billed for a ride I didn't take and nobody replied, and the chain is loose. Please fix!",payment
+F0048,FYI the light came off on bike 214. Love the service though.,bike
+F0049,"Ugh, the ride history logs me out at the worst moment.",app
+F0050,Not happy. the login screen crashes on my phone. So annoying.,app
+F0051,Quick note: the pedal felt wobbly again. So annoying.,bike
+F0052,fyi the login screen shows the wrong station all week. otherwise fine.,app
+F0053,"hi, i was charged with no receipt on my statement. love the service though.",payment
+F0054,"Hi, my card was billed after the ride failed can someone check. Otherwise fine.",payment
+F0055,The Riverside station needs more slots every morning!!,station
+F0056,Not happy. the dock at Park Gate has no bikes every morning. Love the service though.,station
+F0057,The chain squeaks on my ride home.,bike
+F0058,"Ugh, the saddle was flat near the market. Please fix!",bike
+F0059,Station Road needs more slots on Monday!!,station
+F0060,"Not happy. the saddle makes a grinding noise halfway up the hill, and the QR scanner crashes.",bike
+F0061,Hilltop station has no bikes every morning.,station
+F0062,The front tyre is loose again. Otherwise fine.,bike
+F0063,Quick note: the back tyre makes a grinding noise after two minutes.,bike
+F0064,My card was billed a fee nobody explained via M-Pesa. Thanks.,payment
+F0065,"Ugh, I got billed for a ride I didn't take via M-Pesa, and the light felt wobbly. Otherwise fine.",payment
+F0066,My account was charged for 3 hours instead of 20 minutes last week. Love the service though.,payment
+F0067,"Honestly, the dock near the market is badly lit after work. :(",station
+F0068,I was charged after the ride failed can someone check. Thanks.,payment
+F0069,Not happy. the pedal is broken after two minutes. Otherwise fine.,bike
+F0070,The notifications won't scan the code every time I open it. Please fix!,app
+F0071,"Ugh, my account was charged after the ride failed on my statement. Love the service though.",payment
+F0072,"Ugh, they took money for a pass that didn't renew last week, and the chain came off. Love the service though.",payment
+F0073,"Hi, I paid the wrong price please refund me, and the ride history won't scan the code!!",payment
+F0074,"Honestly, the login screen won't load on my phone.",app
+F0075,"Ugh, the app update shows the wrong station at the worst moment.",app
+F0076,Not happy. the bell doesn't work after two minutes. Please fix!,bike
+F0077,"The ride history won't scan the code all week, and Hilltop station was blocked by cars. Please fix!",app
+F0078,"Honestly, I got billed after the ride failed on my statement. Thanks.",payment
+F0079,Not happy. I paid twice can someone check.,payment
+F0080,"The chain is broken again, and the Riverside station is badly lit.",bike
+F0081,FYI the dock at Uni Square is always full again today.,station
+F0082,I paid the wrong price and nobody replied. Thanks.,payment
+F0083,The dock at Park Gate had nowhere to park when I needed it. Thanks.,station
+F0084,"hi, the saddle squeaks halfway up the hill. so annoying.",bike
+F0085,"Hi, my card was billed with no receipt can someone check. So annoying.",payment
+F0086,fyi my account was charged for a pass that didn't renew and nobody replied. :(,payment
+F0087,"They took money for a pass that didn't renew please refund me, and the app update shows the wrong station.",payment
+F0088,The dock at Uni Square has no bikes after work.,station
+F0089,"i was charged twice last week, and the map in the app keeps freezing. please fix!",payment
+F0090,Quick note: the dock at Park Gate is always full when I needed it.,station
+F0091,The dock at Park Gate needs more slots at 8am. :(,station
+F0092,Quick note: the Riverside station needs more slots again today. Thanks.,station
+F0093,My card was billed the wrong price on my statement.,payment
+F0094,"Hi, the pedal is broken after two minutes. Thanks.",bike
+F0095,"The dock near the market is always full on Monday, and I paid with no receipt.",station
+F0096,The ride history is so slow every time I open it. So annoying.,app
+F0097,"I paid after the ride failed and nobody replied, and the pedal was flat.",payment
+F0098,"The login screen crashes at the worst moment, and Station Road has no bikes. So annoying.",app
+F0099,the dock at uni square needs more slots when i needed it!!,station
+F0100,quick note: the back tyre keeps slipping again!!,bike
+F0101,Quick note: they took money for 3 hours instead of 20 minutes on my statement. Otherwise fine.,payment
+F0102,"Honestly, I paid with no receipt please refund me.",payment
+F0103,FYI the map in the app is so slow on Android. Love the service though.,app
+F0104,"Hi, the Riverside station is always full when I needed it. Love the service though.",station
+F0105,fyi the pedal squeaks this morning. please fix!,bike
+F0106,The basket was stuck on bike 214. Love the service though.,bike
+F0107,"FYI Hilltop station was empty after work, and the basket came off. Otherwise fine.",station
+F0108,The map in the app keeps freezing when I try to end the ride.,app
+F0109,The dock at Uni Square is always full after work. Otherwise fine.,station
+F0110,"They took money with no receipt last week, and the dock near the market had a broken dock. Otherwise fine.",payment
+F0111,The notifications logs me out since the update.,app
+F0112,fyi the chain squeaks this morning. thanks.,bike
+F0113,Not happy. the chain doesn't work halfway up the hill. Please fix!,bike
+F0114,"FYI they took money after the ride failed last week, and the front tyre squeaks!!",payment
+F0115,"Hi, the dock at Uni Square is always full after work. So annoying.",station
+F0116,"FYI the front tyre doesn't work in the rain, and I got billed for a ride I didn't take!!",bike
+F0117,Not happy. the front brake is loose halfway up the hill!!,bike
+F0118,The front brake is loose halfway up the hill. Please fix!,bike
+F0119,"Honestly, the map in the app won't scan the code at the worst moment. Otherwise fine.",app
+F0120,Not happy. the gear lever was stuck on bike 214.,bike
+F0121,"hi, the map in the app logs me out since the update. thanks.",app
+F0122,"Hi, they took money for a ride I didn't take and nobody replied. :(",payment
+F0123,fyi the notifications crashes on android.,app
+F0124,They took money the wrong price via M-Pesa.,payment
+F0125,FYI the ride history is so slow on Android.,app
+F0126,"The login screen keeps freezing all week, and I was charged the wrong price. Thanks.",app
+F0127,"Honestly, the front tyre was flat on bike 214. Please fix!",bike
+F0128,FYI they took money for 3 hours instead of 20 minutes and nobody replied.,payment
+F0129,the front brake makes a grinding noise again. please fix!,bike
+F0130,quick note: station road had nowhere to park when i needed it.,station
+F0131,"Hi, I was charged twice please refund me. :(",payment
+F0132,"Not happy. the map in the app keeps freezing since the update, and Hilltop station had a broken dock. Please fix!",app
+F0133,the notifications logs me out since the update. please fix!,app
+F0134,The pedal was stuck on my ride home. Please fix!,bike
+F0135,FYI I got billed the wrong price via M-Pesa. So annoying.,payment
+F0136,quick note: the riverside station was blocked by cars on monday.,station
+F0137,"not happy. my card was billed with no receipt last week, and station road has no bikes. please fix!",payment
+F0138,FYI the Riverside station was blocked by cars every morning. Please fix!,station
+F0139,"Hi, the map in the app crashes on Android. Thanks.",app
+F0140,"Ugh, Station Road had a broken dock at rush hour.",station
+F0141,not happy. the back tyre came off halfway up the hill!!,bike
+F0142,The dock near the market was blocked by cars at 8am.,station
+F0143,The Riverside station had nowhere to park again today. Otherwise fine.,station
+F0144,the riverside station was blocked by cars when i needed it. otherwise fine.,station
+F0145,"Quick note: the back tyre was stuck on bike 214, and I paid twice!!",bike
+F0146,"Hi, the map in the app logs me out on Android. Otherwise fine.",app
+F0147,The dock at Park Gate had nowhere to park when I needed it.,station
+F0148,"Honestly, I was charged a fee nobody explained on my statement. Otherwise fine.",payment
+F0149,"Hi, the chain squeaks on bike 214. :(",bike
+F0150,"Honestly, the front tyre doesn't work in the rain. Otherwise fine.",bike
+F0151,"Honestly, I paid after the ride failed this month!!",payment
+F0152,The front tyre came off this morning. :(,bike
+F0153,FYI the app update logs me out on Android.,app
+F0154,"quick note: the light is loose on bike 214, and i got billed with no receipt. thanks.",bike
+F0155,"ugh, they took money for 3 hours instead of 20 minutes can someone check. :(",payment
+F0156,station road has no bikes at 8am. otherwise fine.,station
+F0157,The QR scanner shows the wrong station when I try to end the ride.,app
+F0158,"The chain is loose again, and I was charged twice!!",bike
+F0159,"They took money for a ride I didn't take and nobody replied, and the saddle squeaks. :(",payment
+F0160,Quick note: the dock at Park Gate had a broken dock again today!!,station
+F0161,"Hi, the dock at Park Gate has no bikes every morning, and they took money with no receipt. :(",station
+F0162,"Hi, the dock near the market is always full at rush hour.",station
+F0163,"Honestly, the ride history drains my battery on Android!!",app
+F0164,"hi, the riverside station is always full when i needed it!!",station
+F0165,"Not happy. the gear lever is broken on my ride home, and the dock near the market had a broken dock. Love the service though.",bike
+F0166,fyi the riverside station is always full at rush hour. love the service though.,station
+F0167,"Hi, the dock at Park Gate is always full on Monday. :(",station
+F0168,"Ugh, Hilltop station had nowhere to park after work. Please fix!",station
+F0169,fyi the map in the app shows the wrong station all week. otherwise fine.,app
+F0170,Station Road is always full at rush hour. :(,station
+F0171,the app update is so slow at the worst moment. otherwise fine.,app
+F0172,"Hi, they took money for a pass that didn't renew on my statement. Otherwise fine.",payment
+F0173,I got billed for a ride I didn't take and nobody replied. Please fix!,payment
+F0174,The notifications drains my battery when I try to end the ride.,app
+F0175,"Honestly, Station Road is badly lit on Monday, and the ride history crashes.",station
+F0176,"Hi, the unlock button is so slow since the update. Otherwise fine.",app
+F0177,"Honestly, they took money for 3 hours instead of 20 minutes please refund me!!",payment
+F0178,My card was billed for a pass that didn't renew on my statement.,payment
+F0179,"hi, my card was billed twice via m-pesa. so annoying.",payment
+F0180,fyi the dock at uni square had nowhere to park when i needed it. thanks.,station
+F0181,Station Road needs more slots at 8am!!,station
+F0182,"Ugh, the map in the app shows the wrong station when I try to end the ride. Please fix!",app
+F0183,quick note: the front brake squeaks on bike 214. love the service though.,bike
+F0184,Quick note: I got billed with no receipt and nobody replied. So annoying.,payment
+F0185,The bell felt wobbly in the rain. Love the service though.,bike
+F0186,the dock at uni square is always full at rush hour. thanks.,station
+F0187,"The notifications won't load on my phone, and the dock at Uni Square has no bikes.",app
+F0188,quick note: my account was charged for 3 hours instead of 20 minutes last week.,payment
+F0189,the notifications logs me out every time i open it. so annoying.,app
+F0190,"Honestly, the ride history is so slow on Android. :(",app
+F0191,The app drains my battery all week.,app
+F0192,"Hi, the front brake squeaks in the rain. Love the service though.",bike
+F0193,FYI the app keeps freezing all week. Please fix!,app
+F0194,Station Road needs more slots again today. Thanks.,station
+F0195,"Hi, the map in the app drains my battery when I try to end the ride.",app
+F0196,"hi, the chain came off this morning.",bike
+F0197,Quick note: the front brake was flat halfway up the hill. Please fix!,bike
+F0198,Quick note: the front tyre squeaks after two minutes. Please fix!,bike
+F0199,the front brake makes a grinding noise on bike 214.,bike
+F0200,"station road had nowhere to park when i needed it, and my account was charged after the ride failed. please fix!",station
+F0201,"Quick note: the app keeps freezing on my phone, and my card was billed a fee nobody explained. :(",app
+F0202,They took money twice via M-Pesa.,payment
+F0203,Not happy. the Riverside station had a broken dock at 8am. Love the service though.,station
+F0204,Not happy. the dock at Uni Square is always full after work. Please fix!,station
+F0205,"Hi, the notifications logs me out every time I open it.",app
+F0206,"Honestly, I paid the wrong price last week. :(",payment
+F0207,FYI the unlock button keeps freezing since the update.,app
+F0208,"Ugh, the QR scanner shows the wrong station every time I open it!!",app
+F0209,"station road had a broken dock again today, and my account was charged for a ride i didn't take. so annoying.",station
+F0210,Quick note: my account was charged with no receipt please refund me. Love the service though.,payment
+F0211,The Riverside station needs more slots after work. Otherwise fine.,station
+F0212,The saddle squeaks halfway up the hill. Otherwise fine.,bike
+F0213,"Ugh, I paid a fee nobody explained last week. :(",payment
+F0214,FYI the pedal is broken again. Otherwise fine.,bike
+F0215,not happy. the riverside station had a broken dock every morning.,station
+F0216,Not happy. the dock at Park Gate had a broken dock again today.,station
+F0217,fyi the dock at uni square needs more slots when i needed it!!,station
+F0218,I got billed after the ride failed this month. So annoying.,payment
+F0219,they took money after the ride failed and nobody replied. otherwise fine.,payment
+F0220,"Hi, the gear lever squeaks halfway up the hill.",bike
+F0221,"honestly, my card was billed for a pass that didn't renew via m-pesa. please fix!",payment
+F0222,The basket came off halfway up the hill.,bike
+F0223,Quick note: the unlock button logs me out every time I open it. :(,app
+F0224,the unlock button logs me out on my phone!!,app
+F0225,"Ugh, the bell squeaks on bike 214. Love the service though.",bike
+F0226,Quick note: the app keeps freezing at the worst moment!!,app
+F0227,"Hi, the unlock button drains my battery on Android. Please fix!",app
+F0228,I got billed for a pass that didn't renew on my statement. :(,payment
+F0229,"The bell is loose this morning, and Hilltop station had nowhere to park.",bike
+F0230,FYI the Riverside station has no bikes on Monday.,station
+F0231,Quick note: the bell came off this morning. Otherwise fine.,bike
+F0232,Not happy. the pedal keeps slipping near the market.,bike
+F0233,FYI I was charged with no receipt this month.,payment
+F0234,"Hi, the notifications is so slow when I try to end the ride. :(",app
+F0235,Not happy. my card was billed the wrong price this month. So annoying.,payment
+F0236,"Honestly, the dock at Park Gate had a broken dock on Monday. Otherwise fine.",station
+F0237,The dock at Park Gate had a broken dock on Monday. Thanks.,station
+F0238,The app update won't load at the worst moment. So annoying.,app
+F0239,they took money twice on my statement. please fix!,payment
+F0240,The notifications crashes since the update. :(,app
+F0241,fyi i got billed for a ride i didn't take via m-pesa. otherwise fine.,payment
+F0242,The unlock button crashes every time I open it. Please fix!,app
+F0243,"Hi, they took money after the ride failed on my statement. :(",payment
+F0244,"Ugh, the gear lever squeaks after two minutes.",bike
+F0245,i paid a fee nobody explained please refund me. thanks.,payment
+F0246,Quick note: the QR scanner won't scan the code when I try to end the ride. So annoying.,app
+F0247,"Honestly, the light was stuck in the rain. Love the service though.",bike
+F0248,The ride history is so slow every time I open it. So annoying.,app
+F0249,FYI my card was billed for a ride I didn't take please refund me.,payment
+F0250,"Hi, the dock at Uni Square had a broken dock when I needed it.",station
+F0251,"They took money for 3 hours instead of 20 minutes this month, and the login screen is so slow. Love the service though.",payment
+F0252,"Hi, the app shows the wrong station all week, and Hilltop station was empty. So annoying.",app
+F0253,"Hi, the basket keeps slipping near the market. So annoying.",bike
+F0254,FYI the map in the app keeps freezing every time I open it.,app
+F0255,"Ugh, the Riverside station has no bikes at 8am. Thanks.",station
+F0256,The back tyre is broken again. :(,bike
+F0257,I paid twice can someone check. Thanks.,payment
+F0258,"FYI the front tyre was stuck again, and the dock at Park Gate was empty. So annoying.",bike
+F0259,The dock near the market had a broken dock every morning. Love the service though.,station
+F0260,The Riverside station was empty at 8am. Thanks.,station
+F0261,Not happy. I got billed a fee nobody explained please refund me.,payment
+F0262,"Ugh, the light makes a grinding noise near the market. Thanks.",bike
+F0263,"Ugh, I was charged twice can someone check, and the bell keeps slipping. Love the service though.",payment
+F0264,The dock near the market was blocked by cars at rush hour. Thanks.,station
+F0265,"hi, the unlock button keeps freezing on my phone. love the service though.",app
+F0266,"ugh, my card was billed a fee nobody explained on my statement.",payment
+F0267,"Ugh, Hilltop station was blocked by cars on Monday.",station
+F0268,They took money for a pass that didn't renew via M-Pesa!!,payment
+F0269,"Honestly, I paid twice can someone check, and the notifications shows the wrong station. Otherwise fine.",payment
+F0270,"Honestly, the front brake was flat this morning!!",bike
+F0271,Quick note: the light was stuck this morning. So annoying.,bike
+F0272,Quick note: my card was billed for 3 hours instead of 20 minutes on my statement. Please fix!,payment
+F0273,The ride history keeps freezing on my phone. :(,app
+F0274,"ugh, the app shows the wrong station at the worst moment!!",app
+F0275,The login screen is so slow since the update.,app
+F0276,FYI the notifications keeps freezing on Android. Otherwise fine.,app
+F0277,The ride history shows the wrong station every time I open it.,app
+F0278,The map in the app drains my battery when I try to end the ride. Thanks.,app
+F0279,"honestly, they took money a fee nobody explained last week. please fix!",payment
+F0280,"Not happy. the bell is broken on bike 214, and the dock at Uni Square was blocked by cars. Love the service though.",bike
+F0281,Quick note: the chain doesn't work in the rain. Please fix!,bike
+F0282,Hilltop station had nowhere to park every morning.,station
+F0283,The dock near the market needs more slots at rush hour.,station
+F0284,The app is so slow on my phone. So annoying.,app
+F0285,"Not happy. my account was charged for a ride I didn't take via M-Pesa, and the basket was flat. Love the service though.",payment
+F0286,Station Road had nowhere to park again today. Love the service though.,station
+F0287,"Hi, the saddle doesn't work on bike 214.",bike
+F0288,FYI I was charged the wrong price and nobody replied!!,payment
+F0289,my card was billed twice on my statement.,payment
+F0290,The dock at Park Gate has no bikes at 8am. So annoying.,station
+F0291,"The saddle felt wobbly in the rain, and Station Road needs more slots. Love the service though.",bike
+F0292,Not happy. the login screen drains my battery on my phone. Love the service though.,app
+F0293,The map in the app won't scan the code all week. Thanks.,app
+F0294,The map in the app crashes on my phone!!,app
+F0295,Quick note: the dock at Uni Square is badly lit on Monday.,station
+F0296,"Ugh, the ride history crashes on Android.",app
+F0297,Hilltop station has no bikes when I needed it.,station
+F0298,The saddle felt wobbly halfway up the hill. Please fix!,bike
+F0299,Quick note: my card was billed a fee nobody explained and nobody replied. Love the service though.,payment
+F0300,"Quick note: I paid after the ride failed via M-Pesa, and the Riverside station needs more slots. Thanks.",payment
+F0301,"Hi, the back tyre is loose after two minutes. So annoying.",bike
+F0302,fyi the bell squeaks on bike 214.,bike
+F0303,FYI the dock at Uni Square is always full at 8am. So annoying.,station
+F0304,Not happy. the map in the app keeps freezing on Android. :(,app
+F0305,"hi, the light is loose on bike 214.",bike
+F0306,"The unlock button is so slow when I try to end the ride, and my card was billed after the ride failed.",app
+F0307,Quick note: the saddle was stuck on bike 214.,bike
+F0308,My card was billed a fee nobody explained on my statement. :(,payment
+F0309,The front brake was flat in the rain!!,bike
+F0310,"Honestly, the app update crashes since the update, and I paid after the ride failed. So annoying.",app
+F0311,the dock at uni square is badly lit after work. love the service though.,station
+F0312,FYI the app update shows the wrong station when I try to end the ride.,app
+F0313,not happy. the pedal squeaks near the market. thanks.,bike
+F0314,FYI the map in the app keeps freezing on Android. Otherwise fine.,app
+F0315,Not happy. the front brake squeaks near the market. Thanks.,bike
+F0316,The front tyre makes a grinding noise halfway up the hill. Love the service though.,bike
+F0317,Not happy. the Riverside station is always full every morning. Thanks.,station
+F0318,I paid with no receipt via M-Pesa.,payment
+F0319,The light was flat on bike 214. Otherwise fine.,bike
+F0320,"Ugh, the chain felt wobbly after two minutes. :(",bike
+F0321,Not happy. the ride history is so slow every time I open it.,app
+F0322,My account was charged the wrong price on my statement. Otherwise fine.,payment
+F0323,Not happy. the dock at Uni Square had a broken dock when I needed it.,station
+F0324,The app update won't scan the code every time I open it. So annoying.,app
+F0325,"not happy. the app logs me out when i try to end the ride, and i got billed twice. please fix!",app
+F0326,The notifications won't scan the code at the worst moment.,app
+F0327,hilltop station needs more slots at 8am. :(,station
+F0328,fyi the basket makes a grinding noise this morning. otherwise fine.,bike
+F0329,"Hi, Hilltop station had a broken dock at rush hour. Please fix!",station
+F0330,"ugh, my account was charged a fee nobody explained on my statement. otherwise fine.",payment
+F0331,"Honestly, I was charged for a pass that didn't renew can someone check!!",payment
+F0332,The light felt wobbly halfway up the hill.,bike
+F0333,"Ugh, my card was billed the wrong price can someone check.",payment
+F0334,"not happy. the basket was stuck on bike 214, and i paid with no receipt. otherwise fine.",bike
+F0335,FYI Station Road had nowhere to park every morning. Thanks.,station
+F0336,FYI I was charged for a ride I didn't take and nobody replied.,payment
+F0337,Not happy. I got billed a fee nobody explained and nobody replied. :(,payment
+F0338,my account was charged for a ride i didn't take can someone check. thanks.,payment
+F0339,Quick note: the app update logs me out every time I open it. Otherwise fine.,app
+F0340,"Ugh, the map in the app is so slow on my phone.",app
+F0341,not happy. station road had nowhere to park every morning.,station
+F0342,Not happy. the QR scanner logs me out every time I open it. So annoying.,app
+F0343,FYI the dock at Park Gate was empty on Monday.,station
+F0344,"Honestly, my card was billed with no receipt on my statement. Love the service though.",payment
+F0345,Not happy. the front brake keeps slipping after two minutes. :(,bike
+F0346,not happy. the back tyre doesn't work halfway up the hill.,bike
+F0347,"Hi, the light was stuck near the market. So annoying.",bike
+F0348,"Quick note: the front brake doesn't work halfway up the hill, and the Riverside station needs more slots. Thanks.",bike
+F0349,"Station Road needs more slots on Monday, and the saddle squeaks. Otherwise fine.",station
+F0350,"the front brake was stuck on my ride home, and the dock near the market was empty.",bike
+F0351,The front brake came off again!!,bike
+F0352,Quick note: the app update shows the wrong station all week. Thanks.,app
+F0353,"the dock at park gate needs more slots on monday, and my card was billed for 3 hours instead of 20 minutes.",station
+F0354,"not happy. i paid after the ride failed via m-pesa, and the basket doesn't work.",payment
+F0355,"hi, the light felt wobbly this morning.",bike
+F0356,The front tyre squeaks near the market!!,bike
+F0357,"Honestly, the login screen won't load when I try to end the ride. Please fix!",app
+F0358,Not happy. the app update drains my battery when I try to end the ride. Love the service though.,app
+F0359,fyi the login screen is so slow when i try to end the ride.,app
+F0360,"FYI the dock near the market was empty at 8am, and I was charged the wrong price. :(",station
+F0361,Not happy. my card was billed for a pass that didn't renew can someone check. Otherwise fine.,payment
+F0362,"Honestly, the front tyre is broken after two minutes, and the dock at Uni Square had a broken dock. Thanks.",bike
+F0363,Not happy. Station Road had nowhere to park after work. Thanks.,station
+F0364,FYI the Riverside station was blocked by cars at 8am.,station
+F0365,The bell was stuck halfway up the hill.,bike
+F0366,The saddle was stuck after two minutes.,bike
+F0367,Station Road is always full at 8am. So annoying.,station
+F0368,"FYI Station Road has no bikes again today, and the basket makes a grinding noise.",station
+F0369,"Hi, the light was stuck near the market.",bike
+F0370,The app update won't scan the code since the update. Thanks.,app
+F0371,Not happy. the dock near the market was empty on Monday. Thanks.,station
+F0372,The QR scanner keeps freezing when I try to end the ride. Please fix!,app
+F0373,Quick note: the front tyre was stuck near the market. :(,bike
+F0374,"Hi, I paid for a ride I didn't take this month. :(",payment
+F0375,quick note: the pedal was stuck halfway up the hill.,bike
+F0376,"Honestly, my account was charged for 3 hours instead of 20 minutes and nobody replied. So annoying.",payment
+F0377,"Ugh, the basket was stuck near the market.",bike
+F0378,Quick note: the dock near the market has no bikes at 8am. So annoying.,station
+F0379,Not happy. I paid a fee nobody explained via M-Pesa. Thanks.,payment
+F0380,Not happy. I got billed for a pass that didn't renew please refund me!!,payment
+F0381,"Hi, the dock at Uni Square was empty after work. Otherwise fine.",station
+F0382,The map in the app won't load on my phone. Otherwise fine.,app
+F0383,not happy. the unlock button drains my battery at the worst moment. :(,app
+F0384,Not happy. the map in the app won't scan the code on Android!!,app
+F0385,FYI Station Road was blocked by cars again today.,station
+F0386,Quick note: my card was billed after the ride failed this month. Love the service though.,payment
+F0387,quick note: the dock at uni square had a broken dock after work. :(,station
+F0388,Quick note: I was charged a fee nobody explained and nobody replied. Love the service though.,payment
+F0389,I got billed after the ride failed please refund me.,payment
+F0390,My account was charged twice this month. :(,payment
+F0391,Not happy. the dock at Uni Square had a broken dock after work.,station
+F0392,I paid twice via M-Pesa.,payment
+F0393,Not happy. the dock at Park Gate needs more slots after work.,station
+F0394,"Ugh, the back tyre came off after two minutes.",bike
+F0395,The login screen crashes since the update.,app
+F0396,"Ugh, my card was billed for 3 hours instead of 20 minutes last week. :(",payment
+F0397,"Station Road was blocked by cars at rush hour, and the pedal was stuck. Thanks.",station
+F0398,the front brake keeps slipping on my ride home. :(,bike
+F0399,My account was charged after the ride failed on my statement. Thanks.,payment
+F0400,The Riverside station has no bikes on Monday. Otherwise fine.,station
+F0401,"Ugh, the app update is so slow on my phone. Thanks.",app
+F0402,FYI the dock near the market is always full at rush hour.,station
+F0403,The saddle keeps slipping near the market.,bike
+F0404,"hi, i got billed the wrong price please refund me!!",payment
+F0405,Quick note: they took money after the ride failed can someone check. Thanks.,payment
+F0406,The QR scanner crashes every time I open it. Otherwise fine.,app
+F0407,"Not happy. I paid for a pass that didn't renew can someone check, and the ride history won't scan the code. Please fix!",payment
+F0408,Quick note: Station Road has no bikes every morning. Please fix!,station
+F0409,"Ugh, I paid for a ride I didn't take on my statement!!",payment
+F0410,"Hi, the pedal doesn't work near the market. Please fix!",bike
+F0411,"Hi, the map in the app won't scan the code on my phone. Please fix!",app
+F0412,fyi the qr scanner won't scan the code when i try to end the ride. please fix!,app
+F0413,"Ugh, my card was billed with no receipt via M-Pesa. :(",payment
+F0414,FYI Hilltop station was blocked by cars at 8am. Thanks.,station
+F0415,My card was billed for a pass that didn't renew on my statement. :(,payment
+F0416,The front brake squeaks near the market.,bike
+F0417,"not happy. the login screen crashes on my phone, and i paid a fee nobody explained.",app
+F0418,The dock at Park Gate had nowhere to park on Monday. Thanks.,station
+F0419,"honestly, they took money twice this month. so annoying.",payment
+F0420,FYI the notifications won't scan the code when I try to end the ride. Love the service though.,app
+F0421,"Ugh, my account was charged for a pass that didn't renew last week. :(",payment
+F0422,The login screen won't scan the code since the update. So annoying.,app
+F0423,FYI I got billed after the ride failed please refund me. Please fix!,payment
+F0424,"Ugh, the Riverside station is badly lit when I needed it. :(",station
+F0425,"Hi, the dock at Uni Square had a broken dock after work. So annoying.",station
+F0426,not happy. the unlock button shows the wrong station at the worst moment.,app
+F0427,Quick note: I paid the wrong price and nobody replied.,payment
+F0428,"FYI the front tyre was stuck after two minutes, and the app update is so slow!!",bike
+F0429,FYI the bell makes a grinding noise in the rain.,bike
+F0430,"Honestly, the back tyre makes a grinding noise after two minutes, and they took money for a ride I didn't take. Love the service though.",bike
+F0431,quick note: the riverside station needs more slots after work. otherwise fine.,station
+F0432,"Honestly, I was charged for a ride I didn't take on my statement. Love the service though.",payment
+F0433,"hi, the login screen won't scan the code on android. :(",app
+F0434,"FYI the pedal is broken this morning, and Hilltop station was blocked by cars. So annoying.",bike
+F0435,The dock at Uni Square has no bikes when I needed it. :(,station
+F0436,quick note: my card was billed for 3 hours instead of 20 minutes this month. love the service though.,payment
+F0437,FYI I got billed for a pass that didn't renew please refund me. Please fix!,payment
+F0438,The back tyre makes a grinding noise halfway up the hill. Please fix!,bike
+F0439,"Hi, the login screen logs me out on my phone, and Hilltop station had a broken dock. Thanks.",app
+F0440,The unlock button keeps freezing all week.,app
+F0441,My card was billed for a pass that didn't renew and nobody replied. Love the service though.,payment
+F0442,"Ugh, my card was billed the wrong price this month. Love the service though.",payment
+F0443,the riverside station needs more slots every morning. thanks.,station
+F0444,"Hi, the bell makes a grinding noise in the rain, and Hilltop station is badly lit. :(",bike
+F0445,The gear lever came off in the rain.,bike
+F0446,"Ugh, I got billed for 3 hours instead of 20 minutes this month. So annoying.",payment
+F0447,"ugh, the chain makes a grinding noise near the market. thanks.",bike
+F0448,"Ugh, the app update drains my battery every time I open it, and the dock at Park Gate is always full. Thanks.",app
+F0449,the map in the app shows the wrong station all week.,app
+F0450,Quick note: the dock near the market is always full after work.,station
+F0451,"Hi, I was charged after the ride failed via M-Pesa. Please fix!",payment
+F0452,"Honestly, the back tyre came off near the market. :(",bike
+F0453,"Quick note: my card was billed with no receipt via M-Pesa, and the light was stuck. Love the service though.",payment
+F0454,"ugh, the notifications logs me out at the worst moment. so annoying.",app
+F0455,the dock at uni square is badly lit again today. otherwise fine.,station
+F0456,"ugh, the login screen keeps freezing all week. please fix!",app
+F0457,i got billed twice on my statement!!,payment
+F0458,The unlock button logs me out all week. Love the service though.,app
+F0459,"Honestly, I was charged for a pass that didn't renew this month. So annoying.",payment
+F0460,Not happy. the basket is loose on bike 214. Please fix!,bike
+F0461,"honestly, station road needs more slots every morning. so annoying.",station
+F0462,i was charged the wrong price via m-pesa. love the service though.,payment
+F0463,Not happy. I was charged twice please refund me!!,payment
+F0464,the ride history won't load all week. please fix!,app
+F0465,"Honestly, my card was billed twice last week. So annoying.",payment
+F0466,"Hi, I paid for 3 hours instead of 20 minutes on my statement.",payment
+F0467,"Ugh, the Riverside station was empty when I needed it. Love the service though.",station
+F0468,The front tyre keeps slipping again.,bike
+F0469,"honestly, i got billed after the ride failed can someone check, and the riverside station was blocked by cars. so annoying.",payment
+F0470,"Hi, the basket makes a grinding noise on my ride home.",bike
+F0471,The dock near the market had a broken dock at 8am.,station
+F0472,"quick note: the unlock button won't scan the code when i try to end the ride, and i was charged for a ride i didn't take. :(",app
+F0473,FYI the unlock button won't load on my phone.,app
+F0474,"Not happy. Station Road had nowhere to park every morning, and my account was charged for a ride I didn't take. :(",station
+F0475,I got billed for 3 hours instead of 20 minutes can someone check. Love the service though.,payment
+F0476,Not happy. the front tyre felt wobbly on my ride home. Please fix!,bike
+F0477,"Hi, I paid after the ride failed please refund me. Otherwise fine.",payment
+F0478,"My account was charged the wrong price can someone check, and the app is so slow.",payment
+F0479,"The dock at Park Gate was blocked by cars at 8am, and the login screen logs me out.",station
+F0480,"Ugh, the saddle squeaks this morning, and they took money for 3 hours instead of 20 minutes. :(",bike
+F0481,"The front brake is loose halfway up the hill, and I got billed with no receipt. Love the service though.",bike
+F0482,The dock at Park Gate is always full again today. Thanks.,station
+F0483,"Hi, the ride history won't load all week, and the saddle keeps slipping. Love the service though.",app
+F0484,"Hi, the Riverside station is badly lit on Monday. Love the service though.",station
+F0485,The app drains my battery at the worst moment. So annoying.,app
+F0486,"The dock near the market needs more slots on Monday, and the front brake is loose. Thanks.",station
+F0487,Not happy. the Riverside station was blocked by cars at rush hour.,station
+F0488,the bell makes a grinding noise after two minutes. thanks.,bike
+F0489,"Honestly, the notifications keeps freezing on Android. Please fix!",app
+F0490,Not happy. the dock at Park Gate needs more slots at 8am. :(,station
+F0491,The back tyre makes a grinding noise on bike 214. Love the service though.,bike
+F0492,"hi, my account was charged the wrong price last week. :(",payment
+F0493,Quick note: Hilltop station had a broken dock when I needed it. So annoying.,station
+F0494,the app update keeps freezing at the worst moment. :(,app
+F0495,not happy. the qr scanner won't load every time i open it. otherwise fine.,app
+F0496,The dock near the market had a broken dock on Monday.,station
+F0497,The front tyre felt wobbly again!!,bike
+F0498,Quick note: the dock at Uni Square is badly lit when I needed it. Love the service though.,station
+F0499,"The app drains my battery every time I open it, and the saddle squeaks. :(",app
+F0500,The Riverside station has no bikes on Monday.,station
+F0501,"hi, the chain squeaks again.",bike
+F0502,"Honestly, the map in the app logs me out on Android. So annoying.",app
+F0503,"honestly, the back tyre keeps slipping again. please fix!",bike
+F0504,Not happy. I was charged after the ride failed this month.,payment
+F0505,Quick note: I got billed the wrong price last week. Otherwise fine.,payment
+F0506,FYI the map in the app crashes since the update.,app
+F0507,"Hi, the app update won't load all week.",app
+F0508,The login screen is so slow at the worst moment.,app
+F0509,"Not happy. the chain squeaks again, and I was charged a fee nobody explained. :(",bike
+F0510,i paid twice and nobody replied. so annoying.,payment
+F0511,"Hi, the pedal makes a grinding noise on bike 214. Otherwise fine.",bike
+F0512,not happy. the qr scanner logs me out when i try to end the ride. so annoying.,app
+F0513,Quick note: the map in the app shows the wrong station on my phone.,app
+F0514,"Not happy. my account was charged the wrong price last week, and the QR scanner drains my battery. Love the service though.",payment
+F0515,"The ride history won't scan the code at the worst moment, and the dock at Uni Square had nowhere to park. Love the service though.",app
+F0516,FYI the front tyre felt wobbly halfway up the hill.,bike
+F0517,I got billed for 3 hours instead of 20 minutes last week.,payment
+F0518,"Honestly, the login screen drains my battery since the update, and they took money the wrong price. Thanks.",app
+F0519,The saddle felt wobbly on bike 214. So annoying.,bike
+F0520,"Quick note: I paid twice and nobody replied, and the ride history crashes. Please fix!",payment
+F0521,The ride history won't scan the code at the worst moment!!,app
+F0522,"Honestly, the front tyre doesn't work on my ride home.",bike
+F0523,the front tyre squeaks on bike 214. so annoying.,bike
+F0524,"Quick note: the dock at Park Gate had nowhere to park again today, and the front brake makes a grinding noise.",station
+F0525,"Quick note: the QR scanner shows the wrong station every time I open it, and the pedal squeaks!!",app
+F0526,Not happy. they took money with no receipt please refund me.,payment
+F0527,FYI the bell doesn't work near the market. So annoying.,bike
+F0528,"Hi, the pedal keeps slipping on bike 214.",bike
+F0529,Quick note: my card was billed the wrong price and nobody replied.,payment
+F0530,The dock at Park Gate was blocked by cars at rush hour.,station
+F0531,The gear lever came off in the rain. So annoying.,bike
+F0532,"Honestly, Station Road is badly lit on Monday. Thanks.",station
+F0533,Not happy. the dock at Park Gate is badly lit when I needed it. Please fix!,station
+F0534,FYI the ride history logs me out all week.,app
+F0535,"quick note: the unlock button crashes every time i open it, and the dock at park gate is always full. so annoying.",app
+F0536,Hilltop station had a broken dock after work!!,station
+F0537,"Ugh, the saddle came off this morning.",bike
+F0538,"The basket felt wobbly in the rain, and my card was billed twice!!",bike
+F0539,The dock at Uni Square is always full when I needed it. Otherwise fine.,station
+F0540,"Ugh, the gear lever doesn't work again.",bike
+F0541,the front tyre keeps slipping again. :(,bike
+F0542,Quick note: they took money for a ride I didn't take can someone check. :(,payment
+F0543,I paid for a ride I didn't take last week. Love the service though.,payment
+F0544,The login screen is so slow since the update. Love the service though.,app
+F0545,"Hi, I was charged the wrong price and nobody replied, and the ride history is so slow. Please fix!",payment
+F0546,Quick note: the notifications crashes at the worst moment.,app
+F0547,The dock at Park Gate had a broken dock after work. Love the service though.,station
+F0548,"Ugh, the light doesn't work on my ride home. Otherwise fine.",bike
+F0549,The notifications won't scan the code when I try to end the ride.,app
+F0550,the notifications won't load all week. love the service though.,app
+F0551,"hi, they took money a fee nobody explained on my statement. otherwise fine.",payment
+F0552,Quick note: the dock near the market was empty again today.,station
+F0553,"hi, they took money a fee nobody explained and nobody replied.",payment
+F0554,The light is broken halfway up the hill.,bike
+F0555,They took money with no receipt can someone check. So annoying.,payment
+F0556,My account was charged for 3 hours instead of 20 minutes last week. Thanks.,payment
+F0557,FYI the pedal keeps slipping again. Otherwise fine.,bike
+F0558,quick note: hilltop station had a broken dock at rush hour. thanks.,station
+F0559,"Honestly, the Riverside station is always full every morning. Thanks.",station
+F0560,"Ugh, the app drains my battery every time I open it, and the dock near the market had a broken dock. Otherwise fine.",app
+F0561,I got billed for a pass that didn't renew can someone check. So annoying.,payment
+F0562,I got billed for a ride I didn't take please refund me. Love the service though.,payment
+F0563,"FYI the app update won't load on my phone, and they took money after the ride failed. Love the service though.",app
+F0564,FYI the front brake is loose on bike 214. So annoying.,bike
+F0565,FYI the dock at Park Gate was blocked by cars every morning. Otherwise fine.,station
+F0566,The chain squeaks halfway up the hill. Please fix!,bike
+F0567,Quick note: the pedal was flat near the market. Please fix!,bike
+F0568,"Honestly, the app update shows the wrong station when I try to end the ride, and the front brake felt wobbly.",app
+F0569,Not happy. the notifications drains my battery all week. Thanks.,app
+F0570,The front tyre was stuck again!!,bike
+F0571,"FYI the light is broken near the market, and the ride history won't load. :(",bike
+F0572,"Honestly, I paid for 3 hours instead of 20 minutes and nobody replied. :(",payment
+F0573,i got billed after the ride failed please refund me.,payment
+F0574,"Honestly, the front brake felt wobbly on bike 214.",bike
+F0575,"Ugh, the dock at Park Gate needs more slots on Monday. Thanks.",station
+F0576,Quick note: Station Road was empty after work. Please fix!,station
+F0577,"ugh, the dock near the market has no bikes again today.",station
+F0578,"Ugh, the dock at Uni Square was blocked by cars when I needed it, and the unlock button drains my battery.",station
+F0579,"Honestly, the app won't scan the code since the update. :(",app
+F0580,The gear lever was flat on my ride home. Love the service though.,bike
+F0581,my card was billed twice and nobody replied. love the service though.,payment
+F0582,"Hi, the front tyre squeaks this morning.",bike
+F0583,The chain is loose on bike 214. Love the service though.,bike
+F0584,They took money a fee nobody explained on my statement. Thanks.,payment
+F0585,not happy. the login screen shows the wrong station at the worst moment. love the service though.,app
+F0586,FYI my card was billed for a ride I didn't take please refund me.,payment
+F0587,Hilltop station was blocked by cars at rush hour!!,station
+F0588,"hi, the saddle was flat in the rain. love the service though.",bike
+F0589,The QR scanner logs me out on my phone!!,app
+F0590,I got billed for 3 hours instead of 20 minutes on my statement. Thanks.,payment
+F0591,"hi, i got billed for a pass that didn't renew this month.",payment
+F0592,The QR scanner keeps freezing on my phone. Thanks.,app
+F0593,my account was charged after the ride failed last week. otherwise fine.,payment
+F0594,"hi, the dock at uni square is badly lit again today.",station
+F0595,I paid the wrong price on my statement. Please fix!,payment
+F0596,The notifications shows the wrong station every time I open it. So annoying.,app
+F0597,"Honestly, the gear lever came off halfway up the hill.",bike
+F0598,"ugh, the light came off near the market.",bike
+F0599,FYI the front tyre is loose in the rain.,bike
+F0600,The saddle came off again. :(,bike
+F0601,Station Road had nowhere to park every morning.,station
+F0602,quick note: they took money with no receipt on my statement. please fix!,payment
+F0603,"The unlock button keeps freezing all week, and I was charged after the ride failed. Love the service though.",app
+F0604,"Quick note: the unlock button won't load on my phone, and Station Road has no bikes. Please fix!",app
+F0605,"FYI they took money twice this month, and the dock at Park Gate had nowhere to park.",payment
+F0606,fyi the pedal squeaks after two minutes.,bike
+F0607,The dock near the market needs more slots after work. Otherwise fine.,station
+F0608,the unlock button won't load every time i open it. so annoying.,app
+F0609,"ugh, the front tyre came off on bike 214. otherwise fine.",bike
+F0610,"Hi, the QR scanner is so slow on Android. So annoying.",app
+F0611,Not happy. the gear lever doesn't work in the rain. Otherwise fine.,bike
+F0612,Quick note: the front tyre doesn't work after two minutes.,bike
+F0613,The unlock button crashes on my phone.,app
+F0614,"Hi, the dock at Uni Square has no bikes again today. Please fix!",station
+F0615,"The dock at Uni Square is badly lit at 8am, and I got billed with no receipt.",station
+F0616,"Honestly, the front brake felt wobbly in the rain.",bike
+F0617,The Riverside station had nowhere to park when I needed it.,station
+F0618,"Not happy. the gear lever keeps slipping after two minutes, and my account was charged for 3 hours instead of 20 minutes. :(",bike
+F0619,Not happy. I was charged for 3 hours instead of 20 minutes and nobody replied. So annoying.,payment
+F0620,Not happy. the notifications crashes since the update.,app
+F0621,quick note: the ride history drains my battery when i try to end the ride!!,app
+F0622,Not happy. Hilltop station is badly lit when I needed it. Love the service though.,station
+F0623,not happy. the front brake is loose on bike 214. please fix!,bike
+F0624,I paid twice last week. Otherwise fine.,payment
+F0625,"Honestly, the bell makes a grinding noise this morning. Love the service though.",bike
+F0626,"Honestly, Station Road had nowhere to park when I needed it, and the light came off. Please fix!",station
+F0627,"The Riverside station is badly lit every morning, and the app update is so slow. :(",station
+F0628,my account was charged for 3 hours instead of 20 minutes this month. thanks.,payment
+F0629,"honestly, my account was charged a fee nobody explained can someone check. so annoying.",payment
+F0630,The pedal squeaks near the market. Thanks.,bike
+F0631,I paid for a pass that didn't renew last week. Thanks.,payment
+F0632,The QR scanner won't scan the code all week.,app
+F0633,The dock at Park Gate has no bikes at 8am. Otherwise fine.,station
+F0634,"Ugh, my card was billed the wrong price please refund me. Thanks.",payment
+F0635,The QR scanner logs me out at the worst moment. Please fix!,app
+F0636,FYI Hilltop station was empty again today. :(,station
+F0637,"Not happy. the map in the app crashes every time I open it, and the front brake keeps slipping. So annoying.",app
+F0638,"quick note: the map in the app logs me out when i try to end the ride, and hilltop station was blocked by cars. love the service though.",app
+F0639,"Not happy. Hilltop station has no bikes when I needed it, and the back tyre came off. :(",station
+F0640,"Honestly, the pedal came off this morning. Please fix!",bike
+F0641,"The basket keeps slipping on bike 214, and Station Road was blocked by cars.",bike
+F0642,"Honestly, my card was billed for 3 hours instead of 20 minutes last week. So annoying.",payment
+F0643,"Ugh, the dock at Park Gate was blocked by cars at 8am. Thanks.",station
+F0644,quick note: they took money twice can someone check!!,payment
+F0645,"Quick note: the Riverside station was empty every morning, and my account was charged for a pass that didn't renew!!",station
+F0646,Not happy. the pedal came off in the rain. Otherwise fine.,bike
+F0647,The dock at Park Gate was empty at rush hour. So annoying.,station
+F0648,The QR scanner crashes on Android.,app
+F0649,"Honestly, the ride history keeps freezing on my phone. :(",app
+F0650,Not happy. Station Road had a broken dock at rush hour.,station
+F0651,The dock at Park Gate was blocked by cars at rush hour.,station
+F0652,"Hi, the dock at Uni Square is badly lit again today. Love the service though.",station
+F0653,FYI the notifications crashes since the update. Otherwise fine.,app
+F0654,"Ugh, the light keeps slipping after two minutes. Please fix!",bike
+F0655,"Hi, the app update keeps freezing when I try to end the ride.",app
+F0656,Quick note: the dock at Uni Square had a broken dock again today.,station
+F0657,The pedal was flat on my ride home.,bike
+F0658,The login screen shows the wrong station at the worst moment!!,app
+F0659,"hi, the dock at park gate was empty every morning. love the service though.",station
+F0660,The dock at Uni Square had nowhere to park after work. Thanks.,station
+F0661,"honestly, the saddle was flat on bike 214.",bike
+F0662,"Hi, the app crashes on my phone. Thanks.",app
+F0663,"Ugh, my account was charged for 3 hours instead of 20 minutes and nobody replied.",payment
+F0664,"Honestly, the dock near the market needs more slots at rush hour.",station
+F0665,fyi the unlock button won't load since the update. thanks.,app
+F0666,"Hi, the Riverside station had nowhere to park after work, and the notifications is so slow.",station
+F0667,"Hi, the front tyre felt wobbly this morning. So annoying.",bike
+F0668,FYI the dock near the market was empty at rush hour. Please fix!,station
+F0669,"honestly, the riverside station had a broken dock at rush hour. please fix!",station
+F0670,"The notifications is so slow at the worst moment, and Hilltop station needs more slots.",app
+F0671,FYI my card was billed for a pass that didn't renew this month. Love the service though.,payment
+F0672,fyi the front tyre is broken in the rain. so annoying.,bike
+F0673,"Hi, the dock near the market has no bikes every morning. Love the service though.",station
+F0674,"Honestly, the back tyre doesn't work again. Love the service though.",bike
+F0675,Hilltop station was empty at rush hour. Love the service though.,station
+F0676,Not happy. I paid the wrong price on my statement.,payment
+F0677,Quick note: they took money after the ride failed via M-Pesa.,payment
+F0678,The notifications keeps freezing on Android!!,app
+F0679,Not happy. the chain keeps slipping after two minutes!!,bike
+F0680,My account was charged after the ride failed on my statement. Thanks.,payment
+F0681,"Ugh, the Riverside station had nowhere to park at rush hour. Please fix!",station
+F0682,"Hi, the back tyre makes a grinding noise near the market.",bike
+F0683,FYI they took money a fee nobody explained and nobody replied.,payment
+F0684,"The saddle makes a grinding noise near the market, and my card was billed a fee nobody explained.",bike
+F0685,"fyi the notifications logs me out when i try to end the ride, and i was charged twice.",app
+F0686,The chain makes a grinding noise halfway up the hill. Thanks.,bike
+F0687,Not happy. I paid the wrong price this month.,payment
+F0688,"hi, station road had nowhere to park after work. love the service though.",station
+F0689,"Honestly, the gear lever came off halfway up the hill. So annoying.",bike
+F0690,Not happy. the dock near the market is always full again today. Otherwise fine.,station
+F0691,"Hi, the dock at Uni Square has no bikes at rush hour.",station
+F0692,the saddle keeps slipping in the rain. please fix!,bike
+F0693,"hi, the map in the app shows the wrong station on android, and the dock at uni square has no bikes.",app
+F0694,Not happy. they took money a fee nobody explained please refund me. Love the service though.,payment
+F0695,Quick note: the app won't scan the code since the update!!,app
+F0696,i was charged a fee nobody explained can someone check. thanks.,payment
+F0697,"honestly, i was charged a fee nobody explained on my statement. love the service though.",payment
+F0698,fyi the back tyre is broken halfway up the hill. thanks.,bike
+F0699,Not happy. the back tyre came off again. Thanks.,bike
+F0700,Quick note: the notifications logs me out at the worst moment!!,app
+F0701,"Quick note: Station Road was blocked by cars at rush hour, and the saddle is broken. Otherwise fine.",station
+F0702,not happy. the pedal squeaks halfway up the hill.,bike
+F0703,"honestly, i was charged for a ride i didn't take this month, and the dock near the market has no bikes. please fix!",payment
+F0704,"Hi, the bell came off after two minutes, and I got billed the wrong price. Love the service though.",bike
+F0705,The pedal was flat on bike 214. Love the service though.,bike
+F0706,Hilltop station is always full at rush hour.,station
+F0707,The dock near the market had a broken dock at rush hour. :(,station
+F0708,"Hi, I was charged with no receipt and nobody replied. Love the service though.",payment
+F0709,"Hi, the map in the app is so slow when I try to end the ride, and the dock at Uni Square was empty. :(",app
+F0710,Quick note: Hilltop station has no bikes at rush hour. Thanks.,station
+F0711,"hi, the basket was flat again!!",bike
+F0712,not happy. the unlock button logs me out on my phone. thanks.,app
+F0713,FYI Station Road had a broken dock at 8am!!,station
+F0714,The dock at Park Gate is always full at rush hour.,station
+F0715,"Hi, the unlock button crashes on Android. Love the service though.",app
+F0716,Quick note: the dock near the market was blocked by cars after work. :(,station
+F0717,The QR scanner shows the wrong station since the update. So annoying.,app
+F0718,"Hi, the basket is broken after two minutes, and my card was billed the wrong price.",bike
+F0719,the chain was flat near the market!!,bike
+F0720,"fyi the gear lever came off near the market, and the app crashes!!",bike
+F0721,The Riverside station has no bikes again today. Please fix!,station
+F0722,The light squeaks in the rain. Love the service though.,bike
+F0723,"Hi, the unlock button keeps freezing every time I open it.",app
+F0724,"Hi, the front brake was stuck after two minutes.",bike
+F0725,The login screen drains my battery on my phone.,app
+F0726,The dock at Park Gate needs more slots when I needed it. Otherwise fine.,station
+F0727,FYI the ride history drains my battery since the update.,app
+F0728,"Hi, the pedal was stuck near the market. Otherwise fine.",bike
+F0729,fyi the app keeps freezing since the update. :(,app
+F0730,"Quick note: they took money for 3 hours instead of 20 minutes can someone check, and the login screen shows the wrong station. So annoying.",payment
+F0731,quick note: hilltop station was blocked by cars every morning. love the service though.,station
+F0732,"Hi, I got billed with no receipt please refund me, and the app update won't load. Thanks.",payment
+F0733,"Honestly, the app update won't load on Android, and I paid a fee nobody explained. :(",app
+F0734,Quick note: the ride history is so slow when I try to end the ride.,app
+F0735,Quick note: the saddle doesn't work halfway up the hill. So annoying.,bike
+F0736,"Quick note: Station Road was empty at 8am, and the front tyre makes a grinding noise. :(",station
+F0737,Not happy. I got billed after the ride failed on my statement. Thanks.,payment
+F0738,"The app won't load at the worst moment, and the basket is broken. Otherwise fine.",app
+F0739,"Ugh, the dock at Park Gate is badly lit after work. :(",station
+F0740,the map in the app is so slow every time i open it. love the service though.,app
+F0741,"Honestly, I was charged a fee nobody explained last week. :(",payment
+F0742,"Honestly, the notifications won't load every time I open it. Please fix!",app
+F0743,The chain was stuck near the market. So annoying.,bike
+F0744,The ride history won't load on my phone.,app
+F0745,"ugh, the notifications is so slow every time i open it!!",app
+F0746,"Ugh, I paid the wrong price via M-Pesa. Love the service though.",payment
+F0747,"Honestly, the bell was flat near the market. Please fix!",bike
+F0748,station road was blocked by cars at rush hour. :(,station
+F0749,"Ugh, the back tyre felt wobbly on bike 214. So annoying.",bike
+F0750,the riverside station has no bikes when i needed it.,station
+F0751,FYI the app logs me out all week!!,app
+F0752,"Honestly, the QR scanner drains my battery when I try to end the ride.",app
+F0753,Not happy. the QR scanner crashes since the update!!,app
+F0754,"not happy. hilltop station was empty after work, and the pedal felt wobbly. please fix!",station
+F0755,"Honestly, they took money a fee nobody explained via M-Pesa.",payment
+F0756,Quick note: the dock near the market was blocked by cars after work.,station
+F0757,FYI I got billed for 3 hours instead of 20 minutes please refund me. Otherwise fine.,payment
+F0758,"Honestly, the Riverside station was blocked by cars at 8am, and they took money for 3 hours instead of 20 minutes. :(",station
+F0759,fyi my card was billed a fee nobody explained and nobody replied.,payment
+F0760,The app crashes when I try to end the ride. Thanks.,app
+F0761,"Ugh, the dock at Uni Square was empty every morning. So annoying.",station
+F0762,Quick note: the bell is loose on bike 214.,bike
+F0763,The dock near the market was blocked by cars at rush hour. Love the service though.,station
+F0764,"FYI the unlock button logs me out on my phone, and my card was billed with no receipt!!",app
+F0765,the notifications shows the wrong station every time i open it. otherwise fine.,app
+F0766,Not happy. I got billed for a ride I didn't take and nobody replied. So annoying.,payment
+F0767,fyi the ride history logs me out on my phone. thanks.,app
+F0768,"Hi, the dock near the market is badly lit at 8am. Love the service though.",station
+F0769,I paid a fee nobody explained and nobody replied!!,payment
+F0770,quick note: hilltop station has no bikes again today. please fix!,station
+F0771,Quick note: my account was charged for 3 hours instead of 20 minutes on my statement. So annoying.,payment
+F0772,"Ugh, I got billed twice via M-Pesa. :(",payment
+F0773,"The QR scanner logs me out on Android, and the saddle was flat. Love the service though.",app
+F0774,Station Road is badly lit at 8am.,station
+F0775,"the front tyre is broken near the market, and my account was charged after the ride failed. please fix!",bike
+F0776,FYI Hilltop station had nowhere to park on Monday. Thanks.,station
+F0777,"Ugh, the Riverside station has no bikes after work, and I got billed the wrong price. Love the service though.",station
+F0778,FYI the basket doesn't work this morning!!,bike
+F0779,Not happy. the dock at Park Gate has no bikes again today. Otherwise fine.,station
+F0780,"I was charged for 3 hours instead of 20 minutes on my statement, and the chain squeaks. Please fix!",payment
+F0781,"Hi, I got billed with no receipt this month.",payment
+F0782,"Ugh, the app update keeps freezing on my phone!!",app
+F0783,"Honestly, the back tyre doesn't work on bike 214. Otherwise fine.",bike
+F0784,"FYI I got billed with no receipt last week, and Station Road is badly lit. So annoying.",payment
+F0785,FYI the dock near the market had nowhere to park after work.,station
+F0786,"The app update logs me out on my phone, and my card was billed for a ride I didn't take. So annoying.",app
+F0787,"hi, the login screen shows the wrong station when i try to end the ride. otherwise fine.",app
+F0788,"Hi, the basket squeaks halfway up the hill, and the map in the app won't scan the code. Thanks.",bike
+F0789,Not happy. the unlock button keeps freezing every time I open it. Please fix!,app
+F0790,"Hi, the notifications logs me out every time I open it.",app
+F0791,My card was billed a fee nobody explained please refund me!!,payment
+F0792,My account was charged after the ride failed can someone check.,payment
+F0793,"ugh, i got billed for 3 hours instead of 20 minutes on my statement. please fix!",payment
+F0794,"Ugh, Hilltop station needs more slots again today. Thanks.",station
+F0795,Not happy. my account was charged the wrong price last week.,payment
+F0796,FYI Hilltop station has no bikes again today.,station
+F0797,FYI the front brake doesn't work this morning. Otherwise fine.,bike
+F0798,The app keeps freezing at the worst moment. Love the service though.,app
+F0799,fyi the notifications keeps freezing all week. :(,app
+F0800,quick note: station road has no bikes again today. please fix!,station
