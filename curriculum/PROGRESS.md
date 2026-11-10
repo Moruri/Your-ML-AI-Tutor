@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Monday 2026-11-09 (Week 10, Day 1)
+**Last updated:** Tuesday 2026-11-10 (Week 10, Day 2)
 
 ## Summary
 
@@ -13,8 +13,8 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
 | 3 - Deep learning foundations | 049-060 | 12 / 12 | Complete |
 | 4 - Modern AI | 061-074 | 14 / 14 | Complete |
-| 5 - Projects and production intuition | 075-084 | 4 / 10 | In progress |
-| **Total** | **001-084** | **78 / 84** | |
+| 5 - Projects and production intuition | 075-084 | 6 / 10 | In progress |
+| **Total** | **001-084** | **80 / 84** | |
 
 ## Published lessons
 
@@ -98,11 +98,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-11-06 (Fri) | Week 9, Day 5 | 076 - Project structure, tests and reproducibility | [lessons/phase-5-projects/lesson-076-project-structure-tests-and-reproducibility](../lessons/phase-5-projects/lesson-076-project-structure-tests-and-reproducibility/README.md) |
 | 2026-11-09 (Mon) | Week 10, Day 1 | 077 - Experiment tracking | [lessons/phase-5-projects/lesson-077-experiment-tracking](../lessons/phase-5-projects/lesson-077-experiment-tracking/README.md) |
 | 2026-11-09 (Mon) | Week 10, Day 1 | 078 - Data versioning and feature pipelines | [lessons/phase-5-projects/lesson-078-data-versioning-and-feature-pipelines](../lessons/phase-5-projects/lesson-078-data-versioning-and-feature-pipelines/README.md) |
+| 2026-11-10 (Tue) | Week 10, Day 2 | 079 - Serving a model as an API | [lessons/phase-5-projects/lesson-079-serving-a-model-as-an-api](../lessons/phase-5-projects/lesson-079-serving-a-model-as-an-api/README.md) |
+| 2026-11-10 (Tue) | Week 10, Day 2 | 080 - Monitoring and drift | [lessons/phase-5-projects/lesson-080-monitoring-and-drift](../lessons/phase-5-projects/lesson-080-monitoring-and-drift/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-11-10 (Tue) | Week 10, Day 2 | 079 - Serving a model as an API; 080 - Monitoring and drift |
+| 2026-11-11 (Wed) | Week 10, Day 3 | 081 - Performance: making it fast enough; 082 - Capstone, part 1: choose and scope |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).
