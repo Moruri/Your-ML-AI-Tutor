@@ -2,7 +2,7 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Tuesday 2026-11-10 (Week 10, Day 2)
+**Last updated:** Wednesday 2026-11-11 (Week 10, Day 3)
 
 ## Summary
 
@@ -13,8 +13,8 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2 - Classical machine learning | 029-048 | 20 / 20 | Complete |
 | 3 - Deep learning foundations | 049-060 | 12 / 12 | Complete |
 | 4 - Modern AI | 061-074 | 14 / 14 | Complete |
-| 5 - Projects and production intuition | 075-084 | 6 / 10 | In progress |
-| **Total** | **001-084** | **80 / 84** | |
+| 5 - Projects and production intuition | 075-084 | 8 / 10 | In progress |
+| **Total** | **001-084** | **82 / 84** | |
 
 ## Published lessons
 
@@ -100,11 +100,13 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 2026-11-09 (Mon) | Week 10, Day 1 | 078 - Data versioning and feature pipelines | [lessons/phase-5-projects/lesson-078-data-versioning-and-feature-pipelines](../lessons/phase-5-projects/lesson-078-data-versioning-and-feature-pipelines/README.md) |
 | 2026-11-10 (Tue) | Week 10, Day 2 | 079 - Serving a model as an API | [lessons/phase-5-projects/lesson-079-serving-a-model-as-an-api](../lessons/phase-5-projects/lesson-079-serving-a-model-as-an-api/README.md) |
 | 2026-11-10 (Tue) | Week 10, Day 2 | 080 - Monitoring and drift | [lessons/phase-5-projects/lesson-080-monitoring-and-drift](../lessons/phase-5-projects/lesson-080-monitoring-and-drift/README.md) |
+| 2026-11-11 (Wed) | Week 10, Day 3 | 081 - Performance: making it fast enough | [lessons/phase-5-projects/lesson-081-performance-making-it-fast-enough](../lessons/phase-5-projects/lesson-081-performance-making-it-fast-enough/README.md) |
+| 2026-11-11 (Wed) | Week 10, Day 3 | 082 - Capstone, part 1: choose and scope | [lessons/phase-5-projects/lesson-082-capstone-part-1-choose-and-scope](../lessons/phase-5-projects/lesson-082-capstone-part-1-choose-and-scope/README.md) |
 
 ## Up next
 
 | Planned date | Day | Lessons |
 |--------------|-----|---------|
-| 2026-11-11 (Wed) | Week 10, Day 3 | 081 - Performance: making it fast enough; 082 - Capstone, part 1: choose and scope |
+| 2026-11-12 (Thu) | Week 10, Day 4 | 083 - Capstone, part 2: build and evaluate; 084 - Capstone, part 3: ship and reflect |
 
 Titles and goals for every lesson are in [CURRICULUM.md](CURRICULUM.md).

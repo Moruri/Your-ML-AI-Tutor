@@ -4,10 +4,10 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Tuesday 2026-11-10, Week 10 Day 2):**
+**Today's lessons (Wednesday 2026-11-11, Week 10 Day 3):**
 
-- [Lesson 079 - Serving a model as an API](lessons/phase-5-projects/lesson-079-serving-a-model-as-an-api/README.md)
-- [Lesson 080 - Monitoring and drift](lessons/phase-5-projects/lesson-080-monitoring-and-drift/README.md)
+- [Lesson 081 - Performance: making it fast enough](lessons/phase-5-projects/lesson-081-performance-making-it-fast-enough/README.md)
+- [Lesson 082 - Capstone, part 1: choose and scope](lessons/phase-5-projects/lesson-082-capstone-part-1-choose-and-scope/README.md)
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +81,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 5: inside the virtual environment, see below)
-python lessons/phase-5-projects/lesson-079-serving-a-model-as-an-api/lesson.py
-python lessons/phase-5-projects/lesson-080-monitoring-and-drift/lesson.py
+python lessons/phase-5-projects/lesson-081-performance-making-it-fast-enough/lesson.py
+python lessons/phase-5-projects/lesson-082-capstone-part-1-choose-and-scope/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
