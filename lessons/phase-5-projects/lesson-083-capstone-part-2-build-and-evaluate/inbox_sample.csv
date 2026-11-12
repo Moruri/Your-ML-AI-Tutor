@@ -1,0 +1,49 @@
+message_id,text,topic,kind
+R01,The bell on bike 2214 is missing,bike,plain
+R02,My front light doesn't work,bike,plain
+R03,Why was I charged a late fee?,payment,plain
+R04,I need a receipt for my company,payment,plain
+R05,The app won't let me sign in,app,plain
+R06,Ride history page is empty,app,plain
+R07,Market dock is full again,station,plain
+R08,Lakeside station has no bikes left,station,plain
+R09,chian keeps slipin off,bike,typos
+R10,the peddle is loose on mine,bike,typos
+R11,refnd still not recieved,payment,typos
+R12,mpesa deducted 2wice,payment,typos
+R13,ap crashes evry time i open it,app,typos
+R14,cant login since teh update,app,typos
+R15,docc at uni sq is jamed,station,typos
+R16,stashun by the market has no lights,station,typos
+R17,Breki za hii baiskeli hazishiki,bike,Swahili/Sheng
+R18,Kiti imevunjika boss,bike,Swahili/Sheng
+R19,Nimelipa lakini sijapata risiti,payment,Swahili/Sheng
+R20,Pesa yangu irudishwe tafadhali,payment,Swahili/Sheng
+R21,App inagoma kufunguka,app,Swahili/Sheng
+R22,Siwezi ku-login hata kidogo,app,Swahili/Sheng
+R23,Kituo cha Market kimejaa kabisa,station,Swahili/Sheng
+R24,Hakuna mwanga pale stage ya Lakeside,station,Swahili/Sheng
+R25,It makes a horrible grinding noise uphill,bike,no keyword
+R26,The handlebars are bent to one side,bike,no keyword
+R27,I was billed for a ride I never took,payment,no keyword
+R28,Two deductions for one trip yesterday,payment,no keyword
+R29,The QR scanner just shows a black square,app,no keyword
+R30,My password reset email never arrives,app,no keyword
+R31,Nowhere to return the bike near the mall,station,no keyword
+R32,The bay by the bus stop is blocked by a car,station,no keyword
+R33,"App works great, but the tyre was flat",bike,two topics
+R34,"The station was easy to find, sadly the brakes were dead",bike,two topics
+R35,"Bike was perfect, the charge was wrong though",payment,two topics
+R36,"Love the map in the app, but I paid twice",payment,two topics
+R37,"The bike is fine, the app keeps freezing",app,two topics
+R38,"Paid without a problem, then the screen froze mid-ride",app,two topics
+R39,"Great bike, shame every dock at Market was broken",station,two topics
+R40,"App said there was space, the station was full",station,two topics
+R41,"Lovely, a seat that won't stay up. Brilliant.",bike,sarcasm
+R42,Nothing says fun like a chain that falls off every block,bike,sarcasm
+R43,"Thanks for charging me three times, very generous",payment,sarcasm
+R44,Wow a refund that takes a month. Impressive.,payment,sarcasm
+R45,"Super helpful update, now nothing loads",app,sarcasm
+R46,Great to see the login screen for the tenth time today,app,sarcasm
+R47,Really enjoying the dark dock at night,station,sarcasm
+R48,Fantastic how the racks are always full at 8am,station,sarcasm

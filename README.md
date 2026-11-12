@@ -4,10 +4,12 @@ Friendly Python lessons that take you from "I've never written code" to
 building, evaluating and shipping machine learning and AI systems. One
 curriculum, taught in order, two short lessons every weekday.
 
-**Today's lessons (Wednesday 2026-11-11, Week 10 Day 3):**
+**Today's lessons (Thursday 2026-11-12, Week 10 Day 4), the last two of the course:**
 
-- [Lesson 081 - Performance: making it fast enough](lessons/phase-5-projects/lesson-081-performance-making-it-fast-enough/README.md)
-- [Lesson 082 - Capstone, part 1: choose and scope](lessons/phase-5-projects/lesson-082-capstone-part-1-choose-and-scope/README.md)
+- [Lesson 083 - Capstone, part 2: build and evaluate](lessons/phase-5-projects/lesson-083-capstone-part-2-build-and-evaluate/README.md)
+- [Lesson 084 - Capstone, part 3: ship and reflect](lessons/phase-5-projects/lesson-084-capstone-part-3-ship-and-reflect/README.md)
+
+All 84 lessons are now published. The course is complete.
 
 New here? Start at
 [Lesson 001 - Why ML/AI, and how we'll learn](lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/README.md)
@@ -81,8 +83,8 @@ python lessons/phase-0-python/lesson-001-why-ml-ai-and-how-we-learn/lesson.py
 python lessons/phase-0-python/lesson-002-python-warm-up-for-data-people/lesson.py
 
 # Run today's lessons (Phase 5: inside the virtual environment, see below)
-python lessons/phase-5-projects/lesson-081-performance-making-it-fast-enough/lesson.py
-python lessons/phase-5-projects/lesson-082-capstone-part-1-choose-and-scope/lesson.py
+python lessons/phase-5-projects/lesson-083-capstone-part-2-build-and-evaluate/lesson.py
+python lessons/phase-5-projects/lesson-084-capstone-part-3-ship-and-reflect/lesson.py
 ```
 
 Every `lesson.py` also runs from inside its own folder; the scripts find
